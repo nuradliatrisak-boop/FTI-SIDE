@@ -1,3 +1,11 @@
+# Part 1 dan Story V4 selesai
+
+Judul opening “Ikut Ormawa, Ikut Pusing?” dan “Kehidupan Ormawa FTI”. Arah zoom Ghivariel/Kinan dibetulkan sesuai pengguna. Foto Kak Aisyah source 101.8–103.3; paper mob 1090–1095, telah diperiksa pada frame hasil final sebelum dan sesudah batas tampil.
+
+Trailer 30 detik tanpa handle, klip organisasi menggantikan deg-degan, welcome seluruh frame empat peserta, CTA “Saksikan FTI SIDE selengkapnya!”, dissolve gambar dan fade audio. Visual trailer diperiksa pada detik 1.5, 21, dan 26.
+
+Part 1 1132.4 detik, 33972 frame, H.264 Full HD/AAC stereo; decode penuh lolos, sinkronisasi enam titik lag ~13.4 ms, korelasi 0.986–0.997. Story 1080×1920, 900 frame, decode lolos. Lint/TypeScript lolos. QC terbaru deliverables/PART-1-V4-QC.json. Subtitle dan Part 2 tetap sama; SHA-256 Part 2 cocok dengan commit sebelumnya. Cadangan lokal V3 di revisions/pre-user-part1-v4. Catatan di bawah adalah riwayat.
+
 # Part 1 V3 selesai; Part 2 tetap V2
 
 Revisi mengikuti 63 butir permintaan pengguna. Part 1 1132.4 detik, 33972 frame, Full HD H.264/AAC stereo. Decode penuh lulus; enam titik audio cocok dengan lag sekitar 13.4 ms dan korelasi 0.986–0.997. Trailer Story 30 detik, 1080×1920, 900 frame, decode lulus. Lint/TypeScript lulus.

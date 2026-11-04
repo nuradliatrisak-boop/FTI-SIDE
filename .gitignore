@@ -17,3 +17,6 @@ studio/public/audio/podcast-normalized.m4a
 # Temporary render/transcription logs and extracted revision audio.
 docs/revision-v3/*.log
 docs/revision-v3/*.wav
+
+docs/revision-v4/*.log
+docs/revision-v4/*.wav

@@ -1,3 +1,9 @@
+# FTI SIDE — Part 1 dan Story V4
+
+Revisi terbaru: judul “Ikut Ormawa, Ikut Pusing?”, arah zoom perkenalan dibetulkan, timing foto disesuaikan dialog, dan trailer diperhalus dengan welcome keempat peserta. Detail: CATATAN-PART-1-V4.md. QC terbaru: PART-1-V4-QC.json. Durasi Part 1 18:52.4; Story 30 detik. Part 2 tetap sama.
+
+Catatan versi sebelumnya dipertahankan di bawah untuk riwayat.
+
 # FTI SIDE — Part 1 V3; Part 2 V2
 
 Part 1 kini 18:52.4, dengan opening baru, koreksi pengguna, foto Kak Aisyah, screenshot paper mob, dan penutup pause. Trailer Story 30 detik: FTI-SIDE-PART-1-STORY.mp4. Bukti pemeriksaan terbaru Part 1: PART-1-V3-QC.json. Catatan: CATATAN-PART-1-V3.md. Subtitle dan transkrip Part 1 memakai timestamp final baru.

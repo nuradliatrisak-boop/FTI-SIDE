@@ -1,0 +1,95 @@
+{
+  "result": "passed",
+  "part1": {
+    "duration": 1132.4,
+    "frames": "33972",
+    "audioAlignment": [
+      {
+        "timeline": 60,
+        "source": 64.6,
+        "lag": 0.0133125,
+        "correlation": 0.9962608687878247
+      },
+      {
+        "timeline": 200,
+        "source": 204.6,
+        "lag": 0.0133125,
+        "correlation": 0.9970840801298495
+      },
+      {
+        "timeline": 600,
+        "source": 616.3,
+        "lag": 0.013375,
+        "correlation": 0.9937996056700202
+      },
+      {
+        "timeline": 750,
+        "source": 766.3,
+        "lag": 0.013375,
+        "correlation": 0.9954368531509229
+      },
+      {
+        "timeline": 850,
+        "source": 887.2,
+        "lag": 0.013375,
+        "correlation": 0.9861658405859245
+      },
+      {
+        "timeline": 1100,
+        "source": 1137.2,
+        "lag": 0.013375,
+        "correlation": 0.9925771934773141
+      }
+    ],
+    "fullDecode": "passed"
+  },
+  "story": {
+    "duration": "30.016000",
+    "width": 1080,
+    "height": 1920,
+    "fullDecode": "passed"
+  },
+  "part2": {
+    "sha256": "dd686b89bbf53ee11e78df63f68e8a0d0f94564fad6572ef05a475251664f824",
+    "matchesPreviousCommit": true
+  },
+  "visualChecks": {
+    "openingTitleFramesSeconds": [
+      3.8,
+      5.4
+    ],
+    "introZoomFramesSeconds": {
+      "Ghivariel": 16,
+      "Kinan": 17
+    },
+    "photoFinalTimelineSeconds": {
+      "aisyah": [
+        97.2,
+        98.7
+      ],
+      "shoutoutStarts": 98.8,
+      "paperMob": [
+        1052.8,
+        1057.8
+      ],
+      "cahayaResponseStarts": 1057.85
+    },
+    "storyVisualChecksSeconds": {
+      "title": 1.5,
+      "welcomeAllFour": 21,
+      "cta": 26
+    },
+    "storyFullDecode": "passed",
+    "lintAndTypeScript": "passed",
+    "captions": "unchanged from V3",
+    "part1PhotoFramesReviewedSeconds": [
+      97.8,
+      98.9,
+      1053.6,
+      1057.9
+    ],
+    "part1PhotoTimingVisualCheck": "passed",
+    "introZoomVisualCheck": "passed",
+    "storyAllFourAndTextVisualCheck": "passed"
+  }
+}

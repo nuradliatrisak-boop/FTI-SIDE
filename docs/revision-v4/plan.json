@@ -1,0 +1,43 @@
+{
+  "fps": 30,
+  "openingSeconds": 22.6,
+  "openingBumperSeconds": 6,
+  "openingTake": [
+    32.8,
+    49.4
+  ],
+  "bodySpans": [
+    [
+      27.0,
+      595.6
+    ],
+    [
+      607.1,
+      842.0
+    ],
+    [
+      862.7,
+      1161.6
+    ]
+  ],
+  "bodyDissolveSeconds": 0.2,
+  "introDissolveSeconds": 0.2,
+  "outroSeconds": 8,
+  "images": {
+    "aisyah": {
+      "sourceStart": 101.8,
+      "duration": 1.5
+    },
+    "paperMob": {
+      "sourceStart": 1090.0,
+      "duration": 5.0
+    }
+  },
+  "quote": {
+    "sourceStart": 475.74,
+    "duration": 3.25,
+    "text": "“Terbentur, terbentur, dan terbentuk.”"
+  },
+  "bodySeconds": 1102.0,
+  "durationSeconds": 1132.4
+}

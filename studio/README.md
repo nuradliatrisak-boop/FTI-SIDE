@@ -49,3 +49,8 @@ python scripts/qc_part1_v3.py
 ```
 
 Master sumber dan normalized main audio tidak dikemas ke Git. Opening normalized WAV disertakan. Export V3 menghasilkan nama sementara `FTI-SIDE-PART-1-V3.mp4`; setelah QC, salin ke nama final `FTI-SIDE-PART-1.mp4`.
+
+
+## Revisi Part 1 dan Story V4
+
+Komposisi pada file Part1RevisionV3.tsx/Part1StoryV3.tsx sudah mencakup revisi V4. Render opening ke `renders/part1-opening-v4.mp4` dan Story ke `renders/part1-story-v4.mp4`, lalu jalankan `python scripts/export_part1_user_revision_v4.py` dan `python scripts/qc_part1_v4.py`. Sesudah QC, salin MP4 sementara ke nama final di deliverables. Rencana dan timing foto terbaru pada docs/revision-v4/plan.json. Subtitle dan durasi episode tetap V3.

@@ -1,0 +1,39 @@
+{
+  "openingTitleFramesSeconds": [
+    3.8,
+    5.4
+  ],
+  "introZoomFramesSeconds": {
+    "Ghivariel": 16,
+    "Kinan": 17
+  },
+  "photoFinalTimelineSeconds": {
+    "aisyah": [
+      97.2,
+      98.7
+    ],
+    "shoutoutStarts": 98.8,
+    "paperMob": [
+      1052.8,
+      1057.8
+    ],
+    "cahayaResponseStarts": 1057.85
+  },
+  "storyVisualChecksSeconds": {
+    "title": 1.5,
+    "welcomeAllFour": 21,
+    "cta": 26
+  },
+  "storyFullDecode": "passed",
+  "lintAndTypeScript": "passed",
+  "captions": "unchanged from V3",
+  "part1PhotoFramesReviewedSeconds": [
+    97.8,
+    98.9,
+    1053.6,
+    1057.9
+  ],
+  "part1PhotoTimingVisualCheck": "passed",
+  "introZoomVisualCheck": "passed",
+  "storyAllFourAndTextVisualCheck": "passed"
+}
