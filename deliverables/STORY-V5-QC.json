@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "durationSeconds": 30.016,
+  "frames": 900,
+  "size": [
+    1080,
+    1920
+  ],
+  "audio": "AAC stereo",
+  "fullDecode": "passed",
+  "visualCheck": {
+    "timelineSeconds": 16,
+    "target": "Kinan, jaket cokelat",
+    "result": "passed"
+  },
+  "changeWindowSeconds": [
+    13,
+    19.3
+  ]
+}

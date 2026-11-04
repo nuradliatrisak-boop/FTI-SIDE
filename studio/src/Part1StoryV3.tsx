@@ -6,7 +6,7 @@ const shots = [
   {at: 0, duration: 4, start: 34.2, src: 'opening.mp4', x: '100%', text: 'IKUT ORMAWA,\nIKUT PUSING?', wide: false},
   {at: 4, duration: 4, start: 260, src: 'podcast.mp4', x: '35%', text: 'KENAPA IKUT\nORGANISASI?', wide: false},
   {at: 8, duration: 5, start: 474.7, src: 'podcast.mp4', x: '75%', text: '“TERBENTUR, TERBENTUR, DAN TERBENTUK.”', wide: false},
-  {at: 13, duration: 6.3, start: 666.8, src: 'podcast.mp4', x: '75%', text: 'PUSING?\nADA ASIKNYA JUGA!', wide: false},
+  {at: 13, duration: 6.3, start: 666.8, src: 'podcast.mp4', x: '22%', text: 'PUSING?\nADA ASIKNYA JUGA!', wide: false},
   {at: 19.3, duration: 4.5, start: 45, src: 'opening.mp4', x: '50%', text: 'WELCOME TO\nFTI SIDE!', wide: true},
   {at: 23.8, duration: 6.2, start: 48, src: 'opening.mp4', x: '50%', text: 'SAKSIKAN FTI SIDE\nSELENGKAPNYA!', wide: true},
 ];

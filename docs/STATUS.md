@@ -1,3 +1,7 @@
+# Trailer Story V5 selesai
+
+Crop bagian “Pusing? Ada asiknya juga!” detik 13–19.3 dibetulkan ke Kinan (jaket cokelat). Frame hasil detik 16 diperiksa. Trailer 30 detik, 900 frame, 1080×1920 H.264/AAC stereo; decode penuh dan lint/TypeScript lolos. QC: deliverables/STORY-V5-QC.json. Part 1 dan Part 2 tidak diubah. Riwayat di bawah.
+
 # Part 1 dan Story V4 selesai
 
 Judul opening “Ikut Ormawa, Ikut Pusing?” dan “Kehidupan Ormawa FTI”. Arah zoom Ghivariel/Kinan dibetulkan sesuai pengguna. Foto Kak Aisyah source 101.8–103.3; paper mob 1090–1095, telah diperiksa pada frame hasil final sebelum dan sesudah batas tampil.

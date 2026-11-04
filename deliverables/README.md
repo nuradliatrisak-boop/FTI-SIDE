@@ -1,3 +1,7 @@
+# Trailer Story V5
+
+Bagian “Pusing? Ada asiknya juga!” (13–19.3 detik) diarahkan ke Kinan. QC terbaru trailer: STORY-V5-QC.json. Part 1 tetap V4.
+
 # FTI SIDE — Part 1 dan Story V4
 
 Revisi terbaru: judul “Ikut Ormawa, Ikut Pusing?”, arah zoom perkenalan dibetulkan, timing foto disesuaikan dialog, dan trailer diperhalus dengan welcome keempat peserta. Detail: CATATAN-PART-1-V4.md. QC terbaru: PART-1-V4-QC.json. Durasi Part 1 18:52.4; Story 30 detik. Part 2 tetap sama.
