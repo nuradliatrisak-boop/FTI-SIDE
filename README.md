@@ -16,7 +16,13 @@ Komposisi `FTI-SIDE-PART-1` berdurasi sekitar 19:38; `FTI-SIDE-PART-2` sekitar 1
 
 ## Hasil dan unduhan
 
-Kode proyek, transkrip lengkap, SRT, catatan editing dan laporan QC tersedia di repository ini. Kedua MP4 final masing-masing lebih dari 1 GB, sehingga direncanakan sebagai aset **GitHub Releases**, bukan blob Git biasa. **Upload video ke Releases belum selesai.**
+Kedua MP4 final revisi subtitle V2 telah diunggah melalui **Git LFS**. Buka tautan GitHub di bawah dan gunakan unduhan file dari GitHub.
+
+- [Unduh Part 1 — 19:38](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-1.mp4)
+- [Unduh Part 2 — 18:32](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-2.mp4)
+- [Arsip proyek Remotion](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-REMOTION-PROJECT.zip)
+
+Untuk clone lokal, pasang Git LFS sebelum menjalankan `git clone`, kemudian jalankan `git lfs pull` jika video masih berupa pointer.
 
 - [Transkrip lengkap](deliverables/TRANSKRIP-LENGKAP.txt)
 - [Catatan episode](deliverables/CATATAN-EPISODE.md)
