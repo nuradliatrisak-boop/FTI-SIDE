@@ -1,0 +1,205 @@
+[
+  {
+    "start": 32.92,
+    "end": 37.96,
+    "text": " Hello guys, pernah ngasih kalian 24 jam itu enggak cukup buat kita semua?",
+    "words": [
+      {
+        "text": " Hello",
+        "start": 32.92,
+        "end": 33.64
+      },
+      {
+        "text": " guys,",
+        "start": 33.64,
+        "end": 33.94
+      },
+      {
+        "text": " pernah",
+        "start": 34.2,
+        "end": 34.58
+      },
+      {
+        "text": " ngasih",
+        "start": 34.58,
+        "end": 34.86
+      },
+      {
+        "text": " kalian",
+        "start": 34.86,
+        "end": 35.12
+      },
+      {
+        "text": " 24",
+        "start": 35.12,
+        "end": 35.68
+      },
+      {
+        "text": " jam",
+        "start": 35.68,
+        "end": 36.18
+      },
+      {
+        "text": " itu",
+        "start": 36.18,
+        "end": 36.379999999999995
+      },
+      {
+        "text": " enggak",
+        "start": 36.379999999999995,
+        "end": 36.62
+      },
+      {
+        "text": " cukup",
+        "start": 36.62,
+        "end": 36.98
+      },
+      {
+        "text": " buat",
+        "start": 36.98,
+        "end": 37.22
+      },
+      {
+        "text": " kita",
+        "start": 37.22,
+        "end": 37.5
+      },
+      {
+        "text": " semua?",
+        "start": 37.5,
+        "end": 37.96
+      }
+    ]
+  },
+  {
+    "start": 38.32,
+    "end": 42.68,
+    "text": " So disini kita akan kupas tuntas berat-berat, kelarin gue radya",
+    "words": [
+      {
+        "text": " So",
+        "start": 38.32,
+        "end": 38.58
+      },
+      {
+        "text": " disini",
+        "start": 38.58,
+        "end": 39.0
+      },
+      {
+        "text": " kita",
+        "start": 39.0,
+        "end": 39.16
+      },
+      {
+        "text": " akan",
+        "start": 39.16,
+        "end": 39.36
+      },
+      {
+        "text": " kupas",
+        "start": 39.36,
+        "end": 39.76
+      },
+      {
+        "text": " tuntas",
+        "start": 39.76,
+        "end": 40.14
+      },
+      {
+        "text": " berat",
+        "start": 40.14,
+        "end": 40.5
+      },
+      {
+        "text": "-berat,",
+        "start": 40.5,
+        "end": 41.16
+      },
+      {
+        "text": " kelarin",
+        "start": 41.36,
+        "end": 41.86
+      },
+      {
+        "text": " gue",
+        "start": 41.86,
+        "end": 42.0
+      },
+      {
+        "text": " radya",
+        "start": 42.0,
+        "end": 42.68
+      }
+    ]
+  },
+  {
+    "start": 42.68,
+    "end": 44.5,
+    "text": " Gue Gimaria, gue Kinan",
+    "words": [
+      {
+        "text": " Gue",
+        "start": 42.68,
+        "end": 42.92
+      },
+      {
+        "text": " Gimaria,",
+        "start": 42.92,
+        "end": 43.239999999999995
+      },
+      {
+        "text": " gue",
+        "start": 43.64,
+        "end": 43.84
+      },
+      {
+        "text": " Kinan",
+        "start": 43.84,
+        "end": 44.5
+      }
+    ]
+  },
+  {
+    "start": 44.5,
+    "end": 48.4,
+    "text": " Gue Caya, and welcome to FTA Sight",
+    "words": [
+      {
+        "text": " Gue",
+        "start": 44.5,
+        "end": 44.82
+      },
+      {
+        "text": " Caya,",
+        "start": 44.82,
+        "end": 45.34
+      },
+      {
+        "text": " and",
+        "start": 45.7,
+        "end": 45.84
+      },
+      {
+        "text": " welcome",
+        "start": 45.84,
+        "end": 46.14
+      },
+      {
+        "text": " to",
+        "start": 46.14,
+        "end": 46.6
+      },
+      {
+        "text": " FTA",
+        "start": 46.6,
+        "end": 47.84
+      },
+      {
+        "text": " Sight",
+        "start": 47.84,
+        "end": 48.4
+      }
+    ]
+  }
+]

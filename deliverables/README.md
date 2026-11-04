@@ -1,3 +1,9 @@
+# FTI SIDE — Part 1 V3; Part 2 V2
+
+Part 1 kini 18:52.4, dengan opening baru, koreksi pengguna, foto Kak Aisyah, screenshot paper mob, dan penutup pause. Trailer Story 30 detik: FTI-SIDE-PART-1-STORY.mp4. Bukti pemeriksaan terbaru Part 1: PART-1-V3-QC.json. Catatan: CATATAN-PART-1-V3.md. Subtitle dan transkrip Part 1 memakai timestamp final baru.
+
+Bagian di bawah merupakan catatan versi V2 untuk riwayat dan Part 2; durasi/penanda Part 1 lama sudah digantikan oleh V3.
+
 # FTI SIDE — hasil editing, revisi subtitle V2
 
 File hasil:

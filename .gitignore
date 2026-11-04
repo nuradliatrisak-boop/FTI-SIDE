@@ -13,3 +13,7 @@ revisions/
 
 # Regenerable audio master; render scripts recreate it from the original source.
 studio/public/audio/podcast-normalized.m4a
+
+# Temporary render/transcription logs and extracted revision audio.
+docs/revision-v3/*.log
+docs/revision-v3/*.wav

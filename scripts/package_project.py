@@ -21,6 +21,10 @@ with ZipFile(target,'w',compression=ZIP_DEFLATED,compresslevel=6) as z:
   p=root/'revisions/v1'/name
   if p.exists():z.write(p,p.relative_to(root))
  p=root/'studio/public/audio/fti-side-ident-original.wav';z.write(p,p.relative_to(root))
+ for folder in ['docs/revision-v3','studio/public/images']:
+  for p in (root/folder).rglob('*'):
+   if p.is_file() and p.suffix not in ['.log','.wav']:z.write(p,p.relative_to(root))
+ for p in (root/'studio/public/audio').glob('*v3*.wav'):z.write(p,p.relative_to(root))
  for p in (root/'deliverables').glob('*'):
   if p.is_file() and p.suffix in ['.srt','.txt','.csv','.md','.json']:z.write(p,p.relative_to(root))
 print(target,target.stat().st_size,'bytes')

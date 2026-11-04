@@ -29,3 +29,23 @@ Footage asli tersimpan di public/sources dan dikecualikan dari Git. Jangan mengu
 - `python ../scripts/package_project.py` membuat arsip source. Arsip tidak menyertakan footage, node_modules, virtualenv, audio master olahan atau model ML. Gunakan sumber Drive di ../docs/SOURCES.md dan skrip yang disertakan untuk mereproduksi aset besar.
 
 Perintah awal README merujuk studi desain pertama. Komposisi final editing tersedia sebagai FTI-SIDE-PART-1 dan FTI-SIDE-PART-2. Subtitle berbasis ASR dengan koreksi terpilih; lihat catatan keterbatasan bahasa pada README hasil.
+
+## Revisi Part 1 V3
+
+Part 1 memakai `Part1RevisionV3.tsx` dan data caption terpisah agar Part 2 tetap sama. Rencana potongan: `docs/revision-v3/plan.json`. Foto pengguna berada di `public/images`; musik dan efek baru dibuat oleh `scripts/make_part1_music_v3.py`.
+
+Dari akar repository:
+
+```sh
+python scripts/prepare_part1_user_revision_v3.py
+python scripts/make_part1_music_v3.py
+cd studio
+npx remotion render Part1-Opening-V3 ../renders/part1-opening-v3.mp4 --browser-executable=/usr/bin/chromium
+npx remotion render Part1-Pause-Outro-V3 ../renders/part1-outro-v3.mp4 --browser-executable=/usr/bin/chromium
+npx remotion render Part1-Instagram-Story-V3 ../deliverables/FTI-SIDE-PART-1-STORY.mp4 --browser-executable=/usr/bin/chromium
+cd ..
+python scripts/export_part1_user_revision_v3.py
+python scripts/qc_part1_v3.py
+```
+
+Master sumber dan normalized main audio tidak dikemas ke Git. Opening normalized WAV disertakan. Export V3 menghasilkan nama sementara `FTI-SIDE-PART-1-V3.mp4`; setelah QC, salin ke nama final `FTI-SIDE-PART-1.mp4`.

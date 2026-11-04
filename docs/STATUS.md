@@ -1,3 +1,11 @@
+# Part 1 V3 selesai; Part 2 tetap V2
+
+Revisi mengikuti 63 butir permintaan pengguna. Part 1 1132.4 detik, 33972 frame, Full HD H.264/AAC stereo. Decode penuh lulus; enam titik audio cocok dengan lag sekitar 13.4 ms dan korelasi 0.986–0.997. Trailer Story 30 detik, 1080×1920, 900 frame, decode lulus. Lint/TypeScript lulus.
+
+Foto Kak Aisyah dan screenshot paper mob dari tautan pengguna sudah digunakan. Opening memakai take baru dan musik baru; title episode transparan, perkenalan zoom, quote highlight, reset percakapan dipotong dengan dissolve AV, serta outro ilustrasi pause di atas podcast. Subtitle Part 1 tersendiri dan tidak memuat penanda kurang jelas. Rencana dan checklist pada docs/revision-v3. QC terbaru: deliverables/PART-1-V3-QC.json.
+
+Part 2 identik byte demi byte dengan commit sebelumnya (SHA-256 pada docs/revision-v3/part2-preserved.json). Cadangan Part 1 sebelumnya ada di revisions/pre-user-part1-v3. Riwayat V2 di bawah tetap dipertahankan sebagai dokumentasi.
+
 # FTI SIDE — revisi subtitle V2 selesai
 
 ## Video hasil revisi

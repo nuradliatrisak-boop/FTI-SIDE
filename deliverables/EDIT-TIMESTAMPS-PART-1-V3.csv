@@ -1,0 +1,7 @@
+segment,source_in,source_out,final_in,final_out
+opening_bumper_montage,,,0,6
+opening_new_take,32.8,49.4,6,22.6
+body_1,27.0,595.6,22.400,591.000
+body_2,607.1,842.0,590.800,825.700
+body_3,862.7,1161.6,825.500,1124.400
+pause_outro,1161.3,1161.3,1124.4,1132.4

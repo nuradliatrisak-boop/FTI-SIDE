@@ -1,0 +1,380 @@
+[
+  {
+    "number": 1,
+    "request": "openingnya kayaknya instrumennya kurang seru gituu kayak mau yg exciting tp ttp nyambung",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 2,
+    "request": "hmmm desainnya ai bgt kayak itu yg fti o side kok o sih???mungkin yg bagian itu bs ada efek animasi apa gtuuu yg seru atau jangan plain begitu",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 3,
+    "request": "setelah tulisan 24 jam masih kurang yg diawal  yg setelah lets talk ini juga kyanya kureng deh terlu kayak ppt paling animasi aja atau gausah pake itu atau apa ya backgroundua kureng ajaa ngerasanya paham ga kayak ai bgt ga seru",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 4,
+    "request": "trs masuk ke bagian kenapa ikut organisasi jg kureng backgroundua kenapa ga transparan aja gausah biru kayak saya ngerasa so far kaku gitu lohh dan kayak ai ppt",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 5,
+    "request": "itu sesi ya bukan seri itu di subtitlenya blgnya seri",
+    "status": "implemented",
+    "evidence": "Opening lama diganti take baru; bagian seri lama tidak digunakan."
+  },
+  {
+    "number": 6,
+    "request": "nah pas sesi perkenalan satu2 sy mau kayak seru gt jd kayak pas kenalin itu di zoom gtu loh ke orangnya paham ga sama ada backsound yg seru tp ga norak paham ga tp ttp clear",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 7,
+    "request": "dan pas welcome to fti side itu jg jadiin seru gt ada backdound atau font apa gt trsn nnt trasisi apa gttt paham gak",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 8,
+    "request": "oiya satuhal yg sy lupa itu kenapa pake pembukaan pake yg lama?harusnya dari kata2 24 hours yg dblg Nadya smpe ke perkenalan smpe ke welcome to fti side itu pake klip yg baru yang ada di link opening paham ga krna itu yg lama footage Utama itu di awal msh kita setup setup lampu jd keliatannya ga bagus sehingga kita pake clip opening link yg satunya paham gaaa",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 9,
+    "request": "trs kalopun udah diganti,sy mau kalo msh keliatan setup lampu coba diakalin apa gt.tp kalo gabisa diakalin gapapa",
+    "status": "implemented",
+    "evidence": "Take opening mulai 32.8 detik, setelah persiapan lampu."
+  },
+  {
+    "number": 10,
+    "request": "yg kata puya di subtitle abis telah itu abis kelas harusnyaaaa",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 11,
+    "request": "pas Nadya blg ngapain si pu di perpus, itu bukan pu tp \"puy\"",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 12,
+    "request": "kalo ada dirasa ucapan kurang jelas gausah ditampilin ke subtitle gitu jd biarin aja gausah ada subtitlenya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 13,
+    "request": "nah itu waka bem bukan gt tulisannya WAKABEM(WAKIL KETUA BEM) sebernya gituuu",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 14,
+    "request": "nah itu yg subtitlr tulisannya siapa tua wakabemnya harusnya \"siapa tuh wakabemnyaa?\"",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 15,
+    "request": "nah setelahnya mereka bilang \" ka aisyah dong\" nah itu km nulisnya blgnya kurang jelas",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 16,
+    "request": "nah pas ghivariel blg nanti ada mukanya tampilin mukanya ka aisyah dari gambar terlampir smbil ada backsoundnya seru, tp janhan kaku2 pas nampilin foto ka aisyah paham gaaaaa",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 17,
+    "request": "di subtitle itu tulisannya harusnya bukan kak isha, tapi kak aisyah",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 18,
+    "request": "Nadya bukan blg \"gue bangunnya cepet\" tapi telat",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 19,
+    "request": "kalo ada kata2 kutipan bagus dari mereka itu di highlight aja paham ga jd kayak di perjelas gt tulisannya mungkin ditengah jgn di subtile samaai ada tanda kutpnya paham ga(KALO ADA)",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 20,
+    "request": "NYONTEK NYONTOK bukan nyuntek-nyuntek",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 21,
+    "request": "pas Nadya blg pui kenapa pui, itu tulisannya puy bukan pui",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 22,
+    "request": "bukan bidiem di bae harusnya diem diem bae",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 23,
+    "request": "itu kinan blg takut2 adek takut, trs break hbs tu bru nad blg coba abang kinan gt jd subtitlenya jgn nyambung gt",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 24,
+    "request": "yg subtitle ga tongkorngan apus aja",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 25,
+    "request": "gak usah bukan gak usaha",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 26,
+    "request": "ghivariel blg sebelumnya kenalin diri lagi bukan nalirin diri lagi",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 27,
+    "request": "kabinet membara bukan pembara",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 28,
+    "request": "dan menurut gue bukan mood gue",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 29,
+    "request": "kabemnya bukan kabimnya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 30,
+    "request": "abang axellyano bukan axeliano",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 31,
+    "request": "kita dari Teknik industry bukan kita ada di Teknik industry",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 32,
+    "request": "cahaya bukan blg syukurlah kamu tuh litany tapi syukur alhamdulillah",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 33,
+    "request": "extrovert parah bukan ekstra parah",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 34,
+    "request": "loker bukan locker",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 35,
+    "request": "gatau sih gitu bukan gita",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 36,
+    "request": "proses apa sih ler bukan len",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 37,
+    "request": "jatah bukan jatahan",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 38,
+    "request": "jatohnya kyak liburan bukan jatanya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 39,
+    "request": "nah td tu seinget sy sebelum ngomong pasti kan kalua misalkan ikut ormawa itu kayak ada bagian yg di cut sy ngerasa ga smooth gt loh kayak tb2 patah paham ga terllau langsung gt paham gaaaaa",
+    "status": "implemented",
+    "evidence": "docs/revision-v3/plan.json: potong source 595.6–607.1 dan 842–862.7; dissolve AV 0.2 detik."
+  },
+  {
+    "number": 40,
+    "request": "mahasiswa ya pagi.. itu bukan pagi tp bagi gue sendiri gitu",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 41,
+    "request": "ntah ya sy mikirnya yg pas mereka kayak jeng jeng jenge sebelum cahaya blg bisa lomba akademik itu kek ada sound paham ga yg relate ada tu, cmn kalo ga cocok gausah",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 42,
+    "request": "nah setelah doain kami sukses tu itu kan jeda ya dan Nadya kayak ngulang gt paham ga msh blg ntr dlu pokoknya skip aja smpe yg Nadya blg pernah gasi lu ngebayangin   sesuatu  , inget itu ada trnasisnya apa gt jangan kayak td shock ttb patahan gtu paha gaaaaaaa. apa ulang2nya skip aja ya yg pas nad blg ulang ulang itu",
+    "status": "implemented",
+    "evidence": "docs/revision-v3/plan.json: potong source 595.6–607.1 dan 842–862.7; dissolve AV 0.2 detik."
+  },
+  {
+    "number": 43,
+    "request": "nah itu pas Nadya nnyai itu aku pernah disitu diposisimu itu kayak di subnya ada kayak emot lagu paham ga nandain itu lagu paham gaa",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 44,
+    "request": "nah pas kinan blg itu di subnya apa yg kita lakuin itu bukan itu tapi hal yg gue lakuin",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 45,
+    "request": "nyuruh bukan nyurus",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 46,
+    "request": "salting bukan saltinggal",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 47,
+    "request": "jatuhnya bukan menjatuhnya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 48,
+    "request": "kesampaian bukan kesampaikan",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 49,
+    "request": "bukan jujur, gue ada Gerakan parah tapi gue deg degan parah",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 50,
+    "request": "bukan bagnya gede banget tapi micnya gede banget",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 51,
+    "request": "nah pas Nadya blg kalian kalo mau liat ada di reels bem fti saya mau tampilin tampilan postingan paper mobnya dr bem fti nnti sy lampirkan gambarnya trs tambahin Instagram @bemftiusakti @pkkmbftitrisakti yg ada efek2 klik postingannya gt bukan efek sih tp emot ya paham gaaa",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 52,
+    "request": "bukang mabang mabangnya tp maba mabanya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 53,
+    "request": "pancangan hapus aja",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 54,
+    "request": "bukan terutama duan tapi terutama 26",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 55,
+    "request": "pecat suanya  hapus aja",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 56,
+    "request": "betul bukan tentu yg pas kinan blg",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 57,
+    "request": "pendaftarannya bukan pendakparannya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 58,
+    "request": "Teknik industri bukan teknikan industry",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 59,
+    "request": "pecah telor bukan pecatlor",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 60,
+    "request": "Angkatan kinan bukan Angkatan akhirnya",
+    "status": "implemented",
+    "evidence": "studio/src/data/part1-captions-v3.json; part1-pages-v3.json"
+  },
+  {
+    "number": 61,
+    "request": "nah pas dah selesai jangan tbtb backgroubd biru langsung aja kayak penasaran selanjutnyaa nah itu kayak ada emot ngeklik pause paham ga jd bakgorundnya ttp lg podcast bukan bitu tp ada ilustrasi ngeklik pause paham ga trs penasaran selanjutnya saksikan itu.. part 2 trs ada backsoundnya gt paham gaaaaaa",
+    "status": "implemented",
+    "evidence": "studio/src/Part1RevisionV3.tsx; scripts/export_part1_user_revision_v3.py"
+  },
+  {
+    "number": 62,
+    "request": "bikini juga sy mau ada trailer buat kayak part 1 ini jd buat di story ig jd kayak paham kan yg seru pokoknya saksikan fti side gt dari klip2 podcastnya paham gaaaaaa",
+    "status": "implemented",
+    "evidence": "studio/src/Part1StoryV3.tsx; Story 1080×1920, 30 detik."
+  },
+  {
+    "number": 63,
+    "request": "buat yg revisi part 2 nanti yaaaaaa",
+    "status": "preserved",
+    "evidence": "Part 2 dan data caption bersama tidak diubah."
+  }
+]
