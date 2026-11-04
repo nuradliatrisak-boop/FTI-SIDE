@@ -1,0 +1,12 @@
+episode,timeline_start,timeline_end,source,source_start,source_end,decision
+1,00:00:00.000,00:00:16.000,opening.mp4,montage,montage,Opening motion graphics Remotion
+1,00:00:16.000,00:00:20.000,Part-1-Card,,,Kartu episode
+1,00:00:20.000,00:10:11.800,podcast.mp4,00:00:03.800,00:09:55.600,Perkenalan dan alasan organisasi
+1,00:10:11.800,00:19:26.300,podcast.mp4,00:10:07.100,00:19:21.600,Ekspektasi realita dan pengalaman baru
+1,00:19:26.300,00:19:31.300,Next-Episode,,,Teaser Part 2
+1,00:19:31.300,00:19:38.300,Closing,,,Closing
+2,00:00:00.000,00:00:16.000,opening.mp4,montage,montage,Opening motion graphics Remotion
+2,00:00:16.000,00:00:20.000,Part-2-Card,,,Kartu episode
+2,00:00:20.000,00:12:12.000,podcast.mp4,00:19:21.600,00:31:13.600,Perubahan diri kepemimpinan dan istirahat
+2,00:12:12.000,00:18:24.700,podcast.mp4,00:31:47.200,00:37:59.900,Kesan pesan dan penutup asli
+2,00:18:24.700,00:18:31.700,Closing,,,Closing

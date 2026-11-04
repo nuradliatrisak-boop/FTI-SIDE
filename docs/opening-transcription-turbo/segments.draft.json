@@ -1,0 +1,44 @@
+[
+  {
+    "start": 26.15,
+    "end": 29.63,
+    "text": " Kamera, roll in.",
+    "avg_logprob": -0.8712929487228394,
+    "no_speech_prob": 1.3579935786989239e-11,
+    "words": [
+      {
+        "word": " Kamera,",
+        "start": 26.15,
+        "end": 27.55,
+        "probability": 0.015889564529061317
+      },
+      {
+        "word": " roll",
+        "start": 27.55,
+        "end": 28.95,
+        "probability": 0.9269663691520691
+      },
+      {
+        "word": " in.",
+        "start": 28.95,
+        "end": 29.63,
+        "probability": 0.6010904312133789
+      }
+    ]
+  },
+  {
+    "start": 30.41,
+    "end": 30.93,
+    "text": " Aksion",
+    "avg_logprob": -1.1619333028793335,
+    "no_speech_prob": 1.5338464873226876e-11,
+    "words": [
+      {
+        "word": " Aksion",
+        "start": 30.41,
+        "end": 30.93,
+        "probability": 0.4172786474227905
+      }
+    ]
+  }
+]

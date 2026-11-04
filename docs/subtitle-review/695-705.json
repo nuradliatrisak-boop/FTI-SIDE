@@ -1,0 +1,153 @@
+[
+  {
+    "start": 695.0,
+    "end": 704.84,
+    "text": " Ada harapan yang besar banget. Cuman untuk realitanya so fun. So it's a lot of new experiences yang gue rasain dan gue sangat enjoy.",
+    "words": [
+      {
+        "word": " Ada",
+        "start": 695.0,
+        "end": 695.54,
+        "probability": 0.2043832391500473
+      },
+      {
+        "word": " harapan",
+        "start": 695.54,
+        "end": 696.0,
+        "probability": 0.9958187937736511
+      },
+      {
+        "word": " yang",
+        "start": 696.0,
+        "end": 696.16,
+        "probability": 0.9694415926933289
+      },
+      {
+        "word": " besar",
+        "start": 696.16,
+        "end": 696.46,
+        "probability": 0.9943144917488098
+      },
+      {
+        "word": " banget.",
+        "start": 696.46,
+        "end": 696.68,
+        "probability": 0.940848708152771
+      },
+      {
+        "word": " Cuman",
+        "start": 697.2,
+        "end": 697.76,
+        "probability": 0.8237447142601013
+      },
+      {
+        "word": " untuk",
+        "start": 697.76,
+        "end": 697.94,
+        "probability": 0.9748693108558655
+      },
+      {
+        "word": " realitanya",
+        "start": 697.94,
+        "end": 698.5,
+        "probability": 0.9850048820177714
+      },
+      {
+        "word": " so",
+        "start": 698.5,
+        "end": 698.84,
+        "probability": 0.6737288236618042
+      },
+      {
+        "word": " fun.",
+        "start": 698.84,
+        "end": 699.2,
+        "probability": 0.9981008172035217
+      },
+      {
+        "word": " So",
+        "start": 699.62,
+        "end": 699.78,
+        "probability": 0.8956107497215271
+      },
+      {
+        "word": " it's",
+        "start": 699.78,
+        "end": 701.62,
+        "probability": 0.6816839873790741
+      },
+      {
+        "word": " a",
+        "start": 701.62,
+        "end": 701.72,
+        "probability": 0.9967457056045532
+      },
+      {
+        "word": " lot",
+        "start": 701.72,
+        "end": 701.82,
+        "probability": 0.9992049336433411
+      },
+      {
+        "word": " of",
+        "start": 701.82,
+        "end": 702.0,
+        "probability": 0.9972051978111267
+      },
+      {
+        "word": " new",
+        "start": 702.0,
+        "end": 702.14,
+        "probability": 0.9888094067573547
+      },
+      {
+        "word": " experiences",
+        "start": 702.14,
+        "end": 702.76,
+        "probability": 0.9961180686950684
+      },
+      {
+        "word": " yang",
+        "start": 702.76,
+        "end": 703.1,
+        "probability": 0.7687726616859436
+      },
+      {
+        "word": " gue",
+        "start": 703.1,
+        "end": 703.26,
+        "probability": 0.8744111061096191
+      },
+      {
+        "word": " rasain",
+        "start": 703.26,
+        "end": 703.8,
+        "probability": 0.9964221715927124
+      },
+      {
+        "word": " dan",
+        "start": 703.8,
+        "end": 704.08,
+        "probability": 0.2849302887916565
+      },
+      {
+        "word": " gue",
+        "start": 704.08,
+        "end": 704.36,
+        "probability": 0.9969472289085388
+      },
+      {
+        "word": " sangat",
+        "start": 704.36,
+        "end": 704.58,
+        "probability": 0.9988238215446472
+      },
+      {
+        "word": " enjoy.",
+        "start": 704.58,
+        "end": 704.84,
+        "probability": 0.956903338432312
+      }
+    ]
+  }
+]

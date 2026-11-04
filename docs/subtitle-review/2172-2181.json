@@ -1,0 +1,207 @@
+[
+  {
+    "start": 2172.06,
+    "end": 2180.98,
+    "text": " Mungkin dua empat juga. Yang nextnya mau lanjut lagi. Jadi kadep, jadi kadep, jadi kadep. I don't know, I don't know, I don't know, I don't know, I don't know, I don't know.",
+    "words": [
+      {
+        "word": " Mungkin",
+        "start": 2172.06,
+        "end": 2172.52,
+        "probability": 0.7718809843063354
+      },
+      {
+        "word": " dua",
+        "start": 2172.52,
+        "end": 2172.7,
+        "probability": 0.0836753323674202
+      },
+      {
+        "word": " empat",
+        "start": 2172.7,
+        "end": 2172.98,
+        "probability": 0.9396314918994904
+      },
+      {
+        "word": " juga.",
+        "start": 2172.98,
+        "end": 2173.3,
+        "probability": 0.7324016094207764
+      },
+      {
+        "word": " Yang",
+        "start": 2173.56,
+        "end": 2174.02,
+        "probability": 0.939994752407074
+      },
+      {
+        "word": " nextnya",
+        "start": 2174.02,
+        "end": 2174.36,
+        "probability": 0.7756683230400085
+      },
+      {
+        "word": " mau",
+        "start": 2174.36,
+        "end": 2174.62,
+        "probability": 0.9674866199493408
+      },
+      {
+        "word": " lanjut",
+        "start": 2174.62,
+        "end": 2175.08,
+        "probability": 0.9703516662120819
+      },
+      {
+        "word": " lagi.",
+        "start": 2175.08,
+        "end": 2175.32,
+        "probability": 0.9880508184432983
+      },
+      {
+        "word": " Jadi",
+        "start": 2175.54,
+        "end": 2175.7,
+        "probability": 0.8095142841339111
+      },
+      {
+        "word": " kadep,",
+        "start": 2175.7,
+        "end": 2176.18,
+        "probability": 0.4946361730496089
+      },
+      {
+        "word": " jadi",
+        "start": 2176.24,
+        "end": 2176.32,
+        "probability": 0.8295698761940002
+      },
+      {
+        "word": " kadep,",
+        "start": 2176.32,
+        "end": 2176.8,
+        "probability": 0.9917841553688049
+      },
+      {
+        "word": " jadi",
+        "start": 2176.84,
+        "end": 2176.94,
+        "probability": 0.6217801570892334
+      },
+      {
+        "word": " kadep.",
+        "start": 2176.94,
+        "end": 2177.38,
+        "probability": 0.9852009018262228
+      },
+      {
+        "word": " I",
+        "start": 2177.64,
+        "end": 2177.64,
+        "probability": 0.46085256338119507
+      },
+      {
+        "word": " don't",
+        "start": 2177.64,
+        "end": 2178.04,
+        "probability": 0.9790056049823761
+      },
+      {
+        "word": " know,",
+        "start": 2178.04,
+        "end": 2178.3,
+        "probability": 0.9980069994926453
+      },
+      {
+        "word": " I",
+        "start": 2178.38,
+        "end": 2178.46,
+        "probability": 0.5698493719100952
+      },
+      {
+        "word": " don't",
+        "start": 2178.46,
+        "end": 2178.6,
+        "probability": 0.9978719651699066
+      },
+      {
+        "word": " know,",
+        "start": 2178.6,
+        "end": 2178.82,
+        "probability": 0.9959977865219116
+      },
+      {
+        "word": " I",
+        "start": 2178.94,
+        "end": 2178.96,
+        "probability": 0.40977412462234497
+      },
+      {
+        "word": " don't",
+        "start": 2178.96,
+        "end": 2178.96,
+        "probability": 0.9882812201976776
+      },
+      {
+        "word": " know,",
+        "start": 2178.96,
+        "end": 2178.96,
+        "probability": 0.9928746223449707
+      },
+      {
+        "word": " I",
+        "start": 2178.96,
+        "end": 2178.96,
+        "probability": 0.6896151304244995
+      },
+      {
+        "word": " don't",
+        "start": 2178.96,
+        "end": 2179.14,
+        "probability": 0.9495811760425568
+      },
+      {
+        "word": " know,",
+        "start": 2179.14,
+        "end": 2179.18,
+        "probability": 0.9864267706871033
+      },
+      {
+        "word": " I",
+        "start": 2179.24,
+        "end": 2179.24,
+        "probability": 0.8411322832107544
+      },
+      {
+        "word": " don't",
+        "start": 2179.24,
+        "end": 2179.6,
+        "probability": 0.9394907355308533
+      },
+      {
+        "word": " know,",
+        "start": 2179.6,
+        "end": 2179.6,
+        "probability": 0.9887675642967224
+      },
+      {
+        "word": " I",
+        "start": 2179.6,
+        "end": 2179.72,
+        "probability": 0.8723382353782654
+      },
+      {
+        "word": " don't",
+        "start": 2179.72,
+        "end": 2180.98,
+        "probability": 0.916903555393219
+      },
+      {
+        "word": " know.",
+        "start": 2180.98,
+        "end": 2180.98,
+        "probability": 0.9896255135536194
+      }
+    ]
+  }
+]

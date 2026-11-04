@@ -1,0 +1,99 @@
+[
+  {
+    "start": 205.54,
+    "end": 210.32,
+    "text": " Puy, kenapa nih Puy? Bidiem-bidiem baik. Ya kenapa? Gua mikir nih, mikir apa sih?",
+    "words": [
+      {
+        "word": " Puy,",
+        "start": 205.54,
+        "end": 205.98,
+        "probability": 0.32021963596343994
+      },
+      {
+        "word": " kenapa",
+        "start": 206.06,
+        "end": 206.32,
+        "probability": 0.9717256724834442
+      },
+      {
+        "word": " nih",
+        "start": 206.32,
+        "end": 206.4,
+        "probability": 0.6067984700202942
+      },
+      {
+        "word": " Puy?",
+        "start": 206.4,
+        "end": 206.66,
+        "probability": 0.7633196711540222
+      },
+      {
+        "word": " Bidiem",
+        "start": 206.74,
+        "end": 207.0,
+        "probability": 0.352233350276947
+      },
+      {
+        "word": "-bidiem",
+        "start": 207.0,
+        "end": 207.22,
+        "probability": 0.6477973610162735
+      },
+      {
+        "word": " baik.",
+        "start": 207.22,
+        "end": 207.62,
+        "probability": 0.4653865396976471
+      },
+      {
+        "word": " Ya",
+        "start": 207.76,
+        "end": 207.96,
+        "probability": 0.3019280731678009
+      },
+      {
+        "word": " kenapa?",
+        "start": 207.96,
+        "end": 208.48,
+        "probability": 0.936692863702774
+      },
+      {
+        "word": " Gua",
+        "start": 208.68,
+        "end": 208.9,
+        "probability": 0.662339523434639
+      },
+      {
+        "word": " mikir",
+        "start": 208.9,
+        "end": 209.22,
+        "probability": 0.9963966310024261
+      },
+      {
+        "word": " nih,",
+        "start": 209.22,
+        "end": 209.44,
+        "probability": 0.9719457626342773
+      },
+      {
+        "word": " mikir",
+        "start": 209.68,
+        "end": 210.0,
+        "probability": 0.7563189268112183
+      },
+      {
+        "word": " apa",
+        "start": 210.0,
+        "end": 210.18,
+        "probability": 0.9247241020202637
+      },
+      {
+        "word": " sih?",
+        "start": 210.18,
+        "end": 210.32,
+        "probability": 0.962314248085022
+      }
+    ]
+  }
+]

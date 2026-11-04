@@ -1,0 +1,611 @@
+[
+  {
+    "text": " Sampai",
+    "startMs": 0,
+    "endMs": 320,
+    "timestampMs": 0,
+    "confidence": 0.3414219158391158
+  },
+  {
+    "text": " jumpa.",
+    "startMs": 320,
+    "endMs": 2240,
+    "timestampMs": 320,
+    "confidence": 0.47529056295752525
+  },
+  {
+    "text": " Hidup",
+    "startMs": 2240,
+    "endMs": 2700,
+    "timestampMs": 2240,
+    "confidence": 0.4684848953038454
+  },
+  {
+    "text": " panjang,",
+    "startMs": 2700,
+    "endMs": 2940,
+    "timestampMs": 2700,
+    "confidence": 0.21500854939222336
+  },
+  {
+    "text": " Kak.",
+    "startMs": 3000,
+    "endMs": 3120,
+    "timestampMs": 3000,
+    "confidence": 0.7290909290313721
+  },
+  {
+    "text": " Hidup",
+    "startMs": 4700,
+    "endMs": 5260,
+    "timestampMs": 4700,
+    "confidence": 0.6304528707017502
+  },
+  {
+    "text": " panjang,",
+    "startMs": 5260,
+    "endMs": 5380,
+    "timestampMs": 5260,
+    "confidence": 0.6810896694660187
+  },
+  {
+    "text": " Kak.",
+    "startMs": 5380,
+    "endMs": 5400,
+    "timestampMs": 5380,
+    "confidence": 0.9682706594467163
+  },
+  {
+    "text": " Bip,",
+    "startMs": 6280,
+    "endMs": 6840,
+    "timestampMs": 6280,
+    "confidence": 0.2968352995812893
+  },
+  {
+    "text": " Bip,",
+    "startMs": 6840,
+    "endMs": 7100,
+    "timestampMs": 6840,
+    "confidence": 0.6321290582418442
+  },
+  {
+    "text": " Bip.",
+    "startMs": 7160,
+    "endMs": 7360,
+    "timestampMs": 7160,
+    "confidence": 0.9692655801773071
+  },
+  {
+    "text": " Tuhan,",
+    "startMs": 7420,
+    "endMs": 7640,
+    "timestampMs": 7420,
+    "confidence": 0.4541971683502197
+  },
+  {
+    "text": " telah",
+    "startMs": 7820,
+    "endMs": 7900,
+    "timestampMs": 7820,
+    "confidence": 0.4001254364848137
+  },
+  {
+    "text": " tit.",
+    "startMs": 7900,
+    "endMs": 8120,
+    "timestampMs": 7900,
+    "confidence": 0.5053110718727112
+  },
+  {
+    "text": " Eh,",
+    "startMs": 8640,
+    "endMs": 9200,
+    "timestampMs": 8640,
+    "confidence": 0.3590342104434967
+  },
+  {
+    "text": " kalau",
+    "startMs": 9420,
+    "endMs": 9640,
+    "timestampMs": 9420,
+    "confidence": 0.44948339462280273
+  },
+  {
+    "text": " kalian",
+    "startMs": 9640,
+    "endMs": 9900,
+    "timestampMs": 9640,
+    "confidence": 0.14438322186470032
+  },
+  {
+    "text": " sudah",
+    "startMs": 9900,
+    "endMs": 10120,
+    "timestampMs": 9900,
+    "confidence": 0.7176018357276917
+  },
+  {
+    "text": " FTI",
+    "startMs": 10120,
+    "endMs": 10500,
+    "timestampMs": 10120,
+    "confidence": 0.5303989946842194
+  },
+  {
+    "text": "-SITE",
+    "startMs": 10500,
+    "endMs": 10820,
+    "timestampMs": 10500,
+    "confidence": 0.2842110792795817
+  },
+  {
+    "text": " langsung",
+    "startMs": 10820,
+    "endMs": 11140,
+    "timestampMs": 10820,
+    "confidence": 0.9121102690696716
+  },
+  {
+    "text": " aja",
+    "startMs": 11140,
+    "endMs": 11440,
+    "timestampMs": 11140,
+    "confidence": 0.9153282642364502
+  },
+  {
+    "text": " ya.",
+    "startMs": 11440,
+    "endMs": 11680,
+    "timestampMs": 11440,
+    "confidence": 0.5871596336364746
+  },
+  {
+    "text": " FTI",
+    "startMs": 11880,
+    "endMs": 12240,
+    "timestampMs": 11880,
+    "confidence": 0.8550570607185364
+  },
+  {
+    "text": "-SITE.",
+    "startMs": 12240,
+    "endMs": 12440,
+    "timestampMs": 12240,
+    "confidence": 0.9314108490943909
+  },
+  {
+    "text": " FTI",
+    "startMs": 12640,
+    "endMs": 13120,
+    "timestampMs": 12640,
+    "confidence": 0.9334374964237213
+  },
+  {
+    "text": "-SITE.",
+    "startMs": 13120,
+    "endMs": 14580,
+    "timestampMs": 13120,
+    "confidence": 0.6897984792788824
+  },
+  {
+    "text": " Lalu,",
+    "startMs": 15440,
+    "endMs": 15740,
+    "timestampMs": 15440,
+    "confidence": 0.24064953764900565
+  },
+  {
+    "text": " lalu.",
+    "startMs": 15920,
+    "endMs": 16240,
+    "timestampMs": 15920,
+    "confidence": 0.6205762699246407
+  },
+  {
+    "text": " Ada",
+    "startMs": 16400,
+    "endMs": 16600,
+    "timestampMs": 16400,
+    "confidence": 0.12587520480155945
+  },
+  {
+    "text": " aba",
+    "startMs": 16600,
+    "endMs": 17600,
+    "timestampMs": 16600,
+    "confidence": 0.2953634634613991
+  },
+  {
+    "text": "-abanya.",
+    "startMs": 17600,
+    "endMs": 17920,
+    "timestampMs": 17600,
+    "confidence": 0.7301084597905477
+  },
+  {
+    "text": " Langsung",
+    "startMs": 18040,
+    "endMs": 18480,
+    "timestampMs": 18040,
+    "confidence": 0.571477398276329
+  },
+  {
+    "text": " aja.",
+    "startMs": 18480,
+    "endMs": 19240,
+    "timestampMs": 18480,
+    "confidence": 0.985183835029602
+  },
+  {
+    "text": " Kembali",
+    "startMs": 21680,
+    "endMs": 22240,
+    "timestampMs": 21680,
+    "confidence": 0.6384830467092494
+  },
+  {
+    "text": " lagi.",
+    "startMs": 22240,
+    "endMs": 22620,
+    "timestampMs": 22240,
+    "confidence": 0.9905992150306702
+  },
+  {
+    "text": " Welcome,",
+    "startMs": 22800,
+    "endMs": 23000,
+    "timestampMs": 22800,
+    "confidence": 0.26190927624702454
+  },
+  {
+    "text": " ya.",
+    "startMs": 23260,
+    "endMs": 24060,
+    "timestampMs": 23260,
+    "confidence": 0.06498131155967712
+  },
+  {
+    "text": " FTI",
+    "startMs": 25260,
+    "endMs": 25820,
+    "timestampMs": 25260,
+    "confidence": 0.47071571089327335
+  },
+  {
+    "text": "-SITE.",
+    "startMs": 25820,
+    "endMs": 26260,
+    "timestampMs": 25820,
+    "confidence": 0.9718887408574423
+  },
+  {
+    "text": " KAMERA",
+    "startMs": 27540,
+    "endMs": 28300,
+    "timestampMs": 27540,
+    "confidence": 0.6506272470578551
+  },
+  {
+    "text": " ROLL",
+    "startMs": 28300,
+    "endMs": 28940,
+    "timestampMs": 28300,
+    "confidence": 0.4518814757466316
+  },
+  {
+    "text": " IN",
+    "startMs": 28940,
+    "endMs": 29720,
+    "timestampMs": 28940,
+    "confidence": 0.8259977698326111
+  },
+  {
+    "text": " ACTION",
+    "startMs": 29720,
+    "endMs": 30940,
+    "timestampMs": 29720,
+    "confidence": 0.7601374983787537
+  },
+  {
+    "text": " Halo",
+    "startMs": 30940,
+    "endMs": 31680,
+    "timestampMs": 30940,
+    "confidence": 0.04454962909221649
+  },
+  {
+    "text": " guys,",
+    "startMs": 33630,
+    "endMs": 33950,
+    "timestampMs": 33630,
+    "confidence": 0.7356839179992676
+  },
+  {
+    "text": " pernah",
+    "startMs": 34350,
+    "endMs": 34570,
+    "timestampMs": 34350,
+    "confidence": 0.922051727771759
+  },
+  {
+    "text": " ga",
+    "startMs": 34570,
+    "endMs": 34730,
+    "timestampMs": 34570,
+    "confidence": 0.4048616290092468
+  },
+  {
+    "text": " sih",
+    "startMs": 34730,
+    "endMs": 34850,
+    "timestampMs": 34730,
+    "confidence": 0.9524227380752563
+  },
+  {
+    "text": " kalian",
+    "startMs": 34850,
+    "endMs": 35110,
+    "timestampMs": 34850,
+    "confidence": 0.9854872226715088
+  },
+  {
+    "text": " 24",
+    "startMs": 35110,
+    "endMs": 35650,
+    "timestampMs": 35110,
+    "confidence": 0.4294332265853882
+  },
+  {
+    "text": " jam",
+    "startMs": 35650,
+    "endMs": 36150,
+    "timestampMs": 35650,
+    "confidence": 0.9546585083007812
+  },
+  {
+    "text": " itu",
+    "startMs": 36150,
+    "endMs": 36370,
+    "timestampMs": 36150,
+    "confidence": 0.9308338165283203
+  },
+  {
+    "text": " engga",
+    "startMs": 36370,
+    "endMs": 36610,
+    "timestampMs": 36370,
+    "confidence": 0.49570976942777634
+  },
+  {
+    "text": " cukup",
+    "startMs": 36610,
+    "endMs": 36970,
+    "timestampMs": 36610,
+    "confidence": 0.9555796086788177
+  },
+  {
+    "text": " buat",
+    "startMs": 36970,
+    "endMs": 37210,
+    "timestampMs": 36970,
+    "confidence": 0.9918964505195618
+  },
+  {
+    "text": " kita",
+    "startMs": 37210,
+    "endMs": 37510,
+    "timestampMs": 37210,
+    "confidence": 0.9722464084625244
+  },
+  {
+    "text": " semua",
+    "startMs": 37510,
+    "endMs": 37950,
+    "timestampMs": 37510,
+    "confidence": 0.9977192282676697
+  },
+  {
+    "text": " So",
+    "startMs": 37950,
+    "endMs": 38550,
+    "timestampMs": 37950,
+    "confidence": 0.17973069846630096
+  },
+  {
+    "text": " disini",
+    "startMs": 38550,
+    "endMs": 38990,
+    "timestampMs": 38550,
+    "confidence": 0.7892627418041229
+  },
+  {
+    "text": " kita",
+    "startMs": 38990,
+    "endMs": 39170,
+    "timestampMs": 38990,
+    "confidence": 0.8718708753585815
+  },
+  {
+    "text": " akan",
+    "startMs": 39170,
+    "endMs": 39350,
+    "timestampMs": 39170,
+    "confidence": 0.6853615045547485
+  },
+  {
+    "text": " kupas",
+    "startMs": 39350,
+    "endMs": 39750,
+    "timestampMs": 39350,
+    "confidence": 0.8515902757644653
+  },
+  {
+    "text": " tuntas",
+    "startMs": 39750,
+    "endMs": 40130,
+    "timestampMs": 39750,
+    "confidence": 0.8294824759165446
+  },
+  {
+    "text": " berat",
+    "startMs": 40130,
+    "endMs": 40510,
+    "timestampMs": 40130,
+    "confidence": 0.8308635354042053
+  },
+  {
+    "text": "-berat",
+    "startMs": 40510,
+    "endMs": 40750,
+    "timestampMs": 40510,
+    "confidence": 0.928691565990448
+  },
+  {
+    "text": "-berat",
+    "startMs": 40750,
+    "endMs": 41250,
+    "timestampMs": 40750,
+    "confidence": 0.7783357997735342
+  },
+  {
+    "text": " Kelarin",
+    "startMs": 41250,
+    "endMs": 41790,
+    "timestampMs": 41250,
+    "confidence": 0.3217085599899292
+  },
+  {
+    "text": " gue",
+    "startMs": 41790,
+    "endMs": 41990,
+    "timestampMs": 41790,
+    "confidence": 0.7938950061798096
+  },
+  {
+    "text": " radia,",
+    "startMs": 41990,
+    "endMs": 42530,
+    "timestampMs": 41990,
+    "confidence": 0.43074000626802444
+  },
+  {
+    "text": " gue",
+    "startMs": 42730,
+    "endMs": 42930,
+    "timestampMs": 42730,
+    "confidence": 0.81734699010849
+  },
+  {
+    "text": " Gimariel,",
+    "startMs": 42930,
+    "endMs": 43390,
+    "timestampMs": 42930,
+    "confidence": 0.49838730320334435
+  },
+  {
+    "text": " gue",
+    "startMs": 43670,
+    "endMs": 43830,
+    "timestampMs": 43670,
+    "confidence": 0.9707579612731934
+  },
+  {
+    "text": " Wakinan",
+    "startMs": 43830,
+    "endMs": 44450,
+    "timestampMs": 43830,
+    "confidence": 0.6482284987966219
+  },
+  {
+    "text": " Gue",
+    "startMs": 44450,
+    "endMs": 44830,
+    "timestampMs": 44450,
+    "confidence": 0.6479137539863586
+  },
+  {
+    "text": " Caya,",
+    "startMs": 44830,
+    "endMs": 45370,
+    "timestampMs": 44830,
+    "confidence": 0.7085478007793427
+  },
+  {
+    "text": " and",
+    "startMs": 45690,
+    "endMs": 45850,
+    "timestampMs": 45690,
+    "confidence": 0.7283899188041687
+  },
+  {
+    "text": " welcome",
+    "startMs": 45850,
+    "endMs": 46130,
+    "timestampMs": 45850,
+    "confidence": 0.8403429985046387
+  },
+  {
+    "text": " to",
+    "startMs": 46130,
+    "endMs": 46630,
+    "timestampMs": 46130,
+    "confidence": 0.9663917422294617
+  },
+  {
+    "text": " FTA",
+    "startMs": 46630,
+    "endMs": 47790,
+    "timestampMs": 46630,
+    "confidence": 0.4954114705324173
+  },
+  {
+    "text": " ISA",
+    "startMs": 47790,
+    "endMs": 48390,
+    "timestampMs": 47790,
+    "confidence": 0.4868948981165886
+  },
+  {
+    "text": " Gitu",
+    "startMs": 53590,
+    "endMs": 54350,
+    "timestampMs": 53590,
+    "confidence": 0.37398279178887606
+  },
+  {
+    "text": " doang,",
+    "startMs": 54350,
+    "endMs": 55050,
+    "timestampMs": 54350,
+    "confidence": 0.5642503499984741
+  },
+  {
+    "text": " beli",
+    "startMs": 55310,
+    "endMs": 56090,
+    "timestampMs": 55310,
+    "confidence": 0.6211312115192413
+  },
+  {
+    "text": "-beli",
+    "startMs": 56090,
+    "endMs": 56290,
+    "timestampMs": 56090,
+    "confidence": 0.7979974349339803
+  },
+  {
+    "text": " ya",
+    "startMs": 56290,
+    "endMs": 56490,
+    "timestampMs": 56290,
+    "confidence": 0.5927291512489319
+  },
+  {
+    "text": " rancir",
+    "startMs": 56490,
+    "endMs": 56870,
+    "timestampMs": 56490,
+    "confidence": 0.47930801411469776
+  }
+]

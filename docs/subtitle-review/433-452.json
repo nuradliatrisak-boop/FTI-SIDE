@@ -1,0 +1,219 @@
+[
+  {
+    "start": 433.24,
+    "end": 451.86,
+    "text": " Sohib kental gue. Gokil, gokil, gokil. Terus kalo apalagi benefit yang gue dapet, bukan benefit sih pengalaman yang gue pengen tujuan gue tuh. Sejujurnya gue tuh orangnya ekstra parah, parah, bentok, teluk, gitu. Gue pengen...",
+    "words": [
+      {
+        "word": " Sohib",
+        "start": 433.24,
+        "end": 433.92,
+        "probability": 0.6178990304470062
+      },
+      {
+        "word": " kental",
+        "start": 433.92,
+        "end": 434.48,
+        "probability": 0.9036470651626587
+      },
+      {
+        "word": " gue.",
+        "start": 434.48,
+        "end": 434.96,
+        "probability": 0.6921423077583313
+      },
+      {
+        "word": " Gokil,",
+        "start": 435.26,
+        "end": 435.8,
+        "probability": 0.7288748125235239
+      },
+      {
+        "word": " gokil,",
+        "start": 435.86,
+        "end": 436.18,
+        "probability": 0.8589542309443156
+      },
+      {
+        "word": " gokil.",
+        "start": 436.18,
+        "end": 436.84,
+        "probability": 0.9961037039756775
+      },
+      {
+        "word": " Terus",
+        "start": 436.96,
+        "end": 437.28,
+        "probability": 0.9540312886238098
+      },
+      {
+        "word": " kalo",
+        "start": 437.28,
+        "end": 437.54,
+        "probability": 0.274751216173172
+      },
+      {
+        "word": " apalagi",
+        "start": 437.54,
+        "end": 438.98,
+        "probability": 0.8025344709555308
+      },
+      {
+        "word": " benefit",
+        "start": 438.98,
+        "end": 439.46,
+        "probability": 0.9775291681289673
+      },
+      {
+        "word": " yang",
+        "start": 439.46,
+        "end": 439.7,
+        "probability": 0.9960427284240723
+      },
+      {
+        "word": " gue",
+        "start": 439.7,
+        "end": 439.88,
+        "probability": 0.9636070728302002
+      },
+      {
+        "word": " dapet,",
+        "start": 439.88,
+        "end": 440.26,
+        "probability": 0.9875155488650004
+      },
+      {
+        "word": " bukan",
+        "start": 440.38,
+        "end": 440.56,
+        "probability": 0.9741109609603882
+      },
+      {
+        "word": " benefit",
+        "start": 440.56,
+        "end": 441.24,
+        "probability": 0.9907354712486267
+      },
+      {
+        "word": " sih",
+        "start": 441.24,
+        "end": 441.56,
+        "probability": 0.9490238428115845
+      },
+      {
+        "word": " pengalaman",
+        "start": 441.56,
+        "end": 442.3,
+        "probability": 0.8113000194231669
+      },
+      {
+        "word": " yang",
+        "start": 442.3,
+        "end": 442.46,
+        "probability": 0.9820157289505005
+      },
+      {
+        "word": " gue",
+        "start": 442.46,
+        "end": 442.66,
+        "probability": 0.9901431798934937
+      },
+      {
+        "word": " pengen",
+        "start": 442.66,
+        "end": 443.1,
+        "probability": 0.9937008023262024
+      },
+      {
+        "word": " tujuan",
+        "start": 443.1,
+        "end": 443.94,
+        "probability": 0.8329728245735168
+      },
+      {
+        "word": " gue",
+        "start": 443.94,
+        "end": 444.28,
+        "probability": 0.9994127750396729
+      },
+      {
+        "word": " tuh.",
+        "start": 444.28,
+        "end": 444.52,
+        "probability": 0.8802542090415955
+      },
+      {
+        "word": " Sejujurnya",
+        "start": 444.88,
+        "end": 445.56,
+        "probability": 0.9942644476890564
+      },
+      {
+        "word": " gue",
+        "start": 445.56,
+        "end": 446.06,
+        "probability": 0.8967233896255493
+      },
+      {
+        "word": " tuh",
+        "start": 446.06,
+        "end": 446.22,
+        "probability": 0.9897066354751587
+      },
+      {
+        "word": " orangnya",
+        "start": 446.22,
+        "end": 446.7,
+        "probability": 0.9935391545295715
+      },
+      {
+        "word": " ekstra",
+        "start": 446.7,
+        "end": 447.0,
+        "probability": 0.759617418050766
+      },
+      {
+        "word": " parah,",
+        "start": 447.0,
+        "end": 447.58,
+        "probability": 0.8920219540596008
+      },
+      {
+        "word": " parah,",
+        "start": 447.72,
+        "end": 448.36,
+        "probability": 0.9704868495464325
+      },
+      {
+        "word": " bentok,",
+        "start": 448.54,
+        "end": 449.1,
+        "probability": 0.906714141368866
+      },
+      {
+        "word": " teluk,",
+        "start": 449.22,
+        "end": 449.66,
+        "probability": 0.7065847814083099
+      },
+      {
+        "word": " gitu.",
+        "start": 450.0,
+        "end": 450.1,
+        "probability": 0.9802574515342712
+      },
+      {
+        "word": " Gue",
+        "start": 450.74,
+        "end": 451.04,
+        "probability": 0.9768170714378357
+      },
+      {
+        "word": " pengen...",
+        "start": 451.04,
+        "end": 451.86,
+        "probability": 0.846031129360199
+      }
+    ]
+  }
+]

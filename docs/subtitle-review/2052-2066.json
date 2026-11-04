@@ -1,0 +1,195 @@
+[
+  {
+    "start": 2052.0,
+    "end": 2065.98,
+    "text": " Ini agak tetap ramah, karena disini kita kan berbaur sama orang yang tidak seumuran sama kita juga. Jadi kayak setengahnya menghargai orang yang lebih tua dari kita juga dan ya mungkin...",
+    "words": [
+      {
+        "word": " Ini",
+        "start": 2052.0,
+        "end": 2052.0,
+        "probability": 0.028950577601790428
+      },
+      {
+        "word": " agak",
+        "start": 2052.0,
+        "end": 2052.34,
+        "probability": 0.9507052004337311
+      },
+      {
+        "word": " tetap",
+        "start": 2052.34,
+        "end": 2052.58,
+        "probability": 0.7445961833000183
+      },
+      {
+        "word": " ramah,",
+        "start": 2052.58,
+        "end": 2053.1,
+        "probability": 0.9856269061565399
+      },
+      {
+        "word": " karena",
+        "start": 2053.22,
+        "end": 2053.36,
+        "probability": 0.9619990587234497
+      },
+      {
+        "word": " disini",
+        "start": 2053.36,
+        "end": 2053.76,
+        "probability": 0.7474294900894165
+      },
+      {
+        "word": " kita",
+        "start": 2053.76,
+        "end": 2054.0,
+        "probability": 0.9236107468605042
+      },
+      {
+        "word": " kan",
+        "start": 2054.0,
+        "end": 2054.22,
+        "probability": 0.9673969745635986
+      },
+      {
+        "word": " berbaur",
+        "start": 2054.22,
+        "end": 2054.96,
+        "probability": 0.960535486539205
+      },
+      {
+        "word": " sama",
+        "start": 2054.96,
+        "end": 2055.2,
+        "probability": 0.9504550695419312
+      },
+      {
+        "word": " orang",
+        "start": 2055.2,
+        "end": 2055.56,
+        "probability": 0.9966160655021667
+      },
+      {
+        "word": " yang",
+        "start": 2055.56,
+        "end": 2055.84,
+        "probability": 0.9841041564941406
+      },
+      {
+        "word": " tidak",
+        "start": 2055.84,
+        "end": 2056.74,
+        "probability": 0.9598227739334106
+      },
+      {
+        "word": " seumuran",
+        "start": 2056.74,
+        "end": 2058.46,
+        "probability": 0.950255811214447
+      },
+      {
+        "word": " sama",
+        "start": 2058.46,
+        "end": 2058.68,
+        "probability": 0.953389585018158
+      },
+      {
+        "word": " kita",
+        "start": 2058.68,
+        "end": 2058.9,
+        "probability": 0.9944672584533691
+      },
+      {
+        "word": " juga.",
+        "start": 2058.9,
+        "end": 2059.08,
+        "probability": 0.9529497623443604
+      },
+      {
+        "word": " Jadi",
+        "start": 2059.26,
+        "end": 2059.38,
+        "probability": 0.8429557681083679
+      },
+      {
+        "word": " kayak",
+        "start": 2059.38,
+        "end": 2059.56,
+        "probability": 0.7169329524040222
+      },
+      {
+        "word": " setengahnya",
+        "start": 2059.56,
+        "end": 2060.7,
+        "probability": 0.730783000588417
+      },
+      {
+        "word": " menghargai",
+        "start": 2060.7,
+        "end": 2061.14,
+        "probability": 0.998509094119072
+      },
+      {
+        "word": " orang",
+        "start": 2061.14,
+        "end": 2061.46,
+        "probability": 0.9989511966705322
+      },
+      {
+        "word": " yang",
+        "start": 2061.46,
+        "end": 2062.16,
+        "probability": 0.9930398464202881
+      },
+      {
+        "word": " lebih",
+        "start": 2062.16,
+        "end": 2062.52,
+        "probability": 0.9973958730697632
+      },
+      {
+        "word": " tua",
+        "start": 2062.52,
+        "end": 2062.68,
+        "probability": 0.9929613471031189
+      },
+      {
+        "word": " dari",
+        "start": 2062.68,
+        "end": 2062.86,
+        "probability": 0.9864200949668884
+      },
+      {
+        "word": " kita",
+        "start": 2062.86,
+        "end": 2063.08,
+        "probability": 0.9965770840644836
+      },
+      {
+        "word": " juga",
+        "start": 2063.08,
+        "end": 2063.32,
+        "probability": 0.9776511788368225
+      },
+      {
+        "word": " dan",
+        "start": 2063.32,
+        "end": 2063.72,
+        "probability": 0.3195308446884155
+      },
+      {
+        "word": " ya",
+        "start": 2063.72,
+        "end": 2065.34,
+        "probability": 0.7024507522583008
+      },
+      {
+        "word": " mungkin...",
+        "start": 2065.34,
+        "end": 2065.98,
+        "probability": 0.671395406126976
+      }
+    ]
+  }
+]

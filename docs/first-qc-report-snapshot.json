@@ -1,0 +1,22 @@
+{
+  "outputs": [
+    {
+      "file": "/workspace/FTI-SIDE/deliverables/FTI-SIDE-PART-1.mp4",
+      "sizeBytes": 1324577301,
+      "durationSeconds": 1178.321333,
+      "videoFrames": 35349,
+      "width": 1920,
+      "height": 1080,
+      "videoCodec": "h264",
+      "fps": 30,
+      "pixelFormat": "yuv420p",
+      "audioCodec": "aac",
+      "audioChannels": 2,
+      "audioSampleRate": 48000,
+      "fullAudioVideoDecode": "passed",
+      "sha256": "bdf977520d9d7d28a117185243a99ff82fdb1a83a8e3e8b796746402936618f2"
+    }
+  ],
+  "subtitleLanguageReview": "ASR with targeted re-transcription and documented spelling/name corrections; full human linguistic review not performed",
+  "unclearSpeechMarker": "[ucapan kurang jelas]"
+}

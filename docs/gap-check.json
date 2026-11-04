@@ -1,0 +1,647 @@
+[
+  {
+    "start": 846.9,
+    "end": 849.22,
+    "text": " Sama juga, inilah, Next Next.",
+    "words": [
+      {
+        "word": " Sama",
+        "start": 846.9,
+        "end": 847.42,
+        "probability": 0.5167204607278109
+      },
+      {
+        "word": " juga,",
+        "start": 847.42,
+        "end": 847.66,
+        "probability": 0.8290343284606934
+      },
+      {
+        "word": " inilah,",
+        "start": 847.88,
+        "end": 848.14,
+        "probability": 0.5755682736635208
+      },
+      {
+        "word": " Next",
+        "start": 848.36,
+        "end": 848.86,
+        "probability": 0.507104754447937
+      },
+      {
+        "word": " Next.",
+        "start": 848.86,
+        "end": 849.22,
+        "probability": 0.5743423700332642
+      }
+    ]
+  },
+  {
+    "start": 849.48,
+    "end": 850.28,
+    "text": " Oh udah disini ya?",
+    "words": [
+      {
+        "word": " Oh",
+        "start": 849.48,
+        "end": 849.72,
+        "probability": 0.4858764410018921
+      },
+      {
+        "word": " udah",
+        "start": 849.72,
+        "end": 849.82,
+        "probability": 0.3991030752658844
+      },
+      {
+        "word": " disini",
+        "start": 849.82,
+        "end": 850.1,
+        "probability": 0.799694150686264
+      },
+      {
+        "word": " ya?",
+        "start": 850.1,
+        "end": 850.28,
+        "probability": 0.6754706501960754
+      }
+    ]
+  },
+  {
+    "start": 850.44,
+    "end": 851.9,
+    "text": " Udah dong, emang ada apa disitu?",
+    "words": [
+      {
+        "word": " Udah",
+        "start": 850.44,
+        "end": 850.7,
+        "probability": 0.6057966277003288
+      },
+      {
+        "word": " dong,",
+        "start": 850.7,
+        "end": 850.88,
+        "probability": 0.934568464756012
+      },
+      {
+        "word": " emang",
+        "start": 851.02,
+        "end": 851.3,
+        "probability": 0.9017189145088196
+      },
+      {
+        "word": " ada",
+        "start": 851.3,
+        "end": 851.44,
+        "probability": 0.8426352739334106
+      },
+      {
+        "word": " apa",
+        "start": 851.44,
+        "end": 851.62,
+        "probability": 0.9918609261512756
+      },
+      {
+        "word": " disitu?",
+        "start": 851.62,
+        "end": 851.9,
+        "probability": 0.855184942483902
+      }
+    ]
+  },
+  {
+    "start": 852.16,
+    "end": 852.74,
+    "text": " Bapak, pernah.",
+    "words": [
+      {
+        "word": " Bapak,",
+        "start": 852.16,
+        "end": 852.46,
+        "probability": 0.7669935425122579
+      },
+      {
+        "word": " pernah.",
+        "start": 852.74,
+        "end": 852.74,
+        "probability": 0.45535409450531006
+      }
+    ]
+  },
+  {
+    "start": 853.2,
+    "end": 854.5,
+    "text": " Oh iya, nah.",
+    "words": [
+      {
+        "word": " Oh",
+        "start": 853.2,
+        "end": 853.5,
+        "probability": 0.2973967492580414
+      },
+      {
+        "word": " iya,",
+        "start": 853.5,
+        "end": 853.78,
+        "probability": 0.9653431177139282
+      },
+      {
+        "word": " nah.",
+        "start": 854.2,
+        "end": 854.5,
+        "probability": 0.9133155345916748
+      }
+    ]
+  },
+  {
+    "start": 855.66,
+    "end": 856.8,
+    "text": " Ternyata gak pernah juga.",
+    "words": [
+      {
+        "word": " Ternyata",
+        "start": 855.66,
+        "end": 856.16,
+        "probability": 0.6908803395926952
+      },
+      {
+        "word": " gak",
+        "start": 856.16,
+        "end": 856.34,
+        "probability": 0.31090784072875977
+      },
+      {
+        "word": " pernah",
+        "start": 856.34,
+        "end": 856.56,
+        "probability": 0.9988003969192505
+      },
+      {
+        "word": " juga.",
+        "start": 856.56,
+        "end": 856.8,
+        "probability": 0.16526959836483002
+      }
+    ]
+  },
+  {
+    "start": 857.6800000000001,
+    "end": 859.02,
+    "text": " Gue mau nanya nih.",
+    "words": [
+      {
+        "word": " Gue",
+        "start": 857.6800000000001,
+        "end": 858.2,
+        "probability": 0.2880091369152069
+      },
+      {
+        "word": " mau",
+        "start": 858.2,
+        "end": 858.7,
+        "probability": 0.8242316246032715
+      },
+      {
+        "word": " nanya",
+        "start": 858.7,
+        "end": 858.82,
+        "probability": 0.9477348923683167
+      },
+      {
+        "word": " nih.",
+        "start": 858.82,
+        "end": 859.02,
+        "probability": 0.9562152624130249
+      }
+    ]
+  },
+  {
+    "start": 859.5,
+    "end": 860.3,
+    "text": " Gue aja yang nanya deh.",
+    "words": [
+      {
+        "word": " Gue",
+        "start": 859.5,
+        "end": 859.74,
+        "probability": 0.9147953987121582
+      },
+      {
+        "word": " aja",
+        "start": 859.74,
+        "end": 859.86,
+        "probability": 0.2761962115764618
+      },
+      {
+        "word": " yang",
+        "start": 859.86,
+        "end": 859.96,
+        "probability": 0.6640007495880127
+      },
+      {
+        "word": " nanya",
+        "start": 859.96,
+        "end": 860.14,
+        "probability": 0.981229841709137
+      },
+      {
+        "word": " deh.",
+        "start": 860.14,
+        "end": 860.3,
+        "probability": 0.9511510133743286
+      }
+    ]
+  },
+  {
+    "start": 860.58,
+    "end": 862.44,
+    "text": " Tapi kayak, kalau dari situ,",
+    "words": [
+      {
+        "word": " Tapi",
+        "start": 860.58,
+        "end": 860.8,
+        "probability": 0.35374897718429565
+      },
+      {
+        "word": " kayak,",
+        "start": 860.8,
+        "end": 861.0,
+        "probability": 0.8632965087890625
+      },
+      {
+        "word": " kalau",
+        "start": 861.62,
+        "end": 861.94,
+        "probability": 0.764658510684967
+      },
+      {
+        "word": " dari",
+        "start": 861.94,
+        "end": 862.12,
+        "probability": 0.9451385140419006
+      },
+      {
+        "word": " situ,",
+        "start": 862.12,
+        "end": 862.44,
+        "probability": 0.9847262501716614
+      }
+    ]
+  },
+  {
+    "start": 862.88,
+    "end": 864.46,
+    "text": " Lu pernah gak sih ngebayangin sesuatu?",
+    "words": [
+      {
+        "word": " Lu",
+        "start": 862.88,
+        "end": 863.08,
+        "probability": 0.1590246558189392
+      },
+      {
+        "word": " pernah",
+        "start": 863.08,
+        "end": 863.2,
+        "probability": 0.9937392473220825
+      },
+      {
+        "word": " gak",
+        "start": 863.2,
+        "end": 863.36,
+        "probability": 0.4879372715950012
+      },
+      {
+        "word": " sih",
+        "start": 863.36,
+        "end": 863.5,
+        "probability": 0.9827405214309692
+      },
+      {
+        "word": " ngebayangin",
+        "start": 863.5,
+        "end": 863.98,
+        "probability": 0.7902293920516967
+      },
+      {
+        "word": " sesuatu?",
+        "start": 863.98,
+        "end": 864.46,
+        "probability": 0.9929921825726827
+      }
+    ]
+  },
+  {
+    "start": 864.96,
+    "end": 865.84,
+    "text": " Terus abis dari situ,",
+    "words": [
+      {
+        "word": " Terus",
+        "start": 864.96,
+        "end": 865.16,
+        "probability": 0.954104095697403
+      },
+      {
+        "word": " abis",
+        "start": 865.16,
+        "end": 865.48,
+        "probability": 0.9145340025424957
+      },
+      {
+        "word": " dari",
+        "start": 865.48,
+        "end": 865.6,
+        "probability": 0.9571653008460999
+      },
+      {
+        "word": " situ,",
+        "start": 865.6,
+        "end": 865.84,
+        "probability": 0.9969179630279541
+      }
+    ]
+  },
+  {
+    "start": 867.22,
+    "end": 868.56,
+    "text": " Nah, mau ngapis sih gue.",
+    "words": [
+      {
+        "word": " Nah,",
+        "start": 867.22,
+        "end": 867.74,
+        "probability": 0.014991938136518002
+      },
+      {
+        "word": " mau",
+        "start": 867.86,
+        "end": 867.92,
+        "probability": 0.7657747864723206
+      },
+      {
+        "word": " ngapis",
+        "start": 867.92,
+        "end": 868.32,
+        "probability": 0.6271274785200754
+      },
+      {
+        "word": " sih",
+        "start": 868.32,
+        "end": 868.42,
+        "probability": 0.6374011039733887
+      },
+      {
+        "word": " gue.",
+        "start": 868.42,
+        "end": 868.56,
+        "probability": 0.8418792486190796
+      }
+    ]
+  },
+  {
+    "start": 870.26,
+    "end": 872.92,
+    "text": " Yang ternyata yang gak pernah lo bayangin,",
+    "words": [
+      {
+        "word": " Yang",
+        "start": 870.26,
+        "end": 870.78,
+        "probability": 0.496489554643631
+      },
+      {
+        "word": " ternyata",
+        "start": 870.78,
+        "end": 871.3,
+        "probability": 0.9900839477777481
+      },
+      {
+        "word": " yang",
+        "start": 871.3,
+        "end": 871.62,
+        "probability": 0.5093076825141907
+      },
+      {
+        "word": " gak",
+        "start": 871.62,
+        "end": 871.88,
+        "probability": 0.9776694178581238
+      },
+      {
+        "word": " pernah",
+        "start": 871.88,
+        "end": 872.1,
+        "probability": 0.998696506023407
+      },
+      {
+        "word": " lo",
+        "start": 872.1,
+        "end": 872.3,
+        "probability": 0.1798112541437149
+      },
+      {
+        "word": " bayangin,",
+        "start": 872.3,
+        "end": 872.92,
+        "probability": 0.9693590005238851
+      }
+    ]
+  },
+  {
+    "start": 872.92,
+    "end": 880.92,
+    "text": " Dan telah ngalamin, tapi itu kayak, oh gue jadi ini ya, oh gue yang ngakuin ini ya itu kesampaian di BEM FTI pernah gak?",
+    "words": [
+      {
+        "word": " Dan",
+        "start": 872.92,
+        "end": 872.98,
+        "probability": 0.04873877391219139
+      },
+      {
+        "word": " telah",
+        "start": 872.98,
+        "end": 873.52,
+        "probability": 0.501953162252903
+      },
+      {
+        "word": " ngalamin,",
+        "start": 873.52,
+        "end": 873.7,
+        "probability": 0.4436040123303731
+      },
+      {
+        "word": " tapi",
+        "start": 873.82,
+        "end": 873.9,
+        "probability": 0.24006880819797516
+      },
+      {
+        "word": " itu",
+        "start": 873.9,
+        "end": 873.98,
+        "probability": 0.05546087771654129
+      },
+      {
+        "word": " kayak,",
+        "start": 873.98,
+        "end": 874.14,
+        "probability": 0.5415323376655579
+      },
+      {
+        "word": " oh",
+        "start": 874.34,
+        "end": 874.48,
+        "probability": 0.21587705612182617
+      },
+      {
+        "word": " gue",
+        "start": 874.48,
+        "end": 875.8,
+        "probability": 0.2915831506252289
+      },
+      {
+        "word": " jadi",
+        "start": 875.8,
+        "end": 876.04,
+        "probability": 0.9599997997283936
+      },
+      {
+        "word": " ini",
+        "start": 876.04,
+        "end": 876.4,
+        "probability": 0.9824239015579224
+      },
+      {
+        "word": " ya,",
+        "start": 876.4,
+        "end": 876.7,
+        "probability": 0.8613454699516296
+      },
+      {
+        "word": " oh",
+        "start": 877.04,
+        "end": 877.22,
+        "probability": 0.77303546667099
+      },
+      {
+        "word": " gue",
+        "start": 877.22,
+        "end": 877.66,
+        "probability": 0.9754071831703186
+      },
+      {
+        "word": " yang",
+        "start": 877.66,
+        "end": 877.76,
+        "probability": 0.7187466621398926
+      },
+      {
+        "word": " ngakuin",
+        "start": 877.76,
+        "end": 878.06,
+        "probability": 0.8099311590194702
+      },
+      {
+        "word": " ini",
+        "start": 878.06,
+        "end": 878.38,
+        "probability": 0.9862344861030579
+      },
+      {
+        "word": " ya",
+        "start": 878.38,
+        "end": 878.58,
+        "probability": 0.9295945167541504
+      },
+      {
+        "word": " itu",
+        "start": 878.58,
+        "end": 879.02,
+        "probability": 0.38993334770202637
+      },
+      {
+        "word": " kesampaian",
+        "start": 879.02,
+        "end": 879.7,
+        "probability": 0.8664668202400208
+      },
+      {
+        "word": " di",
+        "start": 879.7,
+        "end": 879.84,
+        "probability": 0.9466788172721863
+      },
+      {
+        "word": " BEM",
+        "start": 879.84,
+        "end": 880.08,
+        "probability": 0.8339482545852661
+      },
+      {
+        "word": " FTI",
+        "start": 880.08,
+        "end": 880.42,
+        "probability": 0.748998373746872
+      },
+      {
+        "word": " pernah",
+        "start": 880.42,
+        "end": 880.76,
+        "probability": 0.4965330958366394
+      },
+      {
+        "word": " gak?",
+        "start": 880.76,
+        "end": 880.92,
+        "probability": 0.39346638321876526
+      }
+    ]
+  },
+  {
+    "start": 881.74,
+    "end": 883.98,
+    "text": " Pernah, dan gue lagi ngalamin, gue..",
+    "words": [
+      {
+        "word": " Pernah,",
+        "start": 881.74,
+        "end": 882.22,
+        "probability": 0.708173414071401
+      },
+      {
+        "word": " dan",
+        "start": 882.26,
+        "end": 882.46,
+        "probability": 0.7203916907310486
+      },
+      {
+        "word": " gue",
+        "start": 882.46,
+        "end": 882.72,
+        "probability": 0.8772462010383606
+      },
+      {
+        "word": " lagi",
+        "start": 882.72,
+        "end": 882.92,
+        "probability": 0.988573431968689
+      },
+      {
+        "word": " ngalamin,",
+        "start": 882.92,
+        "end": 883.36,
+        "probability": 0.9705474177996317
+      },
+      {
+        "word": " gue..",
+        "start": 883.48,
+        "end": 883.98,
+        "probability": 0.6729548424482346
+      }
+    ]
+  }
+]

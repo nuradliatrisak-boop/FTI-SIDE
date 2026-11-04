@@ -1,0 +1,6 @@
+{
+  "repository": "Systran/faster-whisper-small",
+  "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671",
+  "matches_huggingface_download_etag": true,
+  "loaded_by_ctranslate2": true
+}

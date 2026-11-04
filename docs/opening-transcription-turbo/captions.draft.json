@@ -1,0 +1,30 @@
+[
+  {
+    "text": " Kamera,",
+    "startMs": 26150,
+    "endMs": 27550,
+    "timestampMs": 26150,
+    "confidence": 0.015889564529061317
+  },
+  {
+    "text": " roll",
+    "startMs": 27550,
+    "endMs": 28950,
+    "timestampMs": 27550,
+    "confidence": 0.9269663691520691
+  },
+  {
+    "text": " in.",
+    "startMs": 28950,
+    "endMs": 29630,
+    "timestampMs": 28950,
+    "confidence": 0.6010904312133789
+  },
+  {
+    "text": " Aksion",
+    "startMs": 30410,
+    "endMs": 30930,
+    "timestampMs": 30410,
+    "confidence": 0.4172786474227905
+  }
+]

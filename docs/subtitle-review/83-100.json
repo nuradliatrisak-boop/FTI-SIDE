@@ -1,0 +1,271 @@
+[
+  {
+    "start": 83.06,
+    "end": 84.5,
+    "text": " Kalo emang Ghivariel gimana?",
+    "words": [
+      {
+        "word": " Kalo",
+        "start": 83.06,
+        "end": 83.54,
+        "probability": 0.5531777590513229
+      },
+      {
+        "word": " emang",
+        "start": 83.54,
+        "end": 83.74,
+        "probability": 0.5666916072368622
+      },
+      {
+        "word": " Ghivariel",
+        "start": 83.74,
+        "end": 84.18,
+        "probability": 0.31682910629706384
+      },
+      {
+        "word": " gimana?",
+        "start": 84.18,
+        "end": 84.5,
+        "probability": 0.9873485267162323
+      }
+    ]
+  },
+  {
+    "start": 85.48,
+    "end": 88.9,
+    "text": " Untuk gue sendiri sih, hari ini ga ada kegiatan apa-apa ya, ga ada kelas.",
+    "words": [
+      {
+        "word": " Untuk",
+        "start": 85.48,
+        "end": 85.96,
+        "probability": 0.92003133893013
+      },
+      {
+        "word": " gue",
+        "start": 85.96,
+        "end": 86.18,
+        "probability": 0.7033196687698364
+      },
+      {
+        "word": " sendiri",
+        "start": 86.18,
+        "end": 86.42,
+        "probability": 0.9950445890426636
+      },
+      {
+        "word": " sih,",
+        "start": 86.42,
+        "end": 86.58,
+        "probability": 0.982646107673645
+      },
+      {
+        "word": " hari",
+        "start": 86.68,
+        "end": 86.72,
+        "probability": 0.9306682348251343
+      },
+      {
+        "word": " ini",
+        "start": 86.72,
+        "end": 86.88,
+        "probability": 0.9946424961090088
+      },
+      {
+        "word": " ga",
+        "start": 86.88,
+        "end": 87.02,
+        "probability": 0.3275192379951477
+      },
+      {
+        "word": " ada",
+        "start": 87.02,
+        "end": 87.3,
+        "probability": 0.9490739107131958
+      },
+      {
+        "word": " kegiatan",
+        "start": 87.3,
+        "end": 87.76,
+        "probability": 0.8132865726947784
+      },
+      {
+        "word": " apa",
+        "start": 87.76,
+        "end": 87.88,
+        "probability": 0.9484352469444275
+      },
+      {
+        "word": "-apa",
+        "start": 87.88,
+        "end": 88.04,
+        "probability": 0.9747792780399323
+      },
+      {
+        "word": " ya,",
+        "start": 88.04,
+        "end": 88.14,
+        "probability": 0.8074358105659485
+      },
+      {
+        "word": " ga",
+        "start": 88.22,
+        "end": 88.24,
+        "probability": 0.9820556044578552
+      },
+      {
+        "word": " ada",
+        "start": 88.24,
+        "end": 88.38,
+        "probability": 0.9921199083328247
+      },
+      {
+        "word": " kelas.",
+        "start": 88.38,
+        "end": 88.9,
+        "probability": 0.9944352209568024
+      }
+    ]
+  },
+  {
+    "start": 89.24,
+    "end": 94.54,
+    "text": " Cuman, kenapa gue disini? Karena gue nih diundang oleh WKBM untuk mengikuti acara podcast.",
+    "words": [
+      {
+        "word": " Cuman,",
+        "start": 89.24,
+        "end": 89.72,
+        "probability": 0.8867792785167694
+      },
+      {
+        "word": " kenapa",
+        "start": 89.92,
+        "end": 90.18,
+        "probability": 0.9801070988178253
+      },
+      {
+        "word": " gue",
+        "start": 90.18,
+        "end": 90.32,
+        "probability": 0.9808478355407715
+      },
+      {
+        "word": " disini?",
+        "start": 90.32,
+        "end": 90.52,
+        "probability": 0.9474426805973053
+      },
+      {
+        "word": " Karena",
+        "start": 90.6,
+        "end": 90.74,
+        "probability": 0.9441652297973633
+      },
+      {
+        "word": " gue",
+        "start": 90.74,
+        "end": 90.96,
+        "probability": 0.9761018753051758
+      },
+      {
+        "word": " nih",
+        "start": 90.96,
+        "end": 91.18,
+        "probability": 0.6547954678535461
+      },
+      {
+        "word": " diundang",
+        "start": 91.18,
+        "end": 92.08,
+        "probability": 0.8560593128204346
+      },
+      {
+        "word": " oleh",
+        "start": 92.08,
+        "end": 92.32,
+        "probability": 0.9966096878051758
+      },
+      {
+        "word": " WKBM",
+        "start": 92.32,
+        "end": 92.86,
+        "probability": 0.757034440835317
+      },
+      {
+        "word": " untuk",
+        "start": 92.86,
+        "end": 93.1,
+        "probability": 0.9231792688369751
+      },
+      {
+        "word": " mengikuti",
+        "start": 93.1,
+        "end": 93.72,
+        "probability": 0.9959491689999899
+      },
+      {
+        "word": " acara",
+        "start": 93.72,
+        "end": 94.12,
+        "probability": 0.9935523271560669
+      },
+      {
+        "word": " podcast.",
+        "start": 94.12,
+        "end": 94.54,
+        "probability": 0.9315292239189148
+      }
+    ]
+  },
+  {
+    "start": 95.12,
+    "end": 96.78,
+    "text": " Siapa tuh WKBM kita?",
+    "words": [
+      {
+        "word": " Siapa",
+        "start": 95.12,
+        "end": 95.6,
+        "probability": 0.9639021158218384
+      },
+      {
+        "word": " tuh",
+        "start": 95.6,
+        "end": 95.74,
+        "probability": 0.6670666337013245
+      },
+      {
+        "word": " WKBM",
+        "start": 95.74,
+        "end": 96.24,
+        "probability": 0.9814538359642029
+      },
+      {
+        "word": " kita?",
+        "start": 96.24,
+        "end": 96.78,
+        "probability": 0.9640099406242371
+      }
+    ]
+  },
+  {
+    "start": 97.22,
+    "end": 98.1,
+    "text": " Paisa Isiado.",
+    "words": [
+      {
+        "word": " Paisa",
+        "start": 97.22,
+        "end": 97.7,
+        "probability": 0.4881703158219655
+      },
+      {
+        "word": " Isiado.",
+        "start": 97.7,
+        "end": 98.1,
+        "probability": 0.4409109751383464
+      }
+    ]
+  }
+]

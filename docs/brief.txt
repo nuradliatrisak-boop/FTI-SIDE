@@ -1,0 +1,279 @@
+PROJECT VIDEO EDITING FTI SIDE — BEM FTI UNIVERSITAS TRISAKTI
+
+Saya ingin membuat video podcast FTI SIDE yang diproduksi oleh BEM Fakultas Teknologi Industri Universitas Trisakti.
+
+Tolong kerjakan seluruh proses editing dari awal sampai selesai menggunakan Remotion. Saya ingin hasil akhir berupa dua episode podcast yang profesional, menarik, dan siap dipublikasikan.
+
+PENTING: BACA DAN PAHAMI KONSEP VISUAL INI SEBELUM MULAI MENGERJAKAN.
+
+Saya memiliki dua preferensi editing yang berbeda untuk opening dan isi podcast:
+
+* OPENING harus kreatif, energetic, playful, penuh animasi, motion graphics, dan memiliki karakter visual yang kuat.
+* ISI PODCAST harus clean, natural, profesional, dan tidak terlalu banyak efek. Fokus utamanya tetap pada percakapan para peserta.
+
+Jangan menyamakan gaya editing opening dengan gaya editing isi podcast.
+
+⸻
+
+1. SUMBER VIDEO
+
+Gunakan dua sumber video asli berikut.
+
+A. VIDEO PODCAST LENGKAP — FOOTAGE UTAMA
+
+https://drive.google.com/file/d/1vNCmOlKcbuhNj72jyrvRbgpep-27eADk/view?usp=sharing
+
+B. VIDEO OPENING BARU — SUMBER FOOTAGE OPENING
+
+https://drive.google.com/file/d/1704Of_emVLZsnmyXb8ND8Yhe527Nk9p5/view?usp=drivesdk
+
+Informasi awal:
+
+* Video podcast utama berdurasi sekitar 37 menit 59 detik.
+* Video opening berdurasi sekitar 57 detik.
+* Keduanya memiliki resolusi Full HD 1920 × 1080.
+* Pertahankan kualitas dan footage asli.
+
+Unduh kedua video ke folder project. Verifikasi ukuran, durasi, resolusi, serta integritas audio dan video sebelum editing.
+
+Jangan mengunduh ulang jika file sudah tersedia dan terverifikasi.
+
+2. KONSEP UTAMA OPENING — BAGIAN PALING PENTING
+
+Saya ingin opening FTI SIDE memiliki animasi yang seru, kreatif, dan terlihat seperti program podcast profesional.
+
+Saya TIDAK ingin opening yang hanya berupa video biasa dengan tulisan judul di atasnya.
+
+Buat opening dengan pendekatan motion graphics dan kinetic typography.
+
+Arah visual opening
+
+* Youthful.
+* Playful.
+* Energetic.
+* Fresh.
+* Modern.
+* Creative.
+* Memorable.
+* Tidak kaku atau terlalu formal.
+
+Elemen animasi yang diinginkan
+
+1. Kinetic typography
+    Tulisan FTI SIDE muncul dengan gerakan yang menarik seperti sliding, popping, scaling, masking, dan animated text reveal.
+2. Motion graphics
+    Tambahkan elemen grafis bergerak seperti garis, bentuk geometris, sticker, frame, simbol, dan aksen visual yang mendukung karakter FTI SIDE.
+3. Dynamic montage
+    Gunakan potongan-potongan footage asli peserta podcast. Tampilkan variasi framing, ekspresi, dan suasana percakapan secara singkat dan dinamis.
+4. Animated title reveal
+    Buat momen khusus ketika identitas FTI SIDE muncul sebagai judul utama. Buat tampilannya kuat, menarik, dan mudah diingat.
+5. Sound design
+    Tambahkan musik latar dan efek suara transisi yang sesuai dengan animasi. Pastikan tidak bertabrakan dengan audio asli.
+6. Transition
+    Buat transisi yang halus dan kreatif dari opening menuju percakapan utama.
+
+Ketentuan opening
+
+* Gunakan video opening asli sebagai sumber footage.
+* Kamu boleh melakukan cropping, masking, zoom, split screen, dan manipulasi grafis.
+* Jangan mengganti wajah peserta.
+* Jangan membuat peserta atau percakapan palsu menggunakan AI.
+* Jangan menggunakan template generik yang terlihat seperti hasil otomatis AI.
+* Buat animasi menggunakan motion graphics yang benar-benar dirancang dalam Remotion.
+* Gunakan durasi opening yang efektif. Tidak harus menggunakan keseluruhan 57 detik jika tidak semua bagiannya diperlukan, tetapi jangan menghilangkan identitas penting dari opening asli.
+
+Saya ingin opening menjadi bagian paling kreatif dan paling mencolok dari keseluruhan video.
+
+3. KONSEP EDITING ISI PODCAST
+
+Setelah opening selesai, gaya editing harus berubah menjadi lebih tenang, clean, dan natural.
+
+Jangan membuat isi podcast terlalu heboh atau penuh animasi.
+
+Fokus utama adalah membuat penonton nyaman mengikuti percakapan.
+
+Gaya editing isi
+
+* Natural dan conversational.
+* Clean dan minimalis.
+* Modern dan profesional.
+* Tidak terlalu banyak efek.
+* Tidak terlalu banyak transisi.
+* Tidak menggunakan animasi berlebihan.
+* Tidak mengganggu ekspresi dan percakapan peserta.
+
+Editing yang diperlukan
+
+1. Potong jeda kosong yang terlalu panjang.
+2. Hilangkan kesalahan bicara atau pengulangan yang benar-benar tidak diperlukan.
+3. Pertahankan percakapan yang menarik, spontan, lucu, dan relevan.
+4. Jangan menghilangkan konteks pembicaraan.
+5. Jangan memotong kalimat di tengah pembicaraan.
+6. Gunakan zoom-in atau punch-in hanya pada momen tertentu.
+7. Gunakan variasi framing secara natural jika diperlukan.
+8. Pertahankan ekspresi, reaksi, dan interaksi asli peserta.
+9. Pastikan volume suara konsisten dan nyaman didengar.
+
+Jangan membuat semua bagian menggunakan zoom, transisi, atau efek visual. Biarkan percakapan menjadi pusat perhatian.
+
+4. SUBTITLE
+
+Buat subtitle Bahasa Indonesia yang akurat dan tersinkronisasi dengan audio.
+
+Ketentuannya:
+
+* Gunakan font modern dan mudah dibaca.
+* Posisikan subtitle secara konsisten.
+* Jangan terlalu banyak kata dalam satu tampilan.
+* Gunakan highlight pada kata atau frasa penting.
+* Gunakan warna yang sesuai dengan identitas FTI SIDE.
+* Animasi subtitle cukup sederhana dan halus.
+* Jangan membuat subtitle yang terlalu ramai atau terus bergerak.
+* Pastikan subtitle tidak menutupi wajah peserta.
+
+Jangan mengarang ucapan. Jika terdapat bagian yang tidak jelas, periksa kembali audionya.
+
+5. TRANSKRIPSI DAN ANALISIS ISI
+
+Sebelum menentukan pemotongan video, transkripsikan keseluruhan percakapan.
+
+Kemudian analisis:
+
+* Topik utama.
+* Alur percakapan.
+* Pembahasan yang paling menarik.
+* Momen spontan dan lucu.
+* Pernyataan penting.
+* Bagian yang berulang atau tidak relevan.
+* Timestamp setiap bagian.
+
+Gunakan Whisper atau metode transkripsi lokal lain yang tersedia.
+
+Jika Whisper tidak dapat diunduh, periksa alternatif yang tersedia. Jangan berhenti tanpa mencoba solusi yang masuk akal.
+
+Jangan mengarang transkrip atau mengubah makna pembicaraan.
+
+6. PEMBAGIAN MENJADI PART 1 DAN PART 2
+
+Bagi video podcast menjadi dua episode yang memiliki alur pembahasan utuh.
+
+Jangan sekadar membagi durasi menjadi dua bagian sama panjang.
+
+Tentukan titik pemisahan berdasarkan:
+
+* Perubahan topik.
+* Kesinambungan pembahasan.
+* Alur cerita.
+* Momen yang tepat untuk membuat penonton tertarik menonton episode selanjutnya.
+
+Pastikan tidak ada pembahasan penting yang terpotong.
+
+Setiap episode memiliki:
+
+* Opening FTI SIDE.
+* Identitas Part 1 atau Part 2.
+* Isi percakapan.
+* Subtitle.
+* Closing.
+
+Untuk Part 1, boleh tambahkan teaser singkat menuju Part 2 jika memang sesuai dengan isi pembicaraan.
+
+7. CLOSING
+
+Buat closing yang clean dan menarik.
+
+Gunakan identitas FTI SIDE dan BEM FTI Universitas Trisakti.
+
+Closing boleh memiliki sedikit motion graphics sebagai penutup, tetapi tidak perlu seheboh opening.
+
+Pastikan penutup terasa profesional dan tidak terlalu panjang.
+
+8. BRANDING
+
+Identitas utama:
+
+FTI SIDE
+BEM FTI UNIVERSITAS TRISAKTI
+
+Gunakan branding yang konsisten untuk:
+
+* Opening.
+* Judul episode.
+* Subtitle.
+* Elemen grafis.
+* Closing.
+
+Jika tersedia logo resmi, gunakan logo tersebut tanpa mengubah bentuknya. Jika tidak tersedia, gunakan identitas tipografi FTI SIDE terlebih dahulu.
+
+9. OUTPUT AKHIR
+
+Hasil akhir yang saya inginkan:
+
+1. FTI-SIDE-PART-1.mp4
+2. FTI-SIDE-PART-2.mp4
+
+Spesifikasi:
+
+* MP4.
+* Full HD 1920 × 1080.
+* Rasio 16:9.
+* H.264.
+* Audio AAC stereo.
+* Subtitle tertanam.
+* Kualitas audio dan video tetap baik.
+
+Simpan semua hasil akhir di:
+
+/workspace/FTI-SIDE/deliverables/
+
+Sertakan juga:
+
+* Project Remotion.
+* Source code.
+* Transkrip lengkap.
+* Timestamp editing.
+* Catatan pembagian episode.
+* Preview opening.
+* Preview kedua episode.
+
+10. TAHAPAN PENGERJAAN
+
+Kerjakan secara sistematis:
+
+1. Siapkan environment dan project Remotion.
+2. Unduh dan verifikasi kedua video.
+3. Analisis footage dan audio.
+4. Buat transkrip lengkap.
+5. Tentukan bagian yang dipertahankan dan dipotong.
+6. Tentukan pembagian Part 1 dan Part 2.
+7. Rancang dan buat opening motion graphics FTI SIDE.
+8. Render preview opening terlebih dahulu.
+9. Setelah konsep opening siap, lanjutkan editing isi podcast dengan gaya clean dan natural.
+10. Buat subtitle.
+11. Buat closing.
+12. Render preview kedua episode.
+13. Periksa sinkronisasi audio, subtitle, transisi, dan kualitas video.
+14. Render kedua episode dalam kualitas final.
+15. Verifikasi bahwa file MP4 benar-benar dapat diputar.
+
+Jika terdapat kendala, jelaskan secara spesifik dan cari alternatif yang tersedia.
+
+Jangan hanya menghasilkan storyboard, mockup, atau preview. Saya membutuhkan video final yang benar-benar selesai dan siap dipublikasikan.
+
+⸻
+
+ARAHAN AKHIR — JANGAN SALAH MEMAHAMI KONSEP
+
+Saya ingin menegaskan kembali perbedaan gaya editing:
+
+OPENING = HEBOH, KREATIF, DINAMIS, PENUH ANIMASI.
+
+ISI PODCAST = CLEAN, NATURAL, MINIMALIS, PROFESIONAL, TIDAK BERLEBIHAN.
+
+Jangan membuat keseluruhan video terlalu ramai hanya karena opening menggunakan banyak animasi.
+
+Opening harus menjadi identitas visual yang memorable. Sementara isi podcast harus membuat penonton fokus pada percakapan, ekspresi, dan interaksi para peserta.
+
+Prioritaskan kualitas storytelling, kenyamanan menonton, dan konsistensi visual.
+
+Kerjakan seluruh proses sampai kedua video final berhasil dirender dan dapat diputar.

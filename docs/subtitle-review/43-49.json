@@ -1,0 +1,136 @@
+[
+  {
+    "start": 43.02,
+    "end": 44.7,
+    "text": " Kalo Buya, Buya abis nampain Buya?",
+    "words": [
+      {
+        "word": " Kalo",
+        "start": 43.02,
+        "end": 43.42,
+        "probability": 0.563262552022934
+      },
+      {
+        "word": " Buya,",
+        "start": 43.42,
+        "end": 43.82,
+        "probability": 0.5410536006093025
+      },
+      {
+        "word": " Buya",
+        "start": 43.82,
+        "end": 43.9,
+        "probability": 0.725830689072609
+      },
+      {
+        "word": " abis",
+        "start": 43.9,
+        "end": 44.08,
+        "probability": 0.7744499444961548
+      },
+      {
+        "word": " nampain",
+        "start": 44.08,
+        "end": 44.36,
+        "probability": 0.28880584239959717
+      },
+      {
+        "word": " Buya?",
+        "start": 44.36,
+        "end": 44.7,
+        "probability": 0.9525040090084076
+      }
+    ]
+  },
+  {
+    "start": 44.9,
+    "end": 48.98,
+    "text": " Kalo misal aku ya, aku abis telah sih. Abis itu lanjut ke para Buya.",
+    "words": [
+      {
+        "word": " Kalo",
+        "start": 44.9,
+        "end": 45.3,
+        "probability": 0.8821465373039246
+      },
+      {
+        "word": " misal",
+        "start": 45.3,
+        "end": 45.68,
+        "probability": 0.8511556088924408
+      },
+      {
+        "word": " aku",
+        "start": 45.68,
+        "end": 46.02,
+        "probability": 0.9726467132568359
+      },
+      {
+        "word": " ya,",
+        "start": 46.02,
+        "end": 46.2,
+        "probability": 0.8899770975112915
+      },
+      {
+        "word": " aku",
+        "start": 46.34,
+        "end": 46.44,
+        "probability": 0.9769366383552551
+      },
+      {
+        "word": " abis",
+        "start": 46.44,
+        "end": 46.64,
+        "probability": 0.916358232498169
+      },
+      {
+        "word": " telah",
+        "start": 46.64,
+        "end": 46.94,
+        "probability": 0.6845295131206512
+      },
+      {
+        "word": " sih.",
+        "start": 46.94,
+        "end": 47.14,
+        "probability": 0.9475716352462769
+      },
+      {
+        "word": " Abis",
+        "start": 47.36,
+        "end": 47.54,
+        "probability": 0.9799594283103943
+      },
+      {
+        "word": " itu",
+        "start": 47.54,
+        "end": 47.74,
+        "probability": 0.9970968961715698
+      },
+      {
+        "word": " lanjut",
+        "start": 47.74,
+        "end": 48.56,
+        "probability": 0.7410496324300766
+      },
+      {
+        "word": " ke",
+        "start": 48.56,
+        "end": 48.66,
+        "probability": 0.5987817049026489
+      },
+      {
+        "word": " para",
+        "start": 48.66,
+        "end": 48.84,
+        "probability": 0.24396680295467377
+      },
+      {
+        "word": " Buya.",
+        "start": 48.84,
+        "end": 48.98,
+        "probability": 0.8406021595001221
+      }
+    ]
+  }
+]

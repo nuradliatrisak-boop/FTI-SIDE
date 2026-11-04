@@ -1,0 +1,171 @@
+[
+  {
+    "start": 2240.0,
+    "end": 2250.98,
+    "text": " IG BEM FTI ya. Jangan lupa follow ya. Jangan lupa follow ya. Jangan lupa follow, like, komen, dan subscribe. Betul. Oke, jadi mungkin segitu aja. Terima kasih.",
+    "words": [
+      {
+        "word": " IG",
+        "start": 2240.0,
+        "end": 2240.34,
+        "probability": 0.8528357148170471
+      },
+      {
+        "word": " BEM",
+        "start": 2240.34,
+        "end": 2240.72,
+        "probability": 0.3731180801987648
+      },
+      {
+        "word": " FTI",
+        "start": 2240.72,
+        "end": 2241.24,
+        "probability": 0.6000837832689285
+      },
+      {
+        "word": " ya.",
+        "start": 2241.24,
+        "end": 2241.48,
+        "probability": 0.2056088000535965
+      },
+      {
+        "word": " Jangan",
+        "start": 2241.62,
+        "end": 2242.14,
+        "probability": 0.9471004903316498
+      },
+      {
+        "word": " lupa",
+        "start": 2242.14,
+        "end": 2242.38,
+        "probability": 0.9985547959804535
+      },
+      {
+        "word": " follow",
+        "start": 2242.38,
+        "end": 2242.64,
+        "probability": 0.9972586631774902
+      },
+      {
+        "word": " ya.",
+        "start": 2242.64,
+        "end": 2242.8,
+        "probability": 0.9756704568862915
+      },
+      {
+        "word": " Jangan",
+        "start": 2242.82,
+        "end": 2243.0,
+        "probability": 0.9418620765209198
+      },
+      {
+        "word": " lupa",
+        "start": 2243.0,
+        "end": 2243.46,
+        "probability": 0.9930561482906342
+      },
+      {
+        "word": " follow",
+        "start": 2243.46,
+        "end": 2243.78,
+        "probability": 0.9952318072319031
+      },
+      {
+        "word": " ya.",
+        "start": 2243.78,
+        "end": 2244.0,
+        "probability": 0.752450168132782
+      },
+      {
+        "word": " Jangan",
+        "start": 2244.32,
+        "end": 2244.5,
+        "probability": 0.769651472568512
+      },
+      {
+        "word": " lupa",
+        "start": 2244.5,
+        "end": 2244.56,
+        "probability": 0.9977942109107971
+      },
+      {
+        "word": " follow,",
+        "start": 2244.56,
+        "end": 2244.82,
+        "probability": 0.9810280203819275
+      },
+      {
+        "word": " like,",
+        "start": 2244.92,
+        "end": 2245.02,
+        "probability": 0.9963266253471375
+      },
+      {
+        "word": " komen,",
+        "start": 2245.12,
+        "end": 2245.28,
+        "probability": 0.9131621718406677
+      },
+      {
+        "word": " dan",
+        "start": 2245.42,
+        "end": 2245.46,
+        "probability": 0.9069029092788696
+      },
+      {
+        "word": " subscribe.",
+        "start": 2245.46,
+        "end": 2245.82,
+        "probability": 0.99868243932724
+      },
+      {
+        "word": " Betul.",
+        "start": 2246.14,
+        "end": 2246.62,
+        "probability": 0.9437821507453918
+      },
+      {
+        "word": " Oke,",
+        "start": 2247.82,
+        "end": 2248.34,
+        "probability": 0.910293459892273
+      },
+      {
+        "word": " jadi",
+        "start": 2248.68,
+        "end": 2248.86,
+        "probability": 0.9981142282485962
+      },
+      {
+        "word": " mungkin",
+        "start": 2248.86,
+        "end": 2249.12,
+        "probability": 0.9998559951782227
+      },
+      {
+        "word": " segitu",
+        "start": 2249.12,
+        "end": 2249.62,
+        "probability": 0.9995576441287994
+      },
+      {
+        "word": " aja.",
+        "start": 2249.62,
+        "end": 2250.02,
+        "probability": 0.9827033281326294
+      },
+      {
+        "word": " Terima",
+        "start": 2250.42,
+        "end": 2250.78,
+        "probability": 0.9988538920879364
+      },
+      {
+        "word": " kasih.",
+        "start": 2250.78,
+        "end": 2250.98,
+        "probability": 0.9996342658996582
+      }
+    ]
+  }
+]

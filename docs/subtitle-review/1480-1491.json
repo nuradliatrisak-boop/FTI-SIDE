@@ -1,0 +1,105 @@
+[
+  {
+    "start": 1480.5800000000002,
+    "end": 1488.1,
+    "text": " Sampradu? Jujur. Gue takut. Apalagi dulu waktu itu gue asafrolasin. Gak boleh deh, jangan membuka aib.",
+    "words": [
+      {
+        "word": " Sampradu?",
+        "start": 1480.5800000000002,
+        "end": 1481.14,
+        "probability": 0.577907825820148
+      },
+      {
+        "word": " Jujur.",
+        "start": 1481.16,
+        "end": 1481.56,
+        "probability": 0.8941249251365662
+      },
+      {
+        "word": " Gue",
+        "start": 1481.9,
+        "end": 1482.4,
+        "probability": 0.7551468014717102
+      },
+      {
+        "word": " takut.",
+        "start": 1482.4,
+        "end": 1482.82,
+        "probability": 0.9968111217021942
+      },
+      {
+        "word": " Apalagi",
+        "start": 1483.2,
+        "end": 1483.62,
+        "probability": 0.9713989098866781
+      },
+      {
+        "word": " dulu",
+        "start": 1483.62,
+        "end": 1483.9,
+        "probability": 0.9636194705963135
+      },
+      {
+        "word": " waktu",
+        "start": 1483.9,
+        "end": 1484.14,
+        "probability": 0.9091638922691345
+      },
+      {
+        "word": " itu",
+        "start": 1484.14,
+        "end": 1484.36,
+        "probability": 0.9976879358291626
+      },
+      {
+        "word": " gue",
+        "start": 1484.36,
+        "end": 1484.62,
+        "probability": 0.9523895382881165
+      },
+      {
+        "word": " asafrolasin.",
+        "start": 1484.62,
+        "end": 1485.52,
+        "probability": 0.6420272290706635
+      },
+      {
+        "word": " Gak",
+        "start": 1485.9,
+        "end": 1486.1,
+        "probability": 0.738332062959671
+      },
+      {
+        "word": " boleh",
+        "start": 1486.1,
+        "end": 1486.24,
+        "probability": 0.9955551028251648
+      },
+      {
+        "word": " deh,",
+        "start": 1486.24,
+        "end": 1486.44,
+        "probability": 0.9982726573944092
+      },
+      {
+        "word": " jangan",
+        "start": 1486.58,
+        "end": 1486.74,
+        "probability": 0.9759366512298584
+      },
+      {
+        "word": " membuka",
+        "start": 1486.74,
+        "end": 1487.82,
+        "probability": 0.7982437312602997
+      },
+      {
+        "word": " aib.",
+        "start": 1487.82,
+        "end": 1488.1,
+        "probability": 0.42283426225185394
+      }
+    ]
+  }
+]

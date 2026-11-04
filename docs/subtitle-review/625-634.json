@@ -1,0 +1,147 @@
+[
+  {
+    "start": 625.0,
+    "end": 633.98,
+    "text": " Ekspektasi masuk Ormawa itu nggak banyak sih kalau dari gue sendiri ya. Gue lebih ekspektasi gue masuk Ormawa adalah improvement buat orang-orang.",
+    "words": [
+      {
+        "word": " Ekspektasi",
+        "start": 625.0,
+        "end": 625.48,
+        "probability": 0.759211253374815
+      },
+      {
+        "word": " masuk",
+        "start": 625.48,
+        "end": 625.86,
+        "probability": 0.9718879461288452
+      },
+      {
+        "word": " Ormawa",
+        "start": 625.86,
+        "end": 626.42,
+        "probability": 0.8541149497032166
+      },
+      {
+        "word": " itu",
+        "start": 626.42,
+        "end": 626.64,
+        "probability": 0.773635745048523
+      },
+      {
+        "word": " nggak",
+        "start": 626.64,
+        "end": 626.9,
+        "probability": 0.21707476675510406
+      },
+      {
+        "word": " banyak",
+        "start": 626.9,
+        "end": 628.0,
+        "probability": 0.6866006255149841
+      },
+      {
+        "word": " sih",
+        "start": 628.0,
+        "end": 628.18,
+        "probability": 0.9548272490501404
+      },
+      {
+        "word": " kalau",
+        "start": 628.18,
+        "end": 628.38,
+        "probability": 0.46063143014907837
+      },
+      {
+        "word": " dari",
+        "start": 628.38,
+        "end": 628.58,
+        "probability": 0.9820772409439087
+      },
+      {
+        "word": " gue",
+        "start": 628.58,
+        "end": 628.78,
+        "probability": 0.9550283551216125
+      },
+      {
+        "word": " sendiri",
+        "start": 628.78,
+        "end": 629.02,
+        "probability": 0.9994695782661438
+      },
+      {
+        "word": " ya.",
+        "start": 629.02,
+        "end": 629.22,
+        "probability": 0.9106829166412354
+      },
+      {
+        "word": " Gue",
+        "start": 629.62,
+        "end": 629.82,
+        "probability": 0.9081044793128967
+      },
+      {
+        "word": " lebih",
+        "start": 629.82,
+        "end": 630.2,
+        "probability": 0.9982559084892273
+      },
+      {
+        "word": " ekspektasi",
+        "start": 630.2,
+        "end": 631.62,
+        "probability": 0.9952128529548645
+      },
+      {
+        "word": " gue",
+        "start": 631.62,
+        "end": 631.9,
+        "probability": 0.9254325032234192
+      },
+      {
+        "word": " masuk",
+        "start": 631.9,
+        "end": 632.12,
+        "probability": 0.9992281198501587
+      },
+      {
+        "word": " Ormawa",
+        "start": 632.12,
+        "end": 632.64,
+        "probability": 0.9981224536895752
+      },
+      {
+        "word": " adalah",
+        "start": 632.64,
+        "end": 633.02,
+        "probability": 0.9994346499443054
+      },
+      {
+        "word": " improvement",
+        "start": 633.02,
+        "end": 633.72,
+        "probability": 0.9641201496124268
+      },
+      {
+        "word": " buat",
+        "start": 633.72,
+        "end": 633.98,
+        "probability": 0.9364789128303528
+      },
+      {
+        "word": " orang",
+        "start": 633.98,
+        "end": 633.98,
+        "probability": 0.3098794221878052
+      },
+      {
+        "word": "-orang.",
+        "start": 633.98,
+        "end": 633.98,
+        "probability": 0.5885043144226074
+      }
+    ]
+  }
+]

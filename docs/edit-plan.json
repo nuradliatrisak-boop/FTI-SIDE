@@ -1,0 +1,65 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "source": "studio/public/sources/podcast.mp4",
+  "openingSeconds": 16,
+  "partCardSeconds": 4,
+  "closingSeconds": 7,
+  "episodes": [
+    {
+      "part": 1,
+      "title": "Kenapa Ikut Organisasi?",
+      "sourceStartSeconds": 3.8,
+      "sourceEndSeconds": 1161.6,
+      "nextEpisodeSeconds": 5,
+      "reason": "Alasan bergabung, ekspektasi dan realita BEM, pertemanan dan pengalaman pertama; berhenti sebelum pertanyaan baru tentang perubahan diri.",
+      "spans": [
+        [
+          3.8,
+          595.6
+        ],
+        [
+          607.1,
+          1161.6
+        ]
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Bertumbuh, Memimpin, Mengatur Waktu",
+      "sourceStartSeconds": 1161.6,
+      "sourceEndSeconds": 2279.9,
+      "nextEpisodeSeconds": 0,
+      "reason": "Dimulai dengan pertanyaan perubahan diri; berlanjut ke kepemimpinan proker, prioritas akademik, istirahat, pesan bagi mahasiswa dan salam penutup asli.",
+      "spans": [
+        [
+          1161.6,
+          1873.6
+        ],
+        [
+          1907.2,
+          2279.9
+        ]
+      ]
+    }
+  ],
+  "cuts": [
+    {
+      "sourceStartSeconds": 0,
+      "sourceEndSeconds": 3.8,
+      "reason": "Persiapan rekam dan hitungan sebelum kalimat pembukaan."
+    },
+    {
+      "sourceStartSeconds": 595.6,
+      "sourceEndSeconds": 607.1,
+      "reason": "Pembahasan teknis jeda rekaman dan permintaan cut; candaan sebelumnya tetap dipertahankan."
+    },
+    {
+      "sourceStartSeconds": 1873.6,
+      "sourceEndSeconds": 1907.2,
+      "reason": "Diskusi di balik layar tentang pertanyaan berikutnya, baca naskah dan pindah topik; dilanjutkan tepat pada pertanyaan kesan/pesan."
+    }
+  ],
+  "note": "Batas episode dikonfirmasi pada jeda sebelum pertanyaan baru source 1162.04. Potongan teknis berada di antara ujaran, bukan di tengah kalimat. Urutan seluruh bahasan utama tetap dipertahankan."
+}

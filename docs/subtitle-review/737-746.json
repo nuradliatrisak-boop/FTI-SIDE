@@ -1,0 +1,112 @@
+[
+  {
+    "start": 737.0,
+    "end": 737.94,
+    "text": " Kita lihat aja nanti.",
+    "words": [
+      {
+        "word": " Kita",
+        "start": 737.0,
+        "end": 737.28,
+        "probability": 0.4193509817123413
+      },
+      {
+        "word": " lihat",
+        "start": 737.28,
+        "end": 737.46,
+        "probability": 0.739657998085022
+      },
+      {
+        "word": " aja",
+        "start": 737.46,
+        "end": 737.54,
+        "probability": 0.5527359247207642
+      },
+      {
+        "word": " nanti.",
+        "start": 737.54,
+        "end": 737.94,
+        "probability": 0.9961547255516052
+      }
+    ]
+  },
+  {
+    "start": 739.1800000000001,
+    "end": 744.02,
+    "text": " Gimana dari cahaya, efektasi dan realitinya gimana jauh ini di BEM FTI?",
+    "words": [
+      {
+        "word": " Gimana",
+        "start": 739.1800000000001,
+        "end": 739.74,
+        "probability": 0.877644956111908
+      },
+      {
+        "word": " dari",
+        "start": 739.74,
+        "end": 740.02,
+        "probability": 0.9636092782020569
+      },
+      {
+        "word": " cahaya,",
+        "start": 740.02,
+        "end": 741.1,
+        "probability": 0.9695542256037394
+      },
+      {
+        "word": " efektasi",
+        "start": 741.28,
+        "end": 741.8,
+        "probability": 0.829893430074056
+      },
+      {
+        "word": " dan",
+        "start": 741.8,
+        "end": 741.94,
+        "probability": 0.5802714228630066
+      },
+      {
+        "word": " realitinya",
+        "start": 741.94,
+        "end": 742.3,
+        "probability": 0.8726533452669779
+      },
+      {
+        "word": " gimana",
+        "start": 742.3,
+        "end": 742.66,
+        "probability": 0.9141198396682739
+      },
+      {
+        "word": " jauh",
+        "start": 742.66,
+        "end": 743.22,
+        "probability": 0.742103507121404
+      },
+      {
+        "word": " ini",
+        "start": 743.22,
+        "end": 743.3,
+        "probability": 0.9751601219177246
+      },
+      {
+        "word": " di",
+        "start": 743.3,
+        "end": 743.44,
+        "probability": 0.979142427444458
+      },
+      {
+        "word": " BEM",
+        "start": 743.44,
+        "end": 743.72,
+        "probability": 0.053051501512527466
+      },
+      {
+        "word": " FTI?",
+        "start": 743.72,
+        "end": 744.02,
+        "probability": 0.4632394388318062
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.partial
+studio/public/sources/
+deliverables/
+
+models/
+docs/*.wav
+
+renders/
+
+revisions/
+
+# Regenerable audio master; render scripts recreate it from the original source.
+studio/public/audio/podcast-normalized.m4a

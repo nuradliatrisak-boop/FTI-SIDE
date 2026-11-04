@@ -1,0 +1,710 @@
+[
+  {
+    "startMs": 13960,
+    "before": " Abis -abiskan",
+    "after": " Abis-abiskan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 38000,
+    "before": " kabar -kabar",
+    "after": " kabar-kabar",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 71100,
+    "before": " 4 .0.",
+    "after": " 4.0.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 81750,
+    "before": " teman -teman.",
+    "after": " teman-teman.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 82510,
+    "before": " apa -apa",
+    "after": " apa-apa",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 87730,
+    "before": " apa -apanya,",
+    "after": " apa-apanya,",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 106220,
+    "before": " lain -lain.",
+    "after": " lain-lain.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 108820,
+    "before": " Kadep -kadep.",
+    "after": " Kadep-kadep.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 109820,
+    "before": " Kadip -kadip",
+    "after": " Kadip-kadip",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 130740,
+    "before": " 7 .30",
+    "after": " 7.30",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 136400,
+    "before": " teman -teman.",
+    "after": " teman-teman.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 142490,
+    "before": " A .K",
+    "after": " A.K",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 142490,
+    "before": " A.K .A.",
+    "after": " A.K.A.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 144970,
+    "before": " siap -siap",
+    "after": " siap-siap",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 153470,
+    "before": " Siap -siap",
+    "after": " Siap-siap",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 163250,
+    "before": " tugas -tugas",
+    "after": " tugas-tugas",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 176830,
+    "before": " IPK -nya",
+    "after": " IPK-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 180590,
+    "before": " UTS -UTS",
+    "after": " UTS-UTS",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 187050,
+    "before": " bener -bener",
+    "after": " bener-bener",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 189820,
+    "before": " nyuntek -nyuntek",
+    "after": " nyuntek-nyuntek",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 194560,
+    "before": " malam -nya.",
+    "after": " malam-nya.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 225200,
+    "before": " babat -bebet",
+    "after": " babat-bebet",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 232880,
+    "before": " adik -adik.",
+    "after": " adik-adik.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 276180,
+    "before": " hal -hal",
+    "after": " hal-hal",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 292020,
+    "before": " temen -temen",
+    "after": " temen-temen",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 304360,
+    "before": " Abang -abangan.",
+    "after": " Abang-abangan.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 352370,
+    "before": " aktif -aktif",
+    "after": " aktif-aktif",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 414320,
+    "before": " teman -teman.",
+    "after": " teman-teman.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 452740,
+    "before": " temen -temen",
+    "after": " temen-temen",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 486600,
+    "before": " pressure -nya",
+    "after": " pressure-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 494720,
+    "before": " mepet -mepet",
+    "after": " mepet-mepet",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 509240,
+    "before": " mirip -mirip",
+    "after": " mirip-mirip",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 513280,
+    "before": " teman -teman.",
+    "after": " teman-teman.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 534140,
+    "before": " bener -bener",
+    "after": " bener-bener",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 545020,
+    "before": " teman -teman.",
+    "after": " teman-teman.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 556520,
+    "before": " absen -nya",
+    "after": " absen-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 567420,
+    "before": " cabut -cabutan.",
+    "after": " cabut-cabutan.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 612610,
+    "before": " kira -kira",
+    "after": " kira-kira",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 632110,
+    "before": " Or Mawah",
+    "after": " Ormawa",
+    "reason": "consistent spelling of Ormawa"
+  },
+  {
+    "startMs": 666830,
+    "before": " sangat -sangat",
+    "after": " sangat-sangat",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 678450,
+    "before": " selipan -selipan",
+    "after": " selipan-selipan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 748910,
+    "before": " apa -apa.",
+    "after": " apa-apa.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 753610,
+    "before": " jurusan -jurusan",
+    "after": " jurusan-jurusan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 779860,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 809340,
+    "before": " lomba -lomba",
+    "after": " lomba-lomba",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 817360,
+    "before": " Non -akademik,",
+    "after": " Non-akademik,",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 908400,
+    "before": " ikut -ikutan",
+    "after": " ikut-ikutan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 911550,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 914010,
+    "before": " apa -apa.",
+    "after": " apa-apa.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 946180,
+    "before": " se -vokal",
+    "after": " se-vokal",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 949000,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 955600,
+    "before": " temen -temen",
+    "after": " temen-temen",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 958340,
+    "before": " gimana -gimana.",
+    "after": " gimana-gimana.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 988230,
+    "before": " sangat -sangat",
+    "after": " sangat-sangat",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1046530,
+    "before": " lain -lain.",
+    "after": " lain-lain.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1075480,
+    "before": " nge -MC,",
+    "after": " nge-MC,",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1105460,
+    "before": " mabang -mabangnya.",
+    "after": " mabang-mabangnya.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1109620,
+    "before": " Suka -suka",
+    "after": " Suka-suka",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1110020,
+    "before": " bercanda -bercanda",
+    "after": " bercanda-bercanda",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1111120,
+    "before": " kita -kita.",
+    "after": " kita-kita.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1114340,
+    "before": " rame -rame",
+    "after": " rame-rame",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1137690,
+    "before": " 117 -an.",
+    "after": " 117-an.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1162480,
+    "before": " tadi -tadi",
+    "after": " tadi-tadi",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1163260,
+    "before": " organisasi -organisasi",
+    "after": " organisasi-organisasi",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1167340,
+    "before": " hal -hal",
+    "after": " hal-hal",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1218210,
+    "before": " pelan -pelan",
+    "after": " pelan-pelan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1220190,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1243620,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1249780,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1294370,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1317240,
+    "before": " apa -apa.",
+    "after": " apa-apa.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1320960,
+    "before": " apa -apapa.",
+    "after": " apa-apapa.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1332690,
+    "before": " hal -hal",
+    "after": " hal-hal",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1357770,
+    "before": " orang -orang",
+    "after": " orang-orang",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1359090,
+    "before": " bener -bener",
+    "after": " bener-bener",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1362690,
+    "before": " temen -temen",
+    "after": " temen-temen",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1369610,
+    "before": " management -nya",
+    "after": " management-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1378270,
+    "before": " siap -siap",
+    "after": " siap-siap",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1390070,
+    "before": " lain -lainnya",
+    "after": " lain-lainnya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1392310,
+    "before": " nge -manage",
+    "after": " nge-manage",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1425520,
+    "before": " temen -temen.",
+    "after": " temen-temen.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1470200,
+    "before": " kakak -kakak",
+    "after": " kakak-kakak",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1471780,
+    "before": " masing -masing",
+    "after": " masing-masing",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1501050,
+    "before": " benar -benar",
+    "after": " benar-benar",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1504410,
+    "before": " huru -hara",
+    "after": " huru-hara",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1521730,
+    "before": " scroll -nya",
+    "after": " scroll-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1547360,
+    "before": " anak -anak",
+    "after": " anak-anak",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1549960,
+    "before": " main -main",
+    "after": " main-main",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1575330,
+    "before": " bener -bener",
+    "after": " bener-bener",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1584650,
+    "before": " benar -benar",
+    "after": " benar-benar",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1589020,
+    "before": " alhamdulillah -nya",
+    "after": " alhamdulillah-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1618070,
+    "before": " prosedur -prosedur",
+    "after": " prosedur-prosedur",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1653710,
+    "before": " kita -kita",
+    "after": " kita-kita",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1716540,
+    "before": " RK -A",
+    "after": " RK-A",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1765610,
+    "before": " mentok -mentok",
+    "after": " mentok-mentok",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1777390,
+    "before": " kakak -kakak",
+    "after": " kakak-kakak",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1803470,
+    "before": " nge -refreshing",
+    "after": " nge-refreshing",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1810350,
+    "before": " temen -temen",
+    "after": " temen-temen",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1828760,
+    "before": " battery -nya",
+    "after": " battery-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1849950,
+    "before": " dua -duanya.",
+    "after": " dua-duanya.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1857730,
+    "before": " hal -hal",
+    "after": " hal-hal",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1872770,
+    "before": " temen -temen.",
+    "after": " temen-temen.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1924620,
+    "before": " satu -satu",
+    "after": " satu-satu",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1941130,
+    "before": " ilmu -ilmu",
+    "after": " ilmu-ilmu",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1943190,
+    "before": " sebelum -sebelumnya",
+    "after": " sebelum-sebelumnya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1956270,
+    "before": " seru -seru",
+    "after": " seru-seru",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1962220,
+    "before": " teman -teman.",
+    "after": " teman-teman.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1968080,
+    "before": " bener -bener",
+    "after": " bener-bener",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 1980080,
+    "before": " sempit -sempitan",
+    "after": " sempit-sempitan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2000540,
+    "before": " temen -temennya.",
+    "after": " temen-temennya.",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2001420,
+    "before": " Temen -temannya",
+    "after": " Temen-temannya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2011280,
+    "before": " angkatan -angkatan",
+    "after": " angkatan-angkatan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2086750,
+    "before": " pesan -pesan",
+    "after": " pesan-pesan",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2089890,
+    "before": " kira -kira",
+    "after": " kira-kira",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2144040,
+    "before": " kata -kata",
+    "after": " kata-kata",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2153940,
+    "before": " progres -progres",
+    "after": " progres-progres",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2174000,
+    "before": " next -nya",
+    "after": " next-nya",
+    "reason": "written-word/number formatting only"
+  },
+  {
+    "startMs": 2227380,
+    "before": " experience -experience",
+    "after": " experience-experience",
+    "reason": "written-word/number formatting only"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "start": 520.0,
+    "end": 528.6,
+    "text": " Terima kasih telah menonton.",
+    "words": [
+      {
+        "word": " Terima",
+        "start": 520.0,
+        "end": 520.84,
+        "probability": 0.5303837656974792
+      },
+      {
+        "word": " kasih",
+        "start": 520.84,
+        "end": 521.78,
+        "probability": 0.9972055554389954
+      },
+      {
+        "word": " telah",
+        "start": 521.78,
+        "end": 528.6,
+        "probability": 0.5533105880022049
+      },
+      {
+        "word": " menonton.",
+        "start": 528.6,
+        "end": 528.6,
+        "probability": 0.9923343360424042
+      }
+    ]
+  }
+]

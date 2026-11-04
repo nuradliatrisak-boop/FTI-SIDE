@@ -1,0 +1,2 @@
+Padding 4 frames due to source video ending before audio
+Tail fixed; all conversation audio preserved

@@ -1,0 +1,238 @@
+[
+  {
+    "start": 1684.0,
+    "end": 1693.46,
+    "text": " PIM karena itu belum mulai akademiknya. Tapi pusingnya itu, pas lagi liburan harus ngerjain proposal, revisi, kegangguinnya di situ aja sebenarnya.",
+    "words": [
+      {
+        "word": " PIM",
+        "start": 1684.0,
+        "end": 1684.38,
+        "probability": 0.9234396517276764
+      },
+      {
+        "word": " karena",
+        "start": 1684.38,
+        "end": 1684.64,
+        "probability": 0.5859721302986145
+      },
+      {
+        "word": " itu",
+        "start": 1684.64,
+        "end": 1684.78,
+        "probability": 0.8150475025177002
+      },
+      {
+        "word": " belum",
+        "start": 1684.78,
+        "end": 1685.04,
+        "probability": 0.9982309937477112
+      },
+      {
+        "word": " mulai",
+        "start": 1685.04,
+        "end": 1685.48,
+        "probability": 0.999683678150177
+      },
+      {
+        "word": " akademiknya.",
+        "start": 1685.48,
+        "end": 1687.16,
+        "probability": 0.8072298839688301
+      },
+      {
+        "word": " Tapi",
+        "start": 1687.34,
+        "end": 1687.84,
+        "probability": 0.9969432950019836
+      },
+      {
+        "word": " pusingnya",
+        "start": 1687.84,
+        "end": 1688.2,
+        "probability": 0.8341890374819437
+      },
+      {
+        "word": " itu,",
+        "start": 1688.2,
+        "end": 1688.38,
+        "probability": 0.9983869791030884
+      },
+      {
+        "word": " pas",
+        "start": 1688.56,
+        "end": 1688.64,
+        "probability": 0.9978317618370056
+      },
+      {
+        "word": " lagi",
+        "start": 1688.64,
+        "end": 1688.86,
+        "probability": 0.9991260170936584
+      },
+      {
+        "word": " liburan",
+        "start": 1688.86,
+        "end": 1689.3,
+        "probability": 0.994479238986969
+      },
+      {
+        "word": " harus",
+        "start": 1689.3,
+        "end": 1689.54,
+        "probability": 0.3583707809448242
+      },
+      {
+        "word": " ngerjain",
+        "start": 1689.54,
+        "end": 1689.9,
+        "probability": 0.8925715833902359
+      },
+      {
+        "word": " proposal,",
+        "start": 1689.9,
+        "end": 1690.36,
+        "probability": 0.9835949540138245
+      },
+      {
+        "word": " revisi,",
+        "start": 1690.88,
+        "end": 1691.5,
+        "probability": 0.8593803644180298
+      },
+      {
+        "word": " kegangguinnya",
+        "start": 1691.92,
+        "end": 1692.7,
+        "probability": 0.6230058550834656
+      },
+      {
+        "word": " di",
+        "start": 1692.7,
+        "end": 1692.76,
+        "probability": 0.6168109774589539
+      },
+      {
+        "word": " situ",
+        "start": 1692.76,
+        "end": 1692.92,
+        "probability": 0.9996463060379028
+      },
+      {
+        "word": " aja",
+        "start": 1692.92,
+        "end": 1693.12,
+        "probability": 0.844720184803009
+      },
+      {
+        "word": " sebenarnya.",
+        "start": 1693.12,
+        "end": 1693.46,
+        "probability": 0.7608719170093536
+      }
+    ]
+  },
+  {
+    "start": 1693.66,
+    "end": 1701.22,
+    "text": " Oke, berarti makan waktu libur ya. Itu adalah relata yang harus dihadapi oleh mahasiswa yang berorganisasi.",
+    "words": [
+      {
+        "word": " Oke,",
+        "start": 1693.66,
+        "end": 1694.0,
+        "probability": 0.11379467695951462
+      },
+      {
+        "word": " berarti",
+        "start": 1694.64,
+        "end": 1695.26,
+        "probability": 0.9965427219867706
+      },
+      {
+        "word": " makan",
+        "start": 1695.26,
+        "end": 1695.7,
+        "probability": 0.9991055130958557
+      },
+      {
+        "word": " waktu",
+        "start": 1695.7,
+        "end": 1696.3,
+        "probability": 0.9240283966064453
+      },
+      {
+        "word": " libur",
+        "start": 1696.3,
+        "end": 1696.72,
+        "probability": 0.9375350773334503
+      },
+      {
+        "word": " ya.",
+        "start": 1696.72,
+        "end": 1696.86,
+        "probability": 0.9560900330543518
+      },
+      {
+        "word": " Itu",
+        "start": 1697.54,
+        "end": 1697.92,
+        "probability": 0.565780758857727
+      },
+      {
+        "word": " adalah",
+        "start": 1697.92,
+        "end": 1698.22,
+        "probability": 0.9998632669448853
+      },
+      {
+        "word": " relata",
+        "start": 1698.22,
+        "end": 1698.66,
+        "probability": 0.45613135397434235
+      },
+      {
+        "word": " yang",
+        "start": 1698.66,
+        "end": 1698.82,
+        "probability": 0.9998106360435486
+      },
+      {
+        "word": " harus",
+        "start": 1698.82,
+        "end": 1699.04,
+        "probability": 0.9998428821563721
+      },
+      {
+        "word": " dihadapi",
+        "start": 1699.04,
+        "end": 1699.48,
+        "probability": 0.9285256862640381
+      },
+      {
+        "word": " oleh",
+        "start": 1699.48,
+        "end": 1699.74,
+        "probability": 0.9993820190429688
+      },
+      {
+        "word": " mahasiswa",
+        "start": 1699.74,
+        "end": 1700.38,
+        "probability": 0.9963779598474503
+      },
+      {
+        "word": " yang",
+        "start": 1700.38,
+        "end": 1700.48,
+        "probability": 0.9983458518981934
+      },
+      {
+        "word": " berorganisasi.",
+        "start": 1700.48,
+        "end": 1701.22,
+        "probability": 0.9972533583641052
+      }
+    ]
+  }
+]

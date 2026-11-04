@@ -1,0 +1,184 @@
+[
+  {
+    "start": 1954.8200000000002,
+    "end": 1963.6,
+    "text": " Gw jamin temennya seru-seru parah, seriusan gak ngomong. Selama dua periode, udah terbukti tidak ada yang vlog temen-temen. Seru banget, seru.",
+    "words": [
+      {
+        "word": " Gw",
+        "start": 1954.8200000000002,
+        "end": 1955.4,
+        "probability": 0.3196947039104998
+      },
+      {
+        "word": " jamin",
+        "start": 1955.4,
+        "end": 1955.84,
+        "probability": 0.86775341629982
+      },
+      {
+        "word": " temennya",
+        "start": 1955.84,
+        "end": 1956.26,
+        "probability": 0.9025476376215616
+      },
+      {
+        "word": " seru",
+        "start": 1956.26,
+        "end": 1956.54,
+        "probability": 0.9330399632453918
+      },
+      {
+        "word": "-seru",
+        "start": 1956.54,
+        "end": 1956.76,
+        "probability": 0.8503913084665934
+      },
+      {
+        "word": " parah,",
+        "start": 1956.76,
+        "end": 1957.1,
+        "probability": 0.7913199365139008
+      },
+      {
+        "word": " seriusan",
+        "start": 1957.1,
+        "end": 1957.6,
+        "probability": 0.8433810472488403
+      },
+      {
+        "word": " gak",
+        "start": 1957.6,
+        "end": 1957.72,
+        "probability": 0.32431918382644653
+      },
+      {
+        "word": " ngomong.",
+        "start": 1957.72,
+        "end": 1958.08,
+        "probability": 0.9709742267926534
+      },
+      {
+        "word": " Selama",
+        "start": 1958.18,
+        "end": 1958.72,
+        "probability": 0.9726479649543762
+      },
+      {
+        "word": " dua",
+        "start": 1958.72,
+        "end": 1958.88,
+        "probability": 0.6265051960945129
+      },
+      {
+        "word": " periode,",
+        "start": 1958.88,
+        "end": 1959.28,
+        "probability": 0.9964857697486877
+      },
+      {
+        "word": " udah",
+        "start": 1959.68,
+        "end": 1960.26,
+        "probability": 0.8712630867958069
+      },
+      {
+        "word": " terbukti",
+        "start": 1960.26,
+        "end": 1961.2,
+        "probability": 0.9819620549678802
+      },
+      {
+        "word": " tidak",
+        "start": 1961.2,
+        "end": 1961.64,
+        "probability": 0.43464726209640503
+      },
+      {
+        "word": " ada",
+        "start": 1961.64,
+        "end": 1961.86,
+        "probability": 0.9910749197006226
+      },
+      {
+        "word": " yang",
+        "start": 1961.86,
+        "end": 1961.98,
+        "probability": 0.9820918440818787
+      },
+      {
+        "word": " vlog",
+        "start": 1961.98,
+        "end": 1962.22,
+        "probability": 0.9035536050796509
+      },
+      {
+        "word": " temen",
+        "start": 1962.22,
+        "end": 1962.52,
+        "probability": 0.871328741312027
+      },
+      {
+        "word": "-temen.",
+        "start": 1962.52,
+        "end": 1962.68,
+        "probability": 0.991603950659434
+      },
+      {
+        "word": " Seru",
+        "start": 1962.82,
+        "end": 1963.04,
+        "probability": 0.9834595024585724
+      },
+      {
+        "word": " banget,",
+        "start": 1963.04,
+        "end": 1963.2,
+        "probability": 0.9839044809341431
+      },
+      {
+        "word": " seru.",
+        "start": 1963.36,
+        "end": 1963.6,
+        "probability": 0.9963711202144623
+      }
+    ]
+  },
+  {
+    "start": 1963.7,
+    "end": 1965.98,
+    "text": " In every broker, in every...",
+    "words": [
+      {
+        "word": " In",
+        "start": 1963.7,
+        "end": 1964.14,
+        "probability": 0.6209586262702942
+      },
+      {
+        "word": " every",
+        "start": 1964.14,
+        "end": 1964.38,
+        "probability": 0.9924176931381226
+      },
+      {
+        "word": " broker,",
+        "start": 1964.38,
+        "end": 1964.86,
+        "probability": 0.9911738038063049
+      },
+      {
+        "word": " in",
+        "start": 1965.2,
+        "end": 1965.34,
+        "probability": 0.9874727725982666
+      },
+      {
+        "word": " every...",
+        "start": 1965.34,
+        "end": 1965.98,
+        "probability": 0.7905378043651581
+      }
+    ]
+  }
+]

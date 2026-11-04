@@ -1,0 +1,378 @@
+[
+  {
+    "start": 1851.0,
+    "end": 1862.82,
+    "text": " Yang lebih gue butuhkan sekarang tuh gimana? Kalo misalkan gue butuh istirahat otak, ya gue bakal main game. Gue bakal refreshing dengan hal-hal fun gitu kan. Kalo misalkan gue butuh istirahat fisik, kayak udah capek banget, terelap lah saya.",
+    "words": [
+      {
+        "word": " Yang",
+        "start": 1851.0,
+        "end": 1851.3,
+        "probability": 0.335091769695282
+      },
+      {
+        "word": " lebih",
+        "start": 1851.3,
+        "end": 1851.64,
+        "probability": 0.8508710265159607
+      },
+      {
+        "word": " gue",
+        "start": 1851.64,
+        "end": 1851.78,
+        "probability": 0.6463099718093872
+      },
+      {
+        "word": " butuhkan",
+        "start": 1851.78,
+        "end": 1852.14,
+        "probability": 0.9732955892880758
+      },
+      {
+        "word": " sekarang",
+        "start": 1852.14,
+        "end": 1852.36,
+        "probability": 0.971140444278717
+      },
+      {
+        "word": " tuh",
+        "start": 1852.36,
+        "end": 1852.52,
+        "probability": 0.6639840006828308
+      },
+      {
+        "word": " gimana?",
+        "start": 1852.52,
+        "end": 1853.02,
+        "probability": 0.8129538297653198
+      },
+      {
+        "word": " Kalo",
+        "start": 1853.1,
+        "end": 1853.22,
+        "probability": 0.6392311900854111
+      },
+      {
+        "word": " misalkan",
+        "start": 1853.22,
+        "end": 1853.52,
+        "probability": 0.8871410091718038
+      },
+      {
+        "word": " gue",
+        "start": 1853.52,
+        "end": 1853.64,
+        "probability": 0.9310057163238525
+      },
+      {
+        "word": " butuh",
+        "start": 1853.64,
+        "end": 1853.94,
+        "probability": 0.9945975542068481
+      },
+      {
+        "word": " istirahat",
+        "start": 1853.94,
+        "end": 1854.3,
+        "probability": 0.993877112865448
+      },
+      {
+        "word": " otak,",
+        "start": 1854.3,
+        "end": 1854.72,
+        "probability": 0.9970065951347351
+      },
+      {
+        "word": " ya",
+        "start": 1854.94,
+        "end": 1855.0,
+        "probability": 0.8078661561012268
+      },
+      {
+        "word": " gue",
+        "start": 1855.0,
+        "end": 1855.1,
+        "probability": 0.9317523241043091
+      },
+      {
+        "word": " bakal",
+        "start": 1855.1,
+        "end": 1855.36,
+        "probability": 0.9878997802734375
+      },
+      {
+        "word": " main",
+        "start": 1855.36,
+        "end": 1855.52,
+        "probability": 0.9937185049057007
+      },
+      {
+        "word": " game.",
+        "start": 1855.52,
+        "end": 1855.82,
+        "probability": 0.9863594174385071
+      },
+      {
+        "word": " Gue",
+        "start": 1856.02,
+        "end": 1856.06,
+        "probability": 0.9113941192626953
+      },
+      {
+        "word": " bakal",
+        "start": 1856.06,
+        "end": 1856.32,
+        "probability": 0.9945466816425323
+      },
+      {
+        "word": " refreshing",
+        "start": 1856.32,
+        "end": 1857.4,
+        "probability": 0.45647284388542175
+      },
+      {
+        "word": " dengan",
+        "start": 1857.4,
+        "end": 1857.74,
+        "probability": 0.9165657758712769
+      },
+      {
+        "word": " hal",
+        "start": 1857.74,
+        "end": 1857.94,
+        "probability": 0.9956837892532349
+      },
+      {
+        "word": "-hal",
+        "start": 1857.94,
+        "end": 1858.08,
+        "probability": 0.9796390533447266
+      },
+      {
+        "word": " fun",
+        "start": 1858.08,
+        "end": 1858.36,
+        "probability": 0.9919318556785583
+      },
+      {
+        "word": " gitu",
+        "start": 1858.36,
+        "end": 1858.54,
+        "probability": 0.8026707172393799
+      },
+      {
+        "word": " kan.",
+        "start": 1858.54,
+        "end": 1858.72,
+        "probability": 0.7622765302658081
+      },
+      {
+        "word": " Kalo",
+        "start": 1859.14,
+        "end": 1859.34,
+        "probability": 0.9847133159637451
+      },
+      {
+        "word": " misalkan",
+        "start": 1859.34,
+        "end": 1859.58,
+        "probability": 0.9943876465161642
+      },
+      {
+        "word": " gue",
+        "start": 1859.58,
+        "end": 1859.7,
+        "probability": 0.9724041819572449
+      },
+      {
+        "word": " butuh",
+        "start": 1859.7,
+        "end": 1859.94,
+        "probability": 0.9977831840515137
+      },
+      {
+        "word": " istirahat",
+        "start": 1859.94,
+        "end": 1860.26,
+        "probability": 0.99819216132164
+      },
+      {
+        "word": " fisik,",
+        "start": 1860.26,
+        "end": 1860.68,
+        "probability": 0.9977002739906311
+      },
+      {
+        "word": " kayak",
+        "start": 1860.74,
+        "end": 1860.8,
+        "probability": 0.4716304540634155
+      },
+      {
+        "word": " udah",
+        "start": 1860.8,
+        "end": 1861.0,
+        "probability": 0.9292076826095581
+      },
+      {
+        "word": " capek",
+        "start": 1861.0,
+        "end": 1861.36,
+        "probability": 0.837942361831665
+      },
+      {
+        "word": " banget,",
+        "start": 1861.36,
+        "end": 1861.6,
+        "probability": 0.9963167905807495
+      },
+      {
+        "word": " terelap",
+        "start": 1862.04,
+        "end": 1862.44,
+        "probability": 0.4970191220442454
+      },
+      {
+        "word": " lah",
+        "start": 1862.44,
+        "end": 1862.56,
+        "probability": 0.9236853122711182
+      },
+      {
+        "word": " saya.",
+        "start": 1862.56,
+        "end": 1862.82,
+        "probability": 0.8640256524085999
+      }
+    ]
+  },
+  {
+    "start": 1863.96,
+    "end": 1866.58,
+    "text": " Berarti kita udah ready ya jadi ketua belah sana, tolong saya.",
+    "words": [
+      {
+        "word": " Berarti",
+        "start": 1863.96,
+        "end": 1864.4,
+        "probability": 0.9008419215679169
+      },
+      {
+        "word": " kita",
+        "start": 1864.4,
+        "end": 1864.52,
+        "probability": 0.28851380944252014
+      },
+      {
+        "word": " udah",
+        "start": 1864.52,
+        "end": 1864.7,
+        "probability": 0.8307074308395386
+      },
+      {
+        "word": " ready",
+        "start": 1864.7,
+        "end": 1865.0,
+        "probability": 0.8507652878761292
+      },
+      {
+        "word": " ya",
+        "start": 1865.0,
+        "end": 1865.16,
+        "probability": 0.3115302324295044
+      },
+      {
+        "word": " jadi",
+        "start": 1865.16,
+        "end": 1865.34,
+        "probability": 0.8034017086029053
+      },
+      {
+        "word": " ketua",
+        "start": 1865.34,
+        "end": 1865.62,
+        "probability": 0.8593180477619171
+      },
+      {
+        "word": " belah",
+        "start": 1865.62,
+        "end": 1865.8,
+        "probability": 0.8203361928462982
+      },
+      {
+        "word": " sana,",
+        "start": 1865.8,
+        "end": 1865.98,
+        "probability": 0.9834152460098267
+      },
+      {
+        "word": " tolong",
+        "start": 1866.12,
+        "end": 1866.3,
+        "probability": 0.9702021181583405
+      },
+      {
+        "word": " saya.",
+        "start": 1866.3,
+        "end": 1866.58,
+        "probability": 0.219776451587677
+      }
+    ]
+  },
+  {
+    "start": 1867.2,
+    "end": 1867.9,
+    "text": " Wow, wow, wow.",
+    "words": [
+      {
+        "word": " Wow,",
+        "start": 1867.2,
+        "end": 1867.44,
+        "probability": 0.429424911737442
+      },
+      {
+        "word": " wow,",
+        "start": 1867.76,
+        "end": 1867.76,
+        "probability": 0.855161190032959
+      },
+      {
+        "word": " wow.",
+        "start": 1867.76,
+        "end": 1867.9,
+        "probability": 0.9727450609207153
+      }
+    ]
+  },
+  {
+    "start": 1868.16,
+    "end": 1868.9,
+    "text": " Cantet ya, cantet ya.",
+    "words": [
+      {
+        "word": " Cantet",
+        "start": 1868.16,
+        "end": 1868.48,
+        "probability": 0.4332888498902321
+      },
+      {
+        "word": " ya,",
+        "start": 1868.48,
+        "end": 1868.58,
+        "probability": 0.7799088954925537
+      },
+      {
+        "word": " cantet",
+        "start": 1868.6,
+        "end": 1868.82,
+        "probability": 0.9613336324691772
+      },
+      {
+        "word": " ya.",
+        "start": 1868.82,
+        "end": 1868.9,
+        "probability": 0.9914883375167847
+      }
+    ]
+  }
+]

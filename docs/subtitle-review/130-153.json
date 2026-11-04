@@ -1,0 +1,374 @@
+[
+  {
+    "start": 130.0,
+    "end": 133.66,
+    "text": " Di pagi, gue 7.30 lagi kelas. Jujur, pagi banget. Gue akuin.",
+    "words": [
+      {
+        "word": " Di",
+        "start": 130.0,
+        "end": 130.0,
+        "probability": 0.00010292394290445372
+      },
+      {
+        "word": " pagi,",
+        "start": 130.0,
+        "end": 130.56,
+        "probability": 0.992385983467102
+      },
+      {
+        "word": " gue",
+        "start": 130.62,
+        "end": 130.76,
+        "probability": 0.5709694027900696
+      },
+      {
+        "word": " 7",
+        "start": 130.76,
+        "end": 131.16,
+        "probability": 0.47492942214012146
+      },
+      {
+        "word": ".30",
+        "start": 131.16,
+        "end": 131.52,
+        "probability": 0.6887453198432922
+      },
+      {
+        "word": " lagi",
+        "start": 131.52,
+        "end": 131.74,
+        "probability": 0.9452497959136963
+      },
+      {
+        "word": " kelas.",
+        "start": 131.74,
+        "end": 132.06,
+        "probability": 0.9878489971160889
+      },
+      {
+        "word": " Jujur,",
+        "start": 132.2,
+        "end": 132.52,
+        "probability": 0.9374444087346395
+      },
+      {
+        "word": " pagi",
+        "start": 132.62,
+        "end": 132.84,
+        "probability": 0.9840773940086365
+      },
+      {
+        "word": " banget.",
+        "start": 132.84,
+        "end": 133.08,
+        "probability": 0.9742528200149536
+      },
+      {
+        "word": " Gue",
+        "start": 133.3,
+        "end": 133.32,
+        "probability": 0.76936274766922
+      },
+      {
+        "word": " akuin.",
+        "start": 133.32,
+        "end": 133.66,
+        "probability": 0.8204620182514191
+      }
+    ]
+  },
+  {
+    "start": 133.78,
+    "end": 136.74,
+    "text": " Oh iya bener, sama aku. Gue bangunnya tuh buat temen-temen.",
+    "words": [
+      {
+        "word": " Oh",
+        "start": 133.78,
+        "end": 134.28,
+        "probability": 0.38651448488235474
+      },
+      {
+        "word": " iya",
+        "start": 134.28,
+        "end": 134.62,
+        "probability": 0.7817324995994568
+      },
+      {
+        "word": " bener,",
+        "start": 134.62,
+        "end": 135.02,
+        "probability": 0.7478354275226593
+      },
+      {
+        "word": " sama",
+        "start": 135.12,
+        "end": 135.32,
+        "probability": 0.8856368660926819
+      },
+      {
+        "word": " aku.",
+        "start": 135.32,
+        "end": 135.6,
+        "probability": 0.9876577854156494
+      },
+      {
+        "word": " Gue",
+        "start": 135.66,
+        "end": 135.82,
+        "probability": 0.9101396799087524
+      },
+      {
+        "word": " bangunnya",
+        "start": 135.82,
+        "end": 136.14,
+        "probability": 0.825397272904714
+      },
+      {
+        "word": " tuh",
+        "start": 136.14,
+        "end": 136.22,
+        "probability": 0.17846983671188354
+      },
+      {
+        "word": " buat",
+        "start": 136.22,
+        "end": 136.32,
+        "probability": 0.427292138338089
+      },
+      {
+        "word": " temen",
+        "start": 136.32,
+        "end": 136.62,
+        "probability": 0.9060119986534119
+      },
+      {
+        "word": "-temen.",
+        "start": 136.62,
+        "end": 136.74,
+        "probability": 0.9695177475611368
+      }
+    ]
+  },
+  {
+    "start": 137.08,
+    "end": 146.22,
+    "text": " It's only bangunnya tuh 45 menit sebelum kelas, a.k.a. mandinya 5 menit doang, siap-siap 10 menit.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 137.08,
+        "end": 137.5,
+        "probability": 0.7240776121616364
+      },
+      {
+        "word": " only",
+        "start": 137.5,
+        "end": 138.08,
+        "probability": 0.9891515970230103
+      },
+      {
+        "word": " bangunnya",
+        "start": 138.08,
+        "end": 139.7,
+        "probability": 0.7175709108511606
+      },
+      {
+        "word": " tuh",
+        "start": 139.7,
+        "end": 140.02,
+        "probability": 0.9424374103546143
+      },
+      {
+        "word": " 45",
+        "start": 140.02,
+        "end": 141.34,
+        "probability": 0.7505008578300476
+      },
+      {
+        "word": " menit",
+        "start": 141.34,
+        "end": 141.78,
+        "probability": 0.981948733329773
+      },
+      {
+        "word": " sebelum",
+        "start": 141.78,
+        "end": 142.04,
+        "probability": 0.9973811209201813
+      },
+      {
+        "word": " kelas,",
+        "start": 142.04,
+        "end": 142.3,
+        "probability": 0.9978936314582825
+      },
+      {
+        "word": " a",
+        "start": 142.66,
+        "end": 142.76,
+        "probability": 0.19106869399547577
+      },
+      {
+        "word": ".k",
+        "start": 142.76,
+        "end": 142.9,
+        "probability": 0.985115110874176
+      },
+      {
+        "word": ".a.",
+        "start": 142.9,
+        "end": 143.24,
+        "probability": 0.9773659706115723
+      },
+      {
+        "word": " mandinya",
+        "start": 143.64,
+        "end": 143.96,
+        "probability": 0.9116174280643463
+      },
+      {
+        "word": " 5",
+        "start": 143.96,
+        "end": 144.12,
+        "probability": 0.9594001173973083
+      },
+      {
+        "word": " menit",
+        "start": 144.12,
+        "end": 144.46,
+        "probability": 0.9971630871295929
+      },
+      {
+        "word": " doang,",
+        "start": 144.46,
+        "end": 144.76,
+        "probability": 0.9969866573810577
+      },
+      {
+        "word": " siap",
+        "start": 144.96,
+        "end": 145.14,
+        "probability": 0.9978981912136078
+      },
+      {
+        "word": "-siap",
+        "start": 145.14,
+        "end": 145.46,
+        "probability": 0.9875979026158651
+      },
+      {
+        "word": " 10",
+        "start": 145.46,
+        "end": 145.84,
+        "probability": 0.8480921983718872
+      },
+      {
+        "word": " menit.",
+        "start": 145.84,
+        "end": 146.22,
+        "probability": 0.9995685815811157
+      }
+    ]
+  },
+  {
+    "start": 146.8,
+    "end": 148.6,
+    "text": " Jangan ke kampus, ya gitulah.",
+    "words": [
+      {
+        "word": " Jangan",
+        "start": 146.8,
+        "end": 147.4,
+        "probability": 0.6596265137195587
+      },
+      {
+        "word": " ke",
+        "start": 147.4,
+        "end": 147.52,
+        "probability": 0.23195675015449524
+      },
+      {
+        "word": " kampus,",
+        "start": 147.52,
+        "end": 147.84,
+        "probability": 0.7131975740194321
+      },
+      {
+        "word": " ya",
+        "start": 148.04,
+        "end": 148.14,
+        "probability": 0.8728480339050293
+      },
+      {
+        "word": " gitulah.",
+        "start": 148.14,
+        "end": 148.6,
+        "probability": 0.838748057683309
+      }
+    ]
+  },
+  {
+    "start": 148.76,
+    "end": 150.42,
+    "text": " Tapi masih kelihatan kelihatan.",
+    "words": [
+      {
+        "word": " Tapi",
+        "start": 148.76,
+        "end": 149.0,
+        "probability": 0.9732447862625122
+      },
+      {
+        "word": " masih",
+        "start": 149.0,
+        "end": 149.3,
+        "probability": 0.57858806848526
+      },
+      {
+        "word": " kelihatan",
+        "start": 149.3,
+        "end": 149.78,
+        "probability": 0.7089760936796665
+      },
+      {
+        "word": " kelihatan.",
+        "start": 149.78,
+        "end": 150.42,
+        "probability": 0.543629202991724
+      }
+    ]
+  },
+  {
+    "start": 150.42,
+    "end": 152.32,
+    "text": " Ya, masih kelihatan bagus.",
+    "words": [
+      {
+        "word": " Ya,",
+        "start": 150.42,
+        "end": 150.64,
+        "probability": 0.33928588032722473
+      },
+      {
+        "word": " masih",
+        "start": 151.46,
+        "end": 151.76,
+        "probability": 0.9822760224342346
+      },
+      {
+        "word": " kelihatan",
+        "start": 151.76,
+        "end": 152.32,
+        "probability": 0.9881588220596313
+      },
+      {
+        "word": " bagus.",
+        "start": 152.32,
+        "end": 152.32,
+        "probability": 0.5006968975067139
+      }
+    ]
+  }
+]

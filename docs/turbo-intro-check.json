@@ -1,0 +1,405 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.32,
+    "text": " Oke.",
+    "words": [
+      {
+        "word": " Oke.",
+        "start": 0.0,
+        "end": 0.32,
+        "probability": 0.0053855739533901215
+      }
+    ]
+  },
+  {
+    "start": 0.54,
+    "end": 1.34,
+    "text": " Gue rekam ya.",
+    "words": [
+      {
+        "word": " Gue",
+        "start": 0.54,
+        "end": 0.9,
+        "probability": 0.04072600603103638
+      },
+      {
+        "word": " rekam",
+        "start": 0.9,
+        "end": 1.22,
+        "probability": 0.9765104949474335
+      },
+      {
+        "word": " ya.",
+        "start": 1.22,
+        "end": 1.34,
+        "probability": 0.9452030658721924
+      }
+    ]
+  },
+  {
+    "start": 1.74,
+    "end": 3.44,
+    "text": " Oke, satu, dua, tiga.",
+    "words": [
+      {
+        "word": " Oke,",
+        "start": 1.74,
+        "end": 1.82,
+        "probability": 0.6637776494026184
+      },
+      {
+        "word": " satu,",
+        "start": 1.94,
+        "end": 2.28,
+        "probability": 0.5690715312957764
+      },
+      {
+        "word": " dua,",
+        "start": 2.74,
+        "end": 3.1,
+        "probability": 0.9910749197006226
+      },
+      {
+        "word": " tiga.",
+        "start": 3.3,
+        "end": 3.44,
+        "probability": 0.9988906681537628
+      }
+    ]
+  },
+  {
+    "start": 3.92,
+    "end": 7.28,
+    "text": " Pernah gak sih kalian 24h is not enough for you guys?",
+    "words": [
+      {
+        "word": " Pernah",
+        "start": 3.92,
+        "end": 4.16,
+        "probability": 0.9290497104326884
+      },
+      {
+        "word": " gak",
+        "start": 4.16,
+        "end": 4.22,
+        "probability": 0.45267048478126526
+      },
+      {
+        "word": " sih",
+        "start": 4.22,
+        "end": 4.48,
+        "probability": 0.9808773398399353
+      },
+      {
+        "word": " kalian",
+        "start": 4.48,
+        "end": 4.96,
+        "probability": 0.5794423818588257
+      },
+      {
+        "word": " 24h",
+        "start": 4.96,
+        "end": 5.72,
+        "probability": 0.499830886721611
+      },
+      {
+        "word": " is",
+        "start": 5.72,
+        "end": 5.98,
+        "probability": 0.4016379117965698
+      },
+      {
+        "word": " not",
+        "start": 5.98,
+        "end": 6.18,
+        "probability": 0.9954941272735596
+      },
+      {
+        "word": " enough",
+        "start": 6.18,
+        "end": 6.56,
+        "probability": 0.9839575290679932
+      },
+      {
+        "word": " for",
+        "start": 6.56,
+        "end": 6.72,
+        "probability": 0.9640393853187561
+      },
+      {
+        "word": " you",
+        "start": 6.72,
+        "end": 6.9,
+        "probability": 0.9862794876098633
+      },
+      {
+        "word": " guys?",
+        "start": 6.9,
+        "end": 7.28,
+        "probability": 0.9725826382637024
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 9.98,
+    "text": " Pernah dong, pasti.",
+    "words": [
+      {
+        "word": " Pernah",
+        "start": 7.92,
+        "end": 8.52,
+        "probability": 0.9713806907335917
+      },
+      {
+        "word": " dong,",
+        "start": 8.52,
+        "end": 8.76,
+        "probability": 0.7076098918914795
+      },
+      {
+        "word": " pasti.",
+        "start": 9.54,
+        "end": 9.98,
+        "probability": 0.9721555709838867
+      }
+    ]
+  },
+  {
+    "start": 10.66,
+    "end": 10.96,
+    "text": " Pernah, pernah.",
+    "words": [
+      {
+        "word": " Pernah,",
+        "start": 10.66,
+        "end": 10.82,
+        "probability": 0.8354672392209371
+      },
+      {
+        "word": " pernah.",
+        "start": 10.88,
+        "end": 10.96,
+        "probability": 0.978667140007019
+      }
+    ]
+  },
+  {
+    "start": 11.1,
+    "end": 13.64,
+    "text": " Oke, karena itu kita akan kupas tuntas.",
+    "words": [
+      {
+        "word": " Oke,",
+        "start": 11.1,
+        "end": 11.4,
+        "probability": 0.9018021821975708
+      },
+      {
+        "word": " karena",
+        "start": 11.58,
+        "end": 11.74,
+        "probability": 0.9944189786911011
+      },
+      {
+        "word": " itu",
+        "start": 11.74,
+        "end": 12.04,
+        "probability": 0.9943285584449768
+      },
+      {
+        "word": " kita",
+        "start": 12.04,
+        "end": 12.26,
+        "probability": 0.955452024936676
+      },
+      {
+        "word": " akan",
+        "start": 12.26,
+        "end": 12.5,
+        "probability": 0.9439898133277893
+      },
+      {
+        "word": " kupas",
+        "start": 12.5,
+        "end": 13.0,
+        "probability": 0.9410399496555328
+      },
+      {
+        "word": " tuntas.",
+        "start": 13.0,
+        "end": 13.64,
+        "probability": 0.8497917254765829
+      }
+    ]
+  },
+  {
+    "start": 13.96,
+    "end": 16.18,
+    "text": " Abis-abiskan di seri ini.",
+    "words": [
+      {
+        "word": " Abis",
+        "start": 13.96,
+        "end": 14.34,
+        "probability": 0.7432941794395447
+      },
+      {
+        "word": "-abiskan",
+        "start": 14.34,
+        "end": 14.88,
+        "probability": 0.8079093893369039
+      },
+      {
+        "word": " di",
+        "start": 14.88,
+        "end": 15.58,
+        "probability": 0.4962232708930969
+      },
+      {
+        "word": " seri",
+        "start": 15.58,
+        "end": 15.82,
+        "probability": 0.559792622923851
+      },
+      {
+        "word": " ini.",
+        "start": 15.82,
+        "end": 16.18,
+        "probability": 0.9952200055122375
+      }
+    ]
+  },
+  {
+    "start": 16.38,
+    "end": 18.56,
+    "text": " Tapi sebelumnya perkenalin gue Nadia.",
+    "words": [
+      {
+        "word": " Tapi",
+        "start": 16.38,
+        "end": 16.64,
+        "probability": 0.601803719997406
+      },
+      {
+        "word": " sebelumnya",
+        "start": 16.64,
+        "end": 17.36,
+        "probability": 0.859598437945048
+      },
+      {
+        "word": " perkenalin",
+        "start": 17.36,
+        "end": 17.9,
+        "probability": 0.9134521881739298
+      },
+      {
+        "word": " gue",
+        "start": 17.9,
+        "end": 18.22,
+        "probability": 0.9381048679351807
+      },
+      {
+        "word": " Nadia.",
+        "start": 18.22,
+        "end": 18.56,
+        "probability": 0.9565039277076721
+      }
+    ]
+  },
+  {
+    "start": 18.74,
+    "end": 19.32,
+    "text": " Gue Ghivariel.",
+    "words": [
+      {
+        "word": " Gue",
+        "start": 18.74,
+        "end": 18.88,
+        "probability": 0.9780875444412231
+      },
+      {
+        "word": " Ghivariel.",
+        "start": 18.88,
+        "end": 19.32,
+        "probability": 0.4526602127298247
+      }
+    ]
+  },
+  {
+    "start": 19.46,
+    "end": 20.14,
+    "text": " Gue Kinan.",
+    "words": [
+      {
+        "word": " Gue",
+        "start": 19.46,
+        "end": 19.64,
+        "probability": 0.9985464215278625
+      },
+      {
+        "word": " Kinan.",
+        "start": 19.64,
+        "end": 20.14,
+        "probability": 0.5937092751264572
+      }
+    ]
+  },
+  {
+    "start": 20.36,
+    "end": 21.1,
+    "text": " Gue Cahaya.",
+    "words": [
+      {
+        "word": " Gue",
+        "start": 20.36,
+        "end": 20.58,
+        "probability": 0.9991581439971924
+      },
+      {
+        "word": " Cahaya.",
+        "start": 20.58,
+        "end": 21.1,
+        "probability": 0.8356804450352987
+      }
+    ]
+  },
+  {
+    "start": 21.36,
+    "end": 24.14,
+    "text": " And welcome to FTI SIDE!",
+    "words": [
+      {
+        "word": " And",
+        "start": 21.36,
+        "end": 21.48,
+        "probability": 0.9101434350013733
+      },
+      {
+        "word": " welcome",
+        "start": 21.48,
+        "end": 21.78,
+        "probability": 0.9558768272399902
+      },
+      {
+        "word": " to",
+        "start": 21.78,
+        "end": 22.16,
+        "probability": 0.9990284442901611
+      },
+      {
+        "word": " FTI",
+        "start": 22.16,
+        "end": 23.1,
+        "probability": 0.25639748899266124
+      },
+      {
+        "word": " SIDE!",
+        "start": 23.1,
+        "end": 24.14,
+        "probability": 0.1278455425053835
+      }
+    ]
+  }
+]

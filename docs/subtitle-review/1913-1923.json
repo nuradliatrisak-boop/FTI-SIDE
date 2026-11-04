@@ -1,0 +1,159 @@
+[
+  {
+    "start": 1913.0,
+    "end": 1922.9,
+    "text": " Yang baru mau masuk organisasi. Apalagi Mabani Angkatan 26 yang masih belum ada kepikiran sama sekali buat masuk organisasi. Apa sih pesan dari kalian semua?",
+    "words": [
+      {
+        "word": " Yang",
+        "start": 1913.0,
+        "end": 1913.5,
+        "probability": 0.26350128650665283
+      },
+      {
+        "word": " baru",
+        "start": 1913.5,
+        "end": 1913.66,
+        "probability": 0.9955782294273376
+      },
+      {
+        "word": " mau",
+        "start": 1913.66,
+        "end": 1913.78,
+        "probability": 0.8705320358276367
+      },
+      {
+        "word": " masuk",
+        "start": 1913.78,
+        "end": 1913.94,
+        "probability": 0.9995912909507751
+      },
+      {
+        "word": " organisasi.",
+        "start": 1913.94,
+        "end": 1914.64,
+        "probability": 0.97385573387146
+      },
+      {
+        "word": " Apalagi",
+        "start": 1914.94,
+        "end": 1915.46,
+        "probability": 0.9949909051259359
+      },
+      {
+        "word": " Mabani",
+        "start": 1915.46,
+        "end": 1916.02,
+        "probability": 0.6821876664956411
+      },
+      {
+        "word": " Angkatan",
+        "start": 1916.02,
+        "end": 1916.44,
+        "probability": 0.743995855251948
+      },
+      {
+        "word": " 26",
+        "start": 1916.44,
+        "end": 1916.76,
+        "probability": 0.9808759689331055
+      },
+      {
+        "word": " yang",
+        "start": 1916.76,
+        "end": 1917.0,
+        "probability": 0.7088997960090637
+      },
+      {
+        "word": " masih",
+        "start": 1917.0,
+        "end": 1917.8,
+        "probability": 0.8501991629600525
+      },
+      {
+        "word": " belum",
+        "start": 1917.8,
+        "end": 1918.06,
+        "probability": 0.9798698425292969
+      },
+      {
+        "word": " ada",
+        "start": 1918.06,
+        "end": 1918.54,
+        "probability": 0.9800586104393005
+      },
+      {
+        "word": " kepikiran",
+        "start": 1918.54,
+        "end": 1919.0,
+        "probability": 0.9994243780771891
+      },
+      {
+        "word": " sama",
+        "start": 1919.0,
+        "end": 1919.18,
+        "probability": 0.9603073000907898
+      },
+      {
+        "word": " sekali",
+        "start": 1919.18,
+        "end": 1919.44,
+        "probability": 0.9998884201049805
+      },
+      {
+        "word": " buat",
+        "start": 1919.44,
+        "end": 1919.58,
+        "probability": 0.8385137319564819
+      },
+      {
+        "word": " masuk",
+        "start": 1919.58,
+        "end": 1919.88,
+        "probability": 0.9992470741271973
+      },
+      {
+        "word": " organisasi.",
+        "start": 1919.88,
+        "end": 1920.56,
+        "probability": 0.9959731698036194
+      },
+      {
+        "word": " Apa",
+        "start": 1920.62,
+        "end": 1921.02,
+        "probability": 0.9525036215782166
+      },
+      {
+        "word": " sih",
+        "start": 1921.02,
+        "end": 1921.2,
+        "probability": 0.9998095631599426
+      },
+      {
+        "word": " pesan",
+        "start": 1921.2,
+        "end": 1922.34,
+        "probability": 0.9878219068050385
+      },
+      {
+        "word": " dari",
+        "start": 1922.34,
+        "end": 1922.48,
+        "probability": 0.9997684359550476
+      },
+      {
+        "word": " kalian",
+        "start": 1922.48,
+        "end": 1922.72,
+        "probability": 0.9998177886009216
+      },
+      {
+        "word": " semua?",
+        "start": 1922.72,
+        "end": 1922.9,
+        "probability": 0.994958221912384
+      }
+    ]
+  }
+]

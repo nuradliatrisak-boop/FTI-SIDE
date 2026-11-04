@@ -1,0 +1,50 @@
+[
+  {
+    "part": 1,
+    "timelineSeconds": 60,
+    "sourceSeconds": 43.8,
+    "audioLagSeconds": 0.021313,
+    "correlation": 0.9774,
+    "result": "passed"
+  },
+  {
+    "part": 1,
+    "timelineSeconds": 620,
+    "sourceSeconds": 615.3,
+    "audioLagSeconds": 0.021313,
+    "correlation": 0.99436,
+    "result": "passed"
+  },
+  {
+    "part": 1,
+    "timelineSeconds": 1100,
+    "sourceSeconds": 1095.3,
+    "audioLagSeconds": 0.021313,
+    "correlation": 0.99421,
+    "result": "passed"
+  },
+  {
+    "part": 2,
+    "timelineSeconds": 60,
+    "sourceSeconds": 1201.6,
+    "audioLagSeconds": 0.021313,
+    "correlation": 0.98418,
+    "result": "passed"
+  },
+  {
+    "part": 2,
+    "timelineSeconds": 740,
+    "sourceSeconds": 1915.2,
+    "audioLagSeconds": 0.021313,
+    "correlation": 0.99477,
+    "result": "passed"
+  },
+  {
+    "part": 2,
+    "timelineSeconds": 1050,
+    "sourceSeconds": 2225.2,
+    "audioLagSeconds": 0.021313,
+    "correlation": 0.99235,
+    "result": "passed"
+  }
+]

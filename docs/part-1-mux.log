@@ -1,0 +1,41 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a676bf7540] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/workspace/FTI-SIDE/renders/concat-1.txt':
+  Duration: 00:19:38.30, start: -0.021333, bitrate: 0 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 8053 kb/s, 30 fps, 30 tbr, 90k tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+      Side data:
+        ICC Profile
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to '/workspace/FTI-SIDE/deliverables/FTI-SIDE-PART-1.mp4':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 8053 kb/s, 30 fps, 30 tbr, 90k tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+      Side data:
+        ICC Profile
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a676bf7540] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 1 times
+[aost#0:1/copy @ 0x55a676c5ba40] Non-monotonic DTS; previous: 960512, current: 960000; changing to 960513. This may result in incorrect timestamps in the output file.
+frame= 8549 fps=0.0 q=-1.0 size=  290304KiB time=00:04:44.92 bitrate=8346.8kbits/s speed= 569x    frame=16205 fps=16197 q=-1.0 size=  544768KiB time=00:09:00.12 bitrate=8262.5kbits/s speed= 540x    frame=25345 fps=16857 q=-1.0 size=  879872KiB time=00:14:04.78 bitrate=8532.2kbits/s speed= 562x    frame=32244 fps=16093 q=-1.0 size= 1168128KiB time=00:17:54.85 bitrate=8902.9kbits/s speed= 536x    [mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a676bf7540] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0x55a676c5ba40] Non-monotonic DTS; previous: 55982591, current: 55982400; changing to 55982592. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a676bf7540] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0x55a676c5ba40] Non-monotonic DTS; previous: 56223040, current: 56222400; changing to 56223041. This may result in incorrect timestamps in the output file.
+[mp4 @ 0x55a676c14740] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x55a676c63e40] video:1255992KiB audio:36355KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.092138%
+frame=35349 fps=14992 q=-1.0 Lsize= 1293538KiB time=00:19:38.25 bitrate=8993.5kbits/s speed= 500x    

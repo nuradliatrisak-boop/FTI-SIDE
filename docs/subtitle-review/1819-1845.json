@@ -1,0 +1,430 @@
+[
+  {
+    "start": 1819.0,
+    "end": 1821.12,
+    "text": " Lu bakal kayak gimana kalo udah puyong banget?",
+    "words": [
+      {
+        "word": " Lu",
+        "start": 1819.0,
+        "end": 1819.46,
+        "probability": 0.22796295583248138
+      },
+      {
+        "word": " bakal",
+        "start": 1819.46,
+        "end": 1819.74,
+        "probability": 0.9680687189102173
+      },
+      {
+        "word": " kayak",
+        "start": 1819.74,
+        "end": 1819.9,
+        "probability": 0.7996193766593933
+      },
+      {
+        "word": " gimana",
+        "start": 1819.9,
+        "end": 1820.22,
+        "probability": 0.9930310547351837
+      },
+      {
+        "word": " kalo",
+        "start": 1820.22,
+        "end": 1820.38,
+        "probability": 0.728216826915741
+      },
+      {
+        "word": " udah",
+        "start": 1820.38,
+        "end": 1820.58,
+        "probability": 0.988810122013092
+      },
+      {
+        "word": " puyong",
+        "start": 1820.58,
+        "end": 1820.92,
+        "probability": 0.8847089012463888
+      },
+      {
+        "word": " banget?",
+        "start": 1820.92,
+        "end": 1821.12,
+        "probability": 0.9840914607048035
+      }
+    ]
+  },
+  {
+    "start": 1821.74,
+    "end": 1826.46,
+    "text": " Kalo misalkan udah puyong banget itu lebih pengen sendiri.",
+    "words": [
+      {
+        "word": " Kalo",
+        "start": 1821.74,
+        "end": 1822.32,
+        "probability": 0.9567626714706421
+      },
+      {
+        "word": " misalkan",
+        "start": 1822.32,
+        "end": 1822.68,
+        "probability": 0.9439432621002197
+      },
+      {
+        "word": " udah",
+        "start": 1822.68,
+        "end": 1822.84,
+        "probability": 0.9919837117195129
+      },
+      {
+        "word": " puyong",
+        "start": 1822.84,
+        "end": 1823.34,
+        "probability": 0.9983484745025635
+      },
+      {
+        "word": " banget",
+        "start": 1823.34,
+        "end": 1823.76,
+        "probability": 0.9938503503799438
+      },
+      {
+        "word": " itu",
+        "start": 1823.76,
+        "end": 1824.38,
+        "probability": 0.8859116435050964
+      },
+      {
+        "word": " lebih",
+        "start": 1824.38,
+        "end": 1825.36,
+        "probability": 0.2789294123649597
+      },
+      {
+        "word": " pengen",
+        "start": 1825.36,
+        "end": 1826.08,
+        "probability": 0.9692965149879456
+      },
+      {
+        "word": " sendiri.",
+        "start": 1826.08,
+        "end": 1826.46,
+        "probability": 0.9937107563018799
+      }
+    ]
+  },
+  {
+    "start": 1826.7,
+    "end": 1830.78,
+    "text": " Kenapa? Karena social battery udah abis nih berorganisasi, Cok.",
+    "words": [
+      {
+        "word": " Kenapa?",
+        "start": 1826.7,
+        "end": 1827.14,
+        "probability": 0.98979052901268
+      },
+      {
+        "word": " Karena",
+        "start": 1827.28,
+        "end": 1827.44,
+        "probability": 0.8608832359313965
+      },
+      {
+        "word": " social",
+        "start": 1827.44,
+        "end": 1828.76,
+        "probability": 0.6162838935852051
+      },
+      {
+        "word": " battery",
+        "start": 1828.76,
+        "end": 1829.04,
+        "probability": 0.8380376696586609
+      },
+      {
+        "word": " udah",
+        "start": 1829.04,
+        "end": 1829.2,
+        "probability": 0.7414164543151855
+      },
+      {
+        "word": " abis",
+        "start": 1829.2,
+        "end": 1829.52,
+        "probability": 0.8742118775844574
+      },
+      {
+        "word": " nih",
+        "start": 1829.52,
+        "end": 1829.6,
+        "probability": 0.9711530208587646
+      },
+      {
+        "word": " berorganisasi,",
+        "start": 1829.6,
+        "end": 1830.4,
+        "probability": 0.9518102556467056
+      },
+      {
+        "word": " Cok.",
+        "start": 1830.5,
+        "end": 1830.78,
+        "probability": 0.5591394454240799
+      }
+    ]
+  },
+  {
+    "start": 1830.96,
+    "end": 1833.78,
+    "text": " Pernah gak sih kalian ngerasa kayak, anjir gue capek banget.",
+    "words": [
+      {
+        "word": " Pernah",
+        "start": 1830.96,
+        "end": 1831.54,
+        "probability": 0.7295693556467692
+      },
+      {
+        "word": " gak",
+        "start": 1831.54,
+        "end": 1831.58,
+        "probability": 0.5022507905960083
+      },
+      {
+        "word": " sih",
+        "start": 1831.58,
+        "end": 1831.76,
+        "probability": 0.9897929430007935
+      },
+      {
+        "word": " kalian",
+        "start": 1831.76,
+        "end": 1831.88,
+        "probability": 0.6517525911331177
+      },
+      {
+        "word": " ngerasa",
+        "start": 1831.88,
+        "end": 1832.32,
+        "probability": 0.9191422462463379
+      },
+      {
+        "word": " kayak,",
+        "start": 1832.32,
+        "end": 1832.52,
+        "probability": 0.824388325214386
+      },
+      {
+        "word": " anjir",
+        "start": 1832.76,
+        "end": 1833.22,
+        "probability": 0.9011640946070353
+      },
+      {
+        "word": " gue",
+        "start": 1833.22,
+        "end": 1833.34,
+        "probability": 0.747310221195221
+      },
+      {
+        "word": " capek",
+        "start": 1833.34,
+        "end": 1833.64,
+        "probability": 0.8796370327472687
+      },
+      {
+        "word": " banget.",
+        "start": 1833.64,
+        "end": 1833.78,
+        "probability": 0.9968807697296143
+      }
+    ]
+  },
+  {
+    "start": 1833.86,
+    "end": 1835.3,
+    "text": " Cuman capeknya itu capek ngomong sama orang.",
+    "words": [
+      {
+        "word": " Cuman",
+        "start": 1833.86,
+        "end": 1834.04,
+        "probability": 0.9056103527545929
+      },
+      {
+        "word": " capeknya",
+        "start": 1834.04,
+        "end": 1834.36,
+        "probability": 0.9888894359270731
+      },
+      {
+        "word": " itu",
+        "start": 1834.36,
+        "end": 1834.46,
+        "probability": 0.919283390045166
+      },
+      {
+        "word": " capek",
+        "start": 1834.46,
+        "end": 1834.76,
+        "probability": 0.9851267635822296
+      },
+      {
+        "word": " ngomong",
+        "start": 1834.76,
+        "end": 1834.94,
+        "probability": 0.9979429642359415
+      },
+      {
+        "word": " sama",
+        "start": 1834.94,
+        "end": 1835.04,
+        "probability": 0.7811369895935059
+      },
+      {
+        "word": " orang.",
+        "start": 1835.04,
+        "end": 1835.3,
+        "probability": 0.9994149208068848
+      }
+    ]
+  },
+  {
+    "start": 1836.7200000000003,
+    "end": 1838.8,
+    "text": " Itu bakal nguras banget.",
+    "words": [
+      {
+        "word": " Itu",
+        "start": 1836.7200000000003,
+        "end": 1837.3000000000002,
+        "probability": 0.5736499428749084
+      },
+      {
+        "word": " bakal",
+        "start": 1837.3000000000002,
+        "end": 1837.88,
+        "probability": 0.9784485995769501
+      },
+      {
+        "word": " nguras",
+        "start": 1837.88,
+        "end": 1838.42,
+        "probability": 0.5096206665039062
+      },
+      {
+        "word": " banget.",
+        "start": 1838.42,
+        "end": 1838.8,
+        "probability": 0.9904672503471375
+      }
+    ]
+  },
+  {
+    "start": 1838.86,
+    "end": 1842.54,
+    "text": " Dan kalo dari gue pribadi, gue punya dua tipe istirahat.",
+    "words": [
+      {
+        "word": " Dan",
+        "start": 1838.86,
+        "end": 1839.08,
+        "probability": 0.9733079075813293
+      },
+      {
+        "word": " kalo",
+        "start": 1839.08,
+        "end": 1839.4,
+        "probability": 0.9737417697906494
+      },
+      {
+        "word": " dari",
+        "start": 1839.4,
+        "end": 1839.62,
+        "probability": 0.9966775178909302
+      },
+      {
+        "word": " gue",
+        "start": 1839.62,
+        "end": 1839.76,
+        "probability": 0.9146859645843506
+      },
+      {
+        "word": " pribadi,",
+        "start": 1839.76,
+        "end": 1840.3,
+        "probability": 0.9997942248980204
+      },
+      {
+        "word": " gue",
+        "start": 1840.72,
+        "end": 1840.9,
+        "probability": 0.9883611798286438
+      },
+      {
+        "word": " punya",
+        "start": 1840.9,
+        "end": 1841.32,
+        "probability": 0.9998002648353577
+      },
+      {
+        "word": " dua",
+        "start": 1841.32,
+        "end": 1841.7,
+        "probability": 0.746845006942749
+      },
+      {
+        "word": " tipe",
+        "start": 1841.7,
+        "end": 1841.98,
+        "probability": 0.9541663229465485
+      },
+      {
+        "word": " istirahat.",
+        "start": 1841.98,
+        "end": 1842.54,
+        "probability": 0.9995417892932892
+      }
+    ]
+  },
+  {
+    "start": 1842.94,
+    "end": 1844.64,
+    "text": " Istirahat fisik dan istirahat otak.",
+    "words": [
+      {
+        "word": " Istirahat",
+        "start": 1842.94,
+        "end": 1843.52,
+        "probability": 0.9938435405492783
+      },
+      {
+        "word": " fisik",
+        "start": 1843.52,
+        "end": 1843.84,
+        "probability": 0.9978216588497162
+      },
+      {
+        "word": " dan",
+        "start": 1843.84,
+        "end": 1843.96,
+        "probability": 0.9925172328948975
+      },
+      {
+        "word": " istirahat",
+        "start": 1843.96,
+        "end": 1844.32,
+        "probability": 0.9683301895856857
+      },
+      {
+        "word": " otak.",
+        "start": 1844.32,
+        "end": 1844.64,
+        "probability": 0.9992289245128632
+      }
+    ]
+  }
+]

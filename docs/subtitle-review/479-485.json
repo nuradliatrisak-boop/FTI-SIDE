@@ -1,0 +1,105 @@
+[
+  {
+    "start": 479.88,
+    "end": 484.58,
+    "text": " Terbentak. Enggak kan dia terbentak. Enggak dong. Kalau terbentak mungkin lebih karena pressure aja. Oh iya.",
+    "words": [
+      {
+        "word": " Terbentak.",
+        "start": 479.88,
+        "end": 480.32,
+        "probability": 0.848143920302391
+      },
+      {
+        "word": " Enggak",
+        "start": 480.48,
+        "end": 480.92,
+        "probability": 0.7108394900957743
+      },
+      {
+        "word": " kan",
+        "start": 480.92,
+        "end": 481.02,
+        "probability": 0.8719831705093384
+      },
+      {
+        "word": " dia",
+        "start": 481.02,
+        "end": 481.22,
+        "probability": 0.887785017490387
+      },
+      {
+        "word": " terbentak.",
+        "start": 481.22,
+        "end": 481.64,
+        "probability": 0.9929173737764359
+      },
+      {
+        "word": " Enggak",
+        "start": 481.64,
+        "end": 481.88,
+        "probability": 0.9143862724304199
+      },
+      {
+        "word": " dong.",
+        "start": 481.88,
+        "end": 482.04,
+        "probability": 0.9134254455566406
+      },
+      {
+        "word": " Kalau",
+        "start": 482.28,
+        "end": 482.44,
+        "probability": 0.8379908800125122
+      },
+      {
+        "word": " terbentak",
+        "start": 482.44,
+        "end": 482.72,
+        "probability": 0.9976195394992828
+      },
+      {
+        "word": " mungkin",
+        "start": 482.72,
+        "end": 482.9,
+        "probability": 0.9349481463432312
+      },
+      {
+        "word": " lebih",
+        "start": 482.9,
+        "end": 483.06,
+        "probability": 0.639468789100647
+      },
+      {
+        "word": " karena",
+        "start": 483.06,
+        "end": 483.18,
+        "probability": 0.8062103390693665
+      },
+      {
+        "word": " pressure",
+        "start": 483.18,
+        "end": 483.44,
+        "probability": 0.9862070083618164
+      },
+      {
+        "word": " aja.",
+        "start": 483.44,
+        "end": 483.74,
+        "probability": 0.942787230014801
+      },
+      {
+        "word": " Oh",
+        "start": 484.0,
+        "end": 484.14,
+        "probability": 0.963873565196991
+      },
+      {
+        "word": " iya.",
+        "start": 484.14,
+        "end": 484.58,
+        "probability": 0.8190408051013947
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "start": 14.34,
+    "end": 19.34,
+    "text": " Sampai jumpa di video selanjutnya.",
+    "words": [
+      {
+        "word": " Sampai",
+        "start": 14.34,
+        "end": 15.74,
+        "probability": 0.4091885266825557
+      },
+      {
+        "word": " jumpa",
+        "start": 15.74,
+        "end": 16.6,
+        "probability": 0.6922780871391296
+      },
+      {
+        "word": " di",
+        "start": 16.6,
+        "end": 18.06,
+        "probability": 0.23208242654800415
+      },
+      {
+        "word": " video",
+        "start": 18.06,
+        "end": 18.08,
+        "probability": 0.43020766973495483
+      },
+      {
+        "word": " selanjutnya.",
+        "start": 18.08,
+        "end": 19.34,
+        "probability": 0.9264019727706909
+      }
+    ]
+  },
+  {
+    "start": 55.52,
+    "end": 56.92,
+    "text": " Aksion",
+    "words": [
+      {
+        "word": " Aksion",
+        "start": 55.52,
+        "end": 56.92,
+        "probability": 0.49109793702761334
+      }
+    ]
+  }
+]

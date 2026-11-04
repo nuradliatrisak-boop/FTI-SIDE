@@ -1,0 +1,183 @@
+[
+  {
+    "start": 333.0,
+    "end": 343.58,
+    "text": " Gua ngeliat dari jaman Gua SMA itu, gua cuma sekedar dateng, belajar, main, pulang, dan mood gua itu suatu hal yang ga bisa diceritain sih buat kedepannya dan minim...",
+    "words": [
+      {
+        "word": " Gua",
+        "start": 333.0,
+        "end": 333.1,
+        "probability": 0.5242108702659607
+      },
+      {
+        "word": " ngeliat",
+        "start": 333.1,
+        "end": 333.3,
+        "probability": 0.9358224670092264
+      },
+      {
+        "word": " dari",
+        "start": 333.3,
+        "end": 333.56,
+        "probability": 0.9319983720779419
+      },
+      {
+        "word": " jaman",
+        "start": 333.56,
+        "end": 334.14,
+        "probability": 0.6758238077163696
+      },
+      {
+        "word": " Gua",
+        "start": 334.14,
+        "end": 334.32,
+        "probability": 0.6752544790506363
+      },
+      {
+        "word": " SMA",
+        "start": 334.32,
+        "end": 334.52,
+        "probability": 0.8976031243801117
+      },
+      {
+        "word": " itu,",
+        "start": 334.52,
+        "end": 334.68,
+        "probability": 0.9189213514328003
+      },
+      {
+        "word": " gua",
+        "start": 334.9,
+        "end": 334.92,
+        "probability": 0.7757902145385742
+      },
+      {
+        "word": " cuma",
+        "start": 334.92,
+        "end": 335.36,
+        "probability": 0.88583904504776
+      },
+      {
+        "word": " sekedar",
+        "start": 335.36,
+        "end": 335.78,
+        "probability": 0.9704361855983734
+      },
+      {
+        "word": " dateng,",
+        "start": 335.78,
+        "end": 336.38,
+        "probability": 0.9273424744606018
+      },
+      {
+        "word": " belajar,",
+        "start": 336.56,
+        "end": 337.26,
+        "probability": 0.9965084195137024
+      },
+      {
+        "word": " main,",
+        "start": 337.44,
+        "end": 337.86,
+        "probability": 0.9715969562530518
+      },
+      {
+        "word": " pulang,",
+        "start": 338.1,
+        "end": 338.52,
+        "probability": 0.9946611523628235
+      },
+      {
+        "word": " dan",
+        "start": 338.8,
+        "end": 338.96,
+        "probability": 0.971410870552063
+      },
+      {
+        "word": " mood",
+        "start": 338.96,
+        "end": 339.26,
+        "probability": 0.9859069585800171
+      },
+      {
+        "word": " gua",
+        "start": 339.26,
+        "end": 339.42,
+        "probability": 0.9741961359977722
+      },
+      {
+        "word": " itu",
+        "start": 339.42,
+        "end": 339.62,
+        "probability": 0.9799127578735352
+      },
+      {
+        "word": " suatu",
+        "start": 339.62,
+        "end": 340.58,
+        "probability": 0.8033002614974976
+      },
+      {
+        "word": " hal",
+        "start": 340.58,
+        "end": 340.8,
+        "probability": 0.9900031089782715
+      },
+      {
+        "word": " yang",
+        "start": 340.8,
+        "end": 340.94,
+        "probability": 0.9743252396583557
+      },
+      {
+        "word": " ga",
+        "start": 340.94,
+        "end": 341.02,
+        "probability": 0.39362582564353943
+      },
+      {
+        "word": " bisa",
+        "start": 341.02,
+        "end": 341.32,
+        "probability": 0.9912245869636536
+      },
+      {
+        "word": " diceritain",
+        "start": 341.32,
+        "end": 341.78,
+        "probability": 0.9813673347234726
+      },
+      {
+        "word": " sih",
+        "start": 341.78,
+        "end": 341.92,
+        "probability": 0.5818468332290649
+      },
+      {
+        "word": " buat",
+        "start": 341.92,
+        "end": 342.06,
+        "probability": 0.9750561714172363
+      },
+      {
+        "word": " kedepannya",
+        "start": 342.06,
+        "end": 342.44,
+        "probability": 0.9125219583511353
+      },
+      {
+        "word": " dan",
+        "start": 342.44,
+        "end": 342.62,
+        "probability": 0.6574264168739319
+      },
+      {
+        "word": " minim...",
+        "start": 342.62,
+        "end": 343.58,
+        "probability": 0.6585775762796402
+      }
+    ]
+  }
+]

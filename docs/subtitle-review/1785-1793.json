@@ -1,0 +1,129 @@
+[
+  {
+    "start": 1785.0,
+    "end": 1792.34,
+    "text": " juga kayak gue ya kan. Mereka akhirnya bisa memimpin sebuah proker dan itu keren banget gitu. Berarti Tenggu Gebrakan ya?",
+    "words": [
+      {
+        "word": " juga",
+        "start": 1785.0,
+        "end": 1785.26,
+        "probability": 0.3935163915157318
+      },
+      {
+        "word": " kayak",
+        "start": 1785.26,
+        "end": 1785.44,
+        "probability": 0.8153507113456726
+      },
+      {
+        "word": " gue",
+        "start": 1785.44,
+        "end": 1785.66,
+        "probability": 0.7402122020721436
+      },
+      {
+        "word": " ya",
+        "start": 1785.66,
+        "end": 1785.84,
+        "probability": 0.699252188205719
+      },
+      {
+        "word": " kan.",
+        "start": 1785.84,
+        "end": 1786.04,
+        "probability": 0.9834091663360596
+      },
+      {
+        "word": " Mereka",
+        "start": 1786.36,
+        "end": 1786.88,
+        "probability": 0.9745375315348307
+      },
+      {
+        "word": " akhirnya",
+        "start": 1786.88,
+        "end": 1787.22,
+        "probability": 0.9900548160076141
+      },
+      {
+        "word": " bisa",
+        "start": 1787.22,
+        "end": 1787.68,
+        "probability": 0.9911841154098511
+      },
+      {
+        "word": " memimpin",
+        "start": 1787.68,
+        "end": 1788.56,
+        "probability": 0.9860809644063314
+      },
+      {
+        "word": " sebuah",
+        "start": 1788.56,
+        "end": 1788.8,
+        "probability": 0.9893847902615865
+      },
+      {
+        "word": " proker",
+        "start": 1788.8,
+        "end": 1789.14,
+        "probability": 0.4553323984146118
+      },
+      {
+        "word": " dan",
+        "start": 1789.14,
+        "end": 1789.26,
+        "probability": 0.3317502439022064
+      },
+      {
+        "word": " itu",
+        "start": 1789.26,
+        "end": 1789.36,
+        "probability": 0.9636507630348206
+      },
+      {
+        "word": " keren",
+        "start": 1789.36,
+        "end": 1789.6,
+        "probability": 0.996142566204071
+      },
+      {
+        "word": " banget",
+        "start": 1789.6,
+        "end": 1790.0,
+        "probability": 0.9987764954566956
+      },
+      {
+        "word": " gitu.",
+        "start": 1790.0,
+        "end": 1790.66,
+        "probability": 0.04190642759203911
+      },
+      {
+        "word": " Berarti",
+        "start": 1791.02,
+        "end": 1791.4,
+        "probability": 0.9581136405467987
+      },
+      {
+        "word": " Tenggu",
+        "start": 1791.4,
+        "end": 1791.7,
+        "probability": 0.5615657021601995
+      },
+      {
+        "word": " Gebrakan",
+        "start": 1791.7,
+        "end": 1792.2,
+        "probability": 0.6689917544523875
+      },
+      {
+        "word": " ya?",
+        "start": 1792.2,
+        "end": 1792.34,
+        "probability": 0.9330231547355652
+      }
+    ]
+  }
+]

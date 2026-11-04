@@ -1,0 +1,16 @@
+[aist#0:0/pcm_s16le @ 0x55f6fc889640] Guessed Channel Layout: mono
+Input #0, wav, from 'docs/podcast-mono16k.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:37:59.92, bitrate: 256 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 16000 Hz, mono, s16, 256 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:20:55.80 bitrate=N/A speed=2.51e+03x    [out#0/null @ 0x55f6fc889800] video:0KiB audio:71248KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:37:59.92 bitrate=N/A speed=2.37e+03x    
