@@ -1,3 +1,7 @@
+# Trailer Story V6 selesai
+
+Judul “24 JAM NGGAK CUKUP?” dengan aksen oranye. Teks masuk bertahap, spring, underline, sapuan transisi, gerak kamera dan efek suara pendek. Fokus Kinan dan welcome empat peserta dipertahankan. 30 detik, 900 frame, 1080×1920 H.264/AAC stereo; decode penuh dan lint/TypeScript lolos. Audio -15.33 LUFS, true peak -1.14 dBTP, tanpa clipping. QC: deliverables/STORY-V6-QC.json. Riwayat di bawah.
+
 # Trailer Story V5 selesai
 
 Crop bagian “Pusing? Ada asiknya juga!” detik 13–19.3 dibetulkan ke Kinan (jaket cokelat). Frame hasil detik 16 diperiksa. Trailer 30 detik, 900 frame, 1080×1920 H.264/AAC stereo; decode penuh dan lint/TypeScript lolos. QC: deliverables/STORY-V5-QC.json. Part 1 dan Part 2 tidak diubah. Riwayat di bawah.

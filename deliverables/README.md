@@ -1,3 +1,7 @@
+# Trailer Story V6
+
+Judul “24 JAM NGGAK CUKUP?”, kata kunci oranye, animasi teks dan aksen transisi baru. Fokus Kinan dipertahankan. QC: STORY-V6-QC.json.
+
 # Trailer Story V5
 
 Bagian “Pusing? Ada asiknya juga!” (13–19.3 detik) diarahkan ke Kinan. QC terbaru trailer: STORY-V5-QC.json. Part 1 tetap V4.

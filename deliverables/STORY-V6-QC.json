@@ -1,0 +1,22 @@
+{
+  "result": "passed",
+  "durationSeconds": 30.016,
+  "frames": 900,
+  "size": [
+    1080,
+    1920
+  ],
+  "audio": "AAC stereo",
+  "fullDecode": "passed",
+  "audioAnalysis": {
+    "integratedLufs": -15.33,
+    "truePeakDbtp": -1.14,
+    "clippingDetected": false
+  },
+  "visualChecks": {
+    "1.5": "24 JAM NGGAK CUKUP, orange accent readable",
+    "16": "Kinan remains the focus",
+    "26": "CTA readable, all four participants visible"
+  },
+  "lintAndTypeScript": "passed"
+}
