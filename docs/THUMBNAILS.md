@@ -11,3 +11,7 @@ Reproduksi: python scripts/make_original_thumbnails.py. Versi ini menggantikan t
 ## Episode 1 Part 2
 
 Horizontal 1920×1080 dan vertikal 1080×1920 memakai satu frame asli podcast.mp4 pada source 2275.0 detik (momen bye-bye Part 2). Judul Bertumbuh Bareng dengan badge EP 01 / PART 2, warna/font selaras Part 1. Empat peserta tetap dalam satu foto tanpa generative AI/retouch wajah. File PNG dan JPEG tersedia di deliverables/thumbnails/FTI-SIDE-EP1-PART2-{HORIZONTAL,VERTIKAL}. Reproduksi: python scripts/make_part2_thumbnails.py. JPEG disediakan agar ukuran nyaman untuk unggahan thumbnail.
+
+## Versi AI Part 2
+
+Atas permintaan terbaru pengguna, tersedia desain AI terpisah: FTI-SIDE-EP1-PART2-AI-HORIZONTAL.png dan FTI-SIDE-EP1-PART2-AI-VERTIKAL.png. Dibuat dengan image_gen memakai frame asli source 2275.0 sebagai referensi empat peserta; versi vertikal juga memakai desain horizontal sebagai acuan. Desain navy/oranye, torn-paper dan rim lighting, judul Bertumbuh Bareng. Wajah merupakan hasil olahan AI. Versi foto asli tetap tersedia.
