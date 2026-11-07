@@ -1,0 +1,332 @@
+[
+  {
+    "id": "1",
+    "request": "Selaras Part 1, gaya berbeda; label pojok kiri atas Episode 1 Part 2; highlight quote",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "2",
+    "request": "Throwback Part 1 sebelum opening",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "3",
+    "request": "Puya bukan Puyak",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "4",
+    "request": "ngambil bukan ngamil",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "5",
+    "request": "Kak Puya bukan Apulia",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "6",
+    "request": "setuju bukan suju",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "7",
+    "request": "Ghivariel bukan Ghifariel",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "8",
+    "request": "fun fact bukan pempek",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "9",
+    "request": "sih kalau dari gue bukan siko",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "10",
+    "request": "dapet apa bukan AP",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "11",
+    "request": "belajar bukan belajian",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "12",
+    "request": "hapus tangan kecil",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "13",
+    "request": "astaghfirullahalazim",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "14",
+    "request": "deg-degan sih pastinya",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "15",
+    "request": "hapus haru kesentil yang belum jelas",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "16",
+    "request": "FTI bukan FTA",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "17",
+    "request": "dokumentasi FTI Impact saat scroll BEM FTI",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "18",
+    "request": "ayo main-main",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "19",
+    "request": "Kak Puya bukan Kapuya",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "20",
+    "request": "studi ekskursi",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "21",
+    "request": "hectic",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "22",
+    "request": "24 bukan 241",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "23",
+    "request": "dokumentasi company visit Sari Roti",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "24",
+    "request": "goks",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "25",
+    "request": "dokumentasi Upgrading Skill Achievement",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "26",
+    "request": "keganggu",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "27",
+    "request": "praktikumnya",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "28",
+    "request": "proker A",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "29",
+    "request": "nerima",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "30",
+    "request": "Kak Puya bukan Kapuia",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "31",
+    "request": "Akankah lo bersama temen-temen",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "32",
+    "request": "asbun",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "33",
+    "request": "puyeng",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "34",
+    "request": "hapus Cok",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "35a",
+    "request": "Kinan bukan Gidang",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "35b",
+    "request": "udah ready ya jadi ketua pelaksana",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "36",
+    "request": "sambungan potongan halus",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "37",
+    "request": "ada gak nih",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "38",
+    "request": "Just all out",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "39",
+    "request": "dapetin",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "40",
+    "request": "flop",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "41",
+    "request": "we through",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "42",
+    "request": "hapus DC",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "43",
+    "request": "sharing-sharing",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "44",
+    "request": "jaga tata krama",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "45",
+    "request": "seenggaknya",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "46",
+    "request": "BEM",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "47",
+    "request": "nunggu",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "48",
+    "request": "dong",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "49",
+    "request": "obrolan",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "50",
+    "request": "segini",
+    "status": "completed",
+    "evidence": "caption-corrections.json / part2-pages-v3.json"
+  },
+  {
+    "id": "51",
+    "request": "penutup montage footage, tanpa kartu biru",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "52",
+    "request": "kutipan pesan empat peserta, termasuk Ghivariel",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "53",
+    "request": "ratakan dan perjelas suara yang pelan",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  },
+  {
+    "id": "54",
+    "request": "trailer Part 2 dengan throwback Part 1",
+    "status": "completed",
+    "evidence": "plan.json / Part2RevisionV3.tsx / export_part2_revision_v3.py / enhance_part2_audio.py"
+  }
+]

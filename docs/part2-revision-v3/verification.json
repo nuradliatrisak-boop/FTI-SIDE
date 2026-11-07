@@ -1,0 +1,24 @@
+{
+  "lintAndTypeScript": "passed",
+  "subtitleCues": 530,
+  "subtitleDurationAndOrder": "passed",
+  "openingAndOutroVisualReview": "passed",
+  "documentationFramesReviewedSeconds": [
+    382,
+    470,
+    506
+  ],
+  "closingAdviceFramesReviewedSeconds": [
+    755,
+    875,
+    946,
+    978,
+    1012
+  ],
+  "storyFramesReviewedSeconds": [
+    24.3,
+    29
+  ],
+  "visualChecks": "passed",
+  "sourceImages": "original screenshots from user Drive links, no generated faces"
+}

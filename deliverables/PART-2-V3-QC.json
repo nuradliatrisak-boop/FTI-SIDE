@@ -1,0 +1,93 @@
+{
+  "result": "passed",
+  "part2": {
+    "durationSeconds": 1114.3,
+    "frames": 33429,
+    "size": [
+      1920,
+      1080
+    ],
+    "audioAlignment": [
+      {
+        "timeline": 60,
+        "source": 1201.8,
+        "lag": 0.0106875,
+        "correlation": 0.9929339078301298
+      },
+      {
+        "timeline": 300,
+        "source": 1441.8,
+        "lag": 0.0106875,
+        "correlation": 0.992560494313276
+      },
+      {
+        "timeline": 520,
+        "source": 1661.8,
+        "lag": 0.0106875,
+        "correlation": 0.9963064077553117
+      },
+      {
+        "timeline": 760,
+        "source": 1935.6,
+        "lag": 0.0106875,
+        "correlation": 0.9944684930665554
+      },
+      {
+        "timeline": 1000,
+        "source": 2175.6,
+        "lag": 0.0106875,
+        "correlation": 0.9926474707084977
+      },
+      {
+        "timeline": 1080,
+        "source": 2255.6,
+        "lag": 0.0106875,
+        "correlation": 0.9877424279985569
+      }
+    ],
+    "fullDecode": "passed",
+    "integratedLufs": -16.09,
+    "truePeakDbtp": -0.87,
+    "clippingDetected": false
+  },
+  "story": {
+    "durationSeconds": 32.0,
+    "frames": 960,
+    "size": [
+      1080,
+      1920
+    ],
+    "fullDecode": "passed",
+    "integratedLufs": -17.15,
+    "truePeakDbtp": -1.5,
+    "clippingDetected": false
+  },
+  "part1Preserved": {
+    "sha256": "a261dbc898b226598f8781924b189c99e60d0014a8c402e7b87885667ba25a5a",
+    "matchesPreviousCommit": true
+  },
+  "visualAndSubtitleChecks": {
+    "lintAndTypeScript": "passed",
+    "subtitleCues": 530,
+    "subtitleDurationAndOrder": "passed",
+    "openingAndOutroVisualReview": "passed",
+    "documentationFramesReviewedSeconds": [
+      382,
+      470,
+      506
+    ],
+    "closingAdviceFramesReviewedSeconds": [
+      755,
+      875,
+      946,
+      978,
+      1012
+    ],
+    "storyFramesReviewedSeconds": [
+      24.3,
+      29
+    ],
+    "visualChecks": "passed",
+    "sourceImages": "original screenshots from user Drive links, no generated faces"
+  }
+}

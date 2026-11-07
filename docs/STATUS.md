@@ -1,3 +1,13 @@
+# Episode 1 Part 2 — revisi pengguna V3 selesai
+
+Video 1114.3 detik (18:34.3), 33429 frame, 1920×1080 H.264/AAC stereo. Throwback 8 detik, opening baru 12 detik, label EP 1 • PART 2, tiga dokumentasi pengguna, sepuluh highlight kutipan dan penutup montage 10 detik. Trailer vertikal 32 detik, 960 frame, dengan throwback Part 1.
+
+Decode penuh kedua file lulus. Audio Part 2 -16.09 LUFS, true peak -0.87 dBTP; trailer -17.15 LUFS/TP -1.50 dBTP. Tidak terdeteksi clipping. Sinkronisasi enam titik lag ~10.7 ms, korelasi 0.988–0.996. 530 cue SRT positif, berurutan, dan tidak tumpang tindih. Lint/TypeScript lulus. Screenshot asli dan pesan akhir empat peserta telah diperiksa pada hasil export.
+
+55 entri permintaan (nomor 35 ganda) tercatat di docs/part2-revision-v3/checklist.json. Audit 50 koreksi pada caption-corrections.json. QC: deliverables/PART-2-V3-QC.json. Master dialog Part 2 memakai normalisasi dinamis tersendiri; contoh suara pelan meningkat sekitar 2.4 dB tanpa mengubah timeline.
+
+Part 1 tetap identik dengan commit sebelumnya, dibuktikan SHA-256 di QC. Cadangan Part 2 sebelumnya di revisions/pre-user-part2-v3. Tidak ada pengubahan wajah dengan generative AI. Riwayat versi lain di bawah.
+
 # Trailer Story V6 selesai
 
 Judul “24 JAM NGGAK CUKUP?” dengan aksen oranye. Teks masuk bertahap, spring, underline, sapuan transisi, gerak kamera dan efek suara pendek. Fokus Kinan dan welcome empat peserta dipertahankan. 30 detik, 900 frame, 1080×1920 H.264/AAC stereo; decode penuh dan lint/TypeScript lolos. Audio -15.33 LUFS, true peak -1.14 dBTP, tanpa clipping. QC: deliverables/STORY-V6-QC.json. Riwayat di bawah.

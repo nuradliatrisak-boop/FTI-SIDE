@@ -1,3 +1,7 @@
+# Episode 1 • Part 2 — revisi V3
+
+FTI-SIDE-PART-2.mp4: 18:34.3. FTI-SIDE-PART-2-STORY.mp4: 32 detik, vertikal. Throwback, opening baru, dokumentasi proker, kutipan pesan, koreksi subtitle, perataan dialog dan outro footage. Keduanya lolos decode penuh. Detail CATATAN-PART-2-V3.md; QC PART-2-V3-QC.json. Catatan versi lain di bawah adalah riwayat.
+
 # Trailer Story V6
 
 Judul “24 JAM NGGAK CUKUP?”, kata kunci oranye, animasi teks dan aksen transisi baru. Fokus Kinan dipertahankan. QC: STORY-V6-QC.json.

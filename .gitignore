@@ -20,3 +20,6 @@ docs/revision-v3/*.wav
 
 docs/revision-v4/*.log
 docs/revision-v4/*.wav
+
+docs/part2-revision-v3/*.log
+studio/public/audio/podcast-part2-enhanced.m4a

@@ -54,3 +54,8 @@ Master sumber dan normalized main audio tidak dikemas ke Git. Opening normalized
 ## Revisi Part 1 dan Story V4
 
 Komposisi pada file Part1RevisionV3.tsx/Part1StoryV3.tsx sudah mencakup revisi V4. Render opening ke `renders/part1-opening-v4.mp4` dan Story ke `renders/part1-story-v4.mp4`, lalu jalankan `python scripts/export_part1_user_revision_v4.py` dan `python scripts/qc_part1_v4.py`. Sesudah QC, salin MP4 sementara ke nama final di deliverables. Rencana dan timing foto terbaru pada docs/revision-v4/plan.json. Subtitle dan durasi episode tetap V3.
+
+
+## Episode 1 Part 2 — revisi V3
+
+Komposisi baru pada Part2RevisionV3.tsx: Part2-Intro-V3 (600 frame), Part2-Outro-V3 (300), Part2-Story-V3 (960), dan FTI-SIDE-PART-2 (33429). Subtitle khusus Part 2 berada di data/part2-pages-v3.json. Rencana, dokumentasi sumber dan alur reproduksi lengkap: ../docs/part2-revision-v3/notes.md. Ekspor penuh memakai scripts/export_part2_revision_v3.py; uji format/sinkronisasi scripts/qc_part2_revision_v3.py.

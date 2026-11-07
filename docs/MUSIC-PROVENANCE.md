@@ -7,3 +7,8 @@ Musik hanya digunakan pada montage grafis opening dan closing, dengan fade. Perc
 ## Part 1 revisi V3
 
 Groove instrumental baru 126 BPM beserta pop, sweep dan aksen tiga nada disintesis oleh `scripts/make_part1_music_v3.py` dengan NumPy. Tidak memakai sampel atau rekaman lagu pihak ketiga. Audio percakapan berasal dari footage pengguna; musik diturunkan saat percakapan opening.
+
+
+## Part 2 revisi V3
+
+Instrumental 132 BPM dengan harmoni berbeda disintesis oleh scripts/make_part2_music_v3.py. Timbre masih satu keluarga dengan Part 1; seluruh nada, perkusi dan efek disintesis orisinal tanpa sampel pihak ketiga.

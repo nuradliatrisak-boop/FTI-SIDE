@@ -1,3 +1,4 @@
 deliverables/FTI-SIDE-PART-1.mp4 filter=lfs diff=lfs merge=lfs -text
 deliverables/FTI-SIDE-PART-2.mp4 filter=lfs diff=lfs merge=lfs -text
 deliverables/FTI-SIDE-PART-1-STORY.mp4 filter=lfs diff=lfs merge=lfs -text
+deliverables/FTI-SIDE-PART-2-STORY.mp4 filter=lfs diff=lfs merge=lfs -text

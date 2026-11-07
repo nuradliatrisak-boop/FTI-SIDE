@@ -1,0 +1,37 @@
+{
+  "source": "podcast-normalized.m4a",
+  "output": "podcast-part2-enhanced.m4a",
+  "targetLufs": -16,
+  "targetTruePeakDbtp": -1.5,
+  "normalizationOutputLufs": -16.02,
+  "normalizationOutputTruePeakDbtp": -1.5,
+  "normalizationOutputLra": 3.6,
+  "timingChecksAgainstPreviousMaster": [
+    {
+      "sourceSeconds": 1202,
+      "lagSeconds": -6.25e-05,
+      "rmsGainDb": -0.173
+    },
+    {
+      "sourceSeconds": 1260,
+      "lagSeconds": -6.25e-05,
+      "rmsGainDb": 2.354
+    },
+    {
+      "sourceSeconds": 1390,
+      "lagSeconds": -6.25e-05,
+      "rmsGainDb": 1.052
+    },
+    {
+      "sourceSeconds": 1732,
+      "lagSeconds": -6.25e-05,
+      "rmsGainDb": 2.378
+    },
+    {
+      "sourceSeconds": 2119,
+      "lagSeconds": -6.25e-05,
+      "rmsGainDb": 0.318
+    }
+  ],
+  "note": "Source timeline preserved; conservative local level balancing, no voice replacement."
+}
