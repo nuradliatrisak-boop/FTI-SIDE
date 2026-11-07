@@ -15,3 +15,7 @@ Horizontal 1920×1080 dan vertikal 1080×1920 memakai satu frame asli podcast.mp
 ## Versi AI Part 2
 
 Atas permintaan terbaru pengguna, tersedia desain AI terpisah: FTI-SIDE-EP1-PART2-AI-HORIZONTAL.png dan FTI-SIDE-EP1-PART2-AI-VERTIKAL.png. Dibuat dengan image_gen memakai frame asli source 2275.0 sebagai referensi empat peserta; versi vertikal juga memakai desain horizontal sebagai acuan. Desain navy/oranye, torn-paper dan rim lighting, judul Bertumbuh Bareng. Wajah merupakan hasil olahan AI. Versi foto asli tetap tersedia.
+
+### Penyelarasan final dengan contoh Part 1
+
+Versi AI aktif diperbarui: latar foam hitam, waveform hijau, outline krem, font miring dan coretan oranye mengikuti contoh Part 1. Foto/pose mengambil momen melambaikan tangan source podcast 2275.0, bukan pose foto Part 1. Judul Bertumbuh Bareng dan badge Episode 01 / Part 2. Tersedia horizontal dan vertikal.
