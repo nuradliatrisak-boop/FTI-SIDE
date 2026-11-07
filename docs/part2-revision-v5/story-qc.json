@@ -1,0 +1,18 @@
+{
+  "durationSeconds": 27,
+  "frames": 810,
+  "size": [
+    1080,
+    1920
+  ],
+  "fullDecode": "passed",
+  "loudnessLUFS": -15.48,
+  "truePeakDBTP": -1.21,
+  "visualReview": [
+    "animated rewind/grayscale",
+    "play bridge",
+    "four alternating speakers",
+    "group ending"
+  ],
+  "lint": "passed"
+}

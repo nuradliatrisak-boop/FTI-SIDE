@@ -1,10 +1,10 @@
 1
-00:00:00,100 --> 00:00:03,850
+00:00:00,700 --> 00:00:04,450
 Tujuannya untuk ikut organisasi itu apa?
 
 2
-00:00:04,100 --> 00:00:07,800
-“Terbentur, terbentur, dan terbentuk.”
+00:00:04,700 --> 00:00:07,950
+Pokoknya kita ini terbentur, terbentur, dan terbentuk.
 
 3
 00:00:20,240 --> 00:00:21,460
@@ -1228,7 +1228,7 @@ yang ada di sini, Kak Nadya, Bang
 
 308
 00:10:37,710 --> 00:10:39,710
-Ghivariel, Kak Puya tuh ngerasa kayak, anjira
+Ghivariel, Kak Puya tuh ngerasa kayak, anjir
 
 309
 00:10:39,710 --> 00:10:40,390
@@ -1544,7 +1544,7 @@ temennya seru-seru parah.
 
 387
 00:13:01,690 --> 00:13:02,470
-Seriusan gak ngomong.
+Seriusan, gue gak bohong.
 
 388
 00:13:02,590 --> 00:13:04,630

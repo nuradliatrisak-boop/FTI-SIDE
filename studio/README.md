@@ -64,3 +64,7 @@ Komposisi baru pada Part2RevisionV3.tsx: Part2-Intro-V3 (600 frame), Part2-Outro
 ## Trailer Part 2 V4
 
 ID komposisi tetap Part2-Story-V3, durasi kini 720 frame (24 detik). Render terbaru ke renders/part2-story-v4.mp4. Throwback 2 detik grayscale, close-up pembicara bergantian, wide pada respons bersama dan penutup empat kata. Video utama tetap V3. Detail: ../docs/STORY-PART-2-V4.md.
+
+## Part 2 dan trailer V5
+
+Komposisi tetap pada Part2RevisionV3.tsx. Data aktif part2-pages-v5.json/part2-plan-v5.json, helper Part2PlaybackV5.tsx. Intro 600 frame, outro 300, Story kini 810 (27 detik), utama 33429. Musik/rewind original: scripts/make_part2_music_v5.py. Render intro/outro/story ke renders/part2-{intro,outro,story}-v5.mp4 lalu scripts/export_part2_revision_v5.py dan scripts/qc_part2_revision_v5.py. Catatan lengkap: ../docs/part2-revision-v5/notes.md. Setelah QC, salin hasil sementara ke nama unduhan canonical.

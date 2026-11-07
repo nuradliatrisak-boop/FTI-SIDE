@@ -1,0 +1,106 @@
+{
+  "fps": 30,
+  "introSeconds": 20,
+  "outroSeconds": 10,
+  "dissolveSeconds": 0.2,
+  "bodySpans": [
+    [
+      1161.6,
+      1873.6
+    ],
+    [
+      1907.2,
+      2279.9
+    ]
+  ],
+  "bodyStart": 19.8,
+  "bodySeconds": 1084.5,
+  "durationSeconds": 1114.3,
+  "frames": 33429,
+  "images": [
+    {
+      "name": "FTI IMPACT",
+      "file": "part2-fti-impact.jpg",
+      "start": 1521.1,
+      "duration": 4.5
+    },
+    {
+      "name": "STUDI EKSKURSI • SARI ROTI",
+      "file": "part2-sari-roti.jpg",
+      "start": 1609.4,
+      "duration": 4.5
+    },
+    {
+      "name": "UPGRADING • SKILL ACHIEVEMENT",
+      "file": "part2-upgrading.jpg",
+      "start": 1645.4,
+      "duration": 4.5
+    }
+  ],
+  "quotes": [
+    {
+      "start": 1245.22,
+      "end": 1251.38,
+      "text": "Itulah positifnya kalian berorganisasi,\nkarena kalian dikelilingi\noleh orang-orang yang positif."
+    },
+    {
+      "start": 1439.51,
+      "end": 1441.95,
+      "text": "Akademik number one.\nKarena kalian kuliah untuk belajar."
+    },
+    {
+      "start": 1928.58,
+      "end": 1933.5,
+      "text": "Kalian harus confident aja sih\napa yang kalian punya.\nJust all out."
+    },
+    {
+      "start": 2048.62,
+      "end": 2053.04,
+      "text": "Harus bertanggung jawab,\nterus juga tetap jaga tata krama."
+    },
+    {
+      "start": 2119.09,
+      "end": 2124.55,
+      "text": "Jangan lupa dengan komitmen\nkalian di organisasi."
+    },
+    {
+      "start": 2132.82,
+      "end": 2136.26,
+      "text": "Dan di situlah\ntime management kita diuji."
+    },
+    {
+      "start": 2151.94,
+      "end": 2155.36,
+      "text": "Jangan cepat menyerah\nsama progres-progres kalian."
+    },
+    {
+      "start": 2155.62,
+      "end": 2157.08,
+      "text": "Jangan cepat puas."
+    },
+    {
+      "start": 2157.08,
+      "end": 2159.02,
+      "text": "Ikhlas sama hasil\napa yang kalian dapat."
+    },
+    {
+      "start": 2185.46,
+      "end": 2189.92,
+      "text": "Boleh kurang bensin,\ntapi jangan sampai habis bensin."
+    }
+  ],
+  "chapters": [
+    {
+      "start": 1161.6,
+      "title": "Bertumbuh lewat Ormawa"
+    },
+    {
+      "start": 1466,
+      "title": "Di Balik Sebuah Proker"
+    },
+    {
+      "start": 1907.2,
+      "title": "Pesan untuk yang Mau Mulai"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ export const RemotionRoot: React.FC = () => {
       <MyComposition />
       <Composition id="Part2-Intro-V3" component={Part2Intro} width={1920} height={1080} fps={30} durationInFrames={600}/>
       <Composition id="Part2-Outro-V3" component={Part2Outro} width={1920} height={1080} fps={30} durationInFrames={300}/>
-      <Composition id="Part2-Story-V3" component={Part2Story} width={1080} height={1920} fps={30} durationInFrames={720}/>
+      <Composition id="Part2-Story-V3" component={Part2Story} width={1080} height={1920} fps={30} durationInFrames={810}/>
       <Composition id="Part1-Instagram-Story-V3" component={Part1StoryV3} width={1080} height={1920} fps={30} durationInFrames={900}/>
       <Composition id="Part1-Opening-V3" component={OpeningPart1V3} width={1920} height={1080} fps={30} durationInFrames={678}/>
       <Composition id="Part1-Pause-Outro-V3" component={PauseOutroPart1V3} width={1920} height={1080} fps={30} durationInFrames={240}/>

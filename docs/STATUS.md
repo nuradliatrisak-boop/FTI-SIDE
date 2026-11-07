@@ -1,3 +1,9 @@
+# Part 2 utama dan trailer V5 selesai
+
+Utama 1114.3 detik/33429 frame Full HD; trailer 27 detik/810 frame 1080×1920. Grayscale + rewind animasi/suara, musik baru, jembatan play, aksen oranye, tiga foto 4.5 detik tanpa heading dokumentasi, dua koreksi subtitle, montage penutup dan musik sambung setelah salam. Semua 13 permintaan tercatat selesai di docs/part2-revision-v5/checklist.json.
+
+Decode penuh keduanya lulus. Utama -16.10 LUFS/TP -1.21 dBTP; trailer -15.48 LUFS/TP -1.21 dBTP. Enam titik sinkronisasi lag 10.7 ms/korelasi 0.988–0.996. 530 cue SRT berurutan positif tanpa overlap; lint/TypeScript lulus. Frame hasil telah diperiksa pada opening, trailer, batas ketiga foto, kedua koreksi dan outro. Part 1 identik berdasarkan SHA-256. QC: deliverables/PART-2-V5-QC.json. Riwayat di bawah.
+
 # Trailer Part 2 V4 selesai
 
 24 detik, 720 frame, 1080×1920. Throwback 2 detik grayscale, close-up Cahaya/Nadya/Kinan/Ghivariel bergantian, wide saat respons bersama, penutup ringkas FTI SIDE / PART 2. Keenam bagian sudah diperiksa lewat frame hasil. Decode penuh dan lint/TypeScript lolos. Audio -15.33 LUFS/TP -1.54 dBTP. QC: deliverables/PART-2-STORY-V4-QC.json. Video utama Part 2 V3 tidak diubah. Riwayat di bawah.

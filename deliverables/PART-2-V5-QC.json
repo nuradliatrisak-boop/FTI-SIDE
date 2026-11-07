@@ -1,0 +1,79 @@
+{
+  "result": "passed",
+  "part2": {
+    "durationSeconds": 1114.3,
+    "frames": 33429,
+    "size": [
+      1920,
+      1080
+    ],
+    "audioAlignment": [
+      {
+        "timeline": 60,
+        "source": 1201.8,
+        "lag": 0.0106875,
+        "correlation": 0.9929328059657675
+      },
+      {
+        "timeline": 300,
+        "source": 1441.8,
+        "lag": 0.0106875,
+        "correlation": 0.9925617696660147
+      },
+      {
+        "timeline": 520,
+        "source": 1661.8,
+        "lag": 0.0106875,
+        "correlation": 0.9963004265728058
+      },
+      {
+        "timeline": 760,
+        "source": 1935.6,
+        "lag": 0.0106875,
+        "correlation": 0.9944644267885108
+      },
+      {
+        "timeline": 1000,
+        "source": 2175.6,
+        "lag": 0.0106875,
+        "correlation": 0.9926450422959158
+      },
+      {
+        "timeline": 1080,
+        "source": 2255.6,
+        "lag": 0.0106875,
+        "correlation": 0.9877193024831253
+      }
+    ],
+    "fullDecode": "passed",
+    "loudnessLUFS": -16.1,
+    "truePeakDBTP": -1.21,
+    "visualReview": "passed: intro, 3 image insert boundaries, both corrected captions, outro"
+  },
+  "story": {
+    "durationSeconds": 27,
+    "frames": 810,
+    "size": [
+      1080,
+      1920
+    ],
+    "fullDecode": "passed",
+    "loudnessLUFS": -15.48,
+    "truePeakDBTP": -1.21,
+    "visualReview": [
+      "animated rewind/grayscale",
+      "play bridge",
+      "four alternating speakers",
+      "group ending"
+    ],
+    "lint": "passed"
+  },
+  "part1Preserved": {
+    "sha256": "a261dbc898b226598f8781924b189c99e60d0014a8c402e7b87885667ba25a5a",
+    "matchesPreviousCommit": true
+  },
+  "lintAndTypeScript": "passed",
+  "srt": {
+    "orderedPositiveNonOverlappingCues": 530
+  }
+}
