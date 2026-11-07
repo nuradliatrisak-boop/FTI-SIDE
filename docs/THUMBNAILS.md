@@ -7,3 +7,7 @@ Hasil:
 - deliverables/thumbnails/FTI-SIDE-EP1-PART1-VERTIKAL.png — 1080×1920.
 
 Reproduksi: python scripts/make_original_thumbnails.py. Versi ini menggantikan thumbnail hasil generasi sebelumnya sesuai permintaan pengguna.
+
+## Episode 1 Part 2
+
+Horizontal 1920×1080 dan vertikal 1080×1920 memakai satu frame asli podcast.mp4 pada source 2275.0 detik (momen bye-bye Part 2). Judul Bertumbuh Bareng dengan badge EP 01 / PART 2, warna/font selaras Part 1. Empat peserta tetap dalam satu foto tanpa generative AI/retouch wajah. File PNG dan JPEG tersedia di deliverables/thumbnails/FTI-SIDE-EP1-PART2-{HORIZONTAL,VERTIKAL}. Reproduksi: python scripts/make_part2_thumbnails.py. JPEG disediakan agar ukuran nyaman untuk unggahan thumbnail.
