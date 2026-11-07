@@ -1,0 +1,26 @@
+{
+  "result": "passed",
+  "durationSeconds": 24.0,
+  "frames": 720,
+  "size": [
+    1080,
+    1920
+  ],
+  "fullDecode": "passed",
+  "audio": {
+    "integratedLufs": -15.33,
+    "truePeakDbtp": -1.54,
+    "channels": 2
+  },
+  "visualChecks": {
+    "throwback": "2 seconds, grayscale, source Part 1",
+    "Cahaya": "4s close-up",
+    "Nadya": "8.5s close-up",
+    "Kinan": "13.5s close-up",
+    "Ghivariel": "18.5s close-up, only one main section",
+    "group": "22.5s all four, collective response",
+    "ending": "FTI SIDE / PART 2 only"
+  },
+  "lintAndTypeScript": "passed",
+  "mainEpisode": "not modified"
+}

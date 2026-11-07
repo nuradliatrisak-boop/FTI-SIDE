@@ -53,19 +53,32 @@ export const PartTwoV3=()=>{
  return <AbsoluteFill style={{background:'#111'}}><Sequence durationInFrames={20*fps} premountFor={fps}><Part2Intro/></Sequence><Sequence from={Math.round(19.8*fps)} trimBefore={Math.round(1161.6*fps)} durationInFrames={712*fps} premountFor={fps}><Body start={1161.6} end={1873.6}/></Sequence><Sequence from={Math.round(731.6*fps)} trimBefore={Math.round(1907.2*fps)} durationInFrames={Math.round(372.7*fps)} premountFor={fps}><Body start={1907.2} end={2279.9}/></Sequence><Sequence from={Math.round(1104.3*fps)} durationInFrames={10*fps} premountFor={fps}><Part2Outro/></Sequence></AbsoluteFill>;
 };
 const storyShots=[
- {at:0,duration:3.9,start:260,file:'podcast.mp4',x:'22%',head:'SEBELUMNYA…',accent:'KENAPA IKUT ORGANISASI?',wide:false,recap:true},
- {at:3.9,duration:3.9,start:475.6,file:'podcast.mp4',x:'75%',head:'“TERBENTUR, TERBENTUR,',accent:'DAN TERBENTUK.”',wide:false,recap:true},
- {at:7.8,duration:3,start:1259.52,file:'podcast.mp4',x:'83%',head:'DULU INTROVERT.',accent:'SEKARANG?',wide:false,recap:false},
- {at:10.8,duration:6,start:1489.45,file:'podcast.mp4',x:'100%',head:'DI BALIK',accent:'SEBUAH PROKER.',wide:false,recap:false},
- {at:16.8,duration:5.5,start:2119.09,file:'podcast.mp4',x:'50%',head:'JANGAN LUPA',accent:'KOMITMEN KALIAN.',wide:true,recap:false},
- {at:22.3,duration:4.5,start:2185.46,file:'podcast.mp4',x:'83%',head:'BOLEH KURANG BENSIN…',accent:'JANGAN SAMPAI HABIS!',wide:false,recap:false},
- {at:26.8,duration:5.2,start:48,file:'opening.mp4',x:'50%',head:'LANJUTKAN CERITANYA.',accent:'FTI SIDE\nEPISODE 01 • PART 2',wide:true,recap:false},
+ {at:0,duration:2,start:278.96,file:'podcast.mp4',x:'22%',head:'KENAPA NGGAK?',accent:'IKUT ORGANISASI AJA.',wide:false,recap:true},
+ {at:2,duration:4.3,start:1225.71,file:'podcast.mp4',x:'0%',head:'JADI LEBIH',accent:'SERIUS & TEGAS.',wide:false,recap:false},
+ {at:6.3,duration:5,start:1928.58,file:'podcast.mp4',x:'100%',head:'CONFIDENT AJA.',accent:'JUST ALL OUT!',wide:false,recap:false},
+ {at:11.3,duration:5.5,start:2119.09,file:'podcast.mp4',x:'22%',head:'JANGAN LUPA',accent:'KOMITMEN KALIAN.',wide:false,recap:false},
+ {at:16.8,duration:4.5,start:2185.46,file:'podcast.mp4',x:'83%',head:'BOLEH KURANG BENSIN…',accent:'JANGAN SAMPAI HABIS!',wide:false,recap:false},
+ {at:21.3,duration:2.7,start:47.2,file:'opening.mp4',x:'50%',head:'FTI SIDE',accent:'PART 2',wide:true,recap:false},
 ];
 const StoryClip=({shot,last}:{shot:typeof storyShots[number];last:boolean})=>{
  const f=useCurrentFrame();const {fps}=useVideoConfig();const duration=shot.duration*fps;const src=staticFile(`sources/${shot.file}`);
- return <AbsoluteFill style={{opacity:shot.at===0?1:interpolate(f,[0,.2*fps],[0,1],clamp),overflow:'hidden'}}><Video src={src} trimBefore={Math.round(shot.start*fps)} muted premountFor={fps} objectFit="cover" style={{width:'100%',height:'100%',objectPosition:shot.x,filter:shot.wide?'blur(25px) brightness(.5)':undefined,scale:interpolate(f,[0,duration],[1,1.04],clamp)}}/>{shot.wide?<Video src={src} trimBefore={Math.round(shot.start*fps)} muted premountFor={fps} objectFit="contain" style={{position:'absolute',left:0,top:510,width:1080,height:608}}/>:null}<Audio src={staticFile(shot.file==='opening.mp4'?'audio/opening-v3-normalized.wav':shot.recap?'audio/podcast-normalized.m4a':'audio/podcast-part2-enhanced.m4a')} trimBefore={Math.round(shot.start*fps)} premountFor={fps} volume={last?0:Math.min(interpolate(f,[0,3],[0,1],clamp),interpolate(f,[duration-3,duration],[1,0],clamp))}/><AbsoluteFill style={{background:'linear-gradient(rgba(0,0,0,.3),transparent 40%,rgba(0,0,0,.87))'}}/><div style={{position:'absolute',left:75,top:315,color:orange,fontSize:27,fontWeight:800,letterSpacing:3}}>{shot.recap?'THROWBACK • PART 1':'EPISODE 01 • PART 2'}</div><div style={{position:'absolute',left:75,right:75,bottom:320,fontWeight:900,lineHeight:1.14,fontSize:shot.recap?66:70,textShadow:shadow,whiteSpace:'pre-line',scale:.94+.06*spring({frame:f,fps,config:{damping:18}})}}><div>{shot.head}</div><div style={{color:orange,marginTop:12}}>{shot.accent}</div><div style={{marginTop:28,width:interpolate(f,[0,12],[0,150],clamp),height:7,background:orange}}/></div><Audio src={staticFile('audio/part2-v3-sweep.wav')} premountFor={fps} volume={.1}/></AbsoluteFill>;
+ const color=shot.recap?'#dedede':orange;
+ return <AbsoluteFill style={{opacity:shot.at===0?1:interpolate(f,[0,.16*fps],[0,1],clamp),overflow:'hidden'}}>
+  <Video src={src} trimBefore={Math.round(shot.start*fps)} muted premountFor={fps} objectFit="cover" style={{width:'100%',height:'100%',objectPosition:shot.x,filter:shot.recap?'grayscale(1)':shot.wide?'blur(25px) brightness(.5)':undefined,scale:shot.wide?1:interpolate(f,[0,duration],[1,1.04],clamp)}}/>
+  {shot.wide?<Video src={src} trimBefore={Math.round(shot.start*fps)} muted premountFor={fps} objectFit="contain" style={{position:'absolute',left:0,top:510,width:1080,height:608}}/>:null}
+  <Audio src={staticFile(shot.file==='opening.mp4'?'audio/opening-v3-normalized.wav':shot.recap?'audio/podcast-normalized.m4a':'audio/podcast-part2-enhanced.m4a')} trimBefore={Math.round(shot.start*fps)} premountFor={fps} volume={Math.min(interpolate(f,[0,2],[0,last?.6:1],clamp),interpolate(f,[duration-2,duration],[last?.6:1,0],clamp))}/>
+  <AbsoluteFill style={{background:'linear-gradient(rgba(0,0,0,.3),transparent 40%,rgba(0,0,0,.87))'}}/>
+  {!last?<div style={{position:'absolute',left:75,top:315,color,fontSize:27,fontWeight:800,letterSpacing:3}}>{shot.recap?'THROWBACK • PART 1':'EPISODE 01 • PART 2'}</div>:null}
+  <div style={{position:'absolute',left:75,right:75,bottom:320,fontWeight:900,lineHeight:1.14,fontSize:last?108:shot.recap?66:70,textShadow:shadow,whiteSpace:'pre-line',scale:.94+.06*spring({frame:f,fps,config:{damping:18}})}}><div>{shot.head}</div><div style={{color,marginTop:12}}>{shot.accent}</div><div style={{marginTop:28,width:interpolate(f,[0,12],[0,150],clamp),height:7,background:color}}/></div>
+  <Audio src={staticFile('audio/part2-v3-sweep.wav')} premountFor={fps} volume={.08}/>
+ </AbsoluteFill>;
 };
 export const Part2Story=()=>{
  const f=useCurrentFrame();const {fps}=useVideoConfig();
- return <AbsoluteFill style={{background:'#111',fontFamily:font,color:cream}}>{storyShots.map((s,i)=><Sequence key={s.at} from={Math.round(s.at*fps)} durationInFrames={Math.round((s.duration+(i<storyShots.length-1?.2:0))*fps)} premountFor={fps}><StoryClip shot={s} last={i===storyShots.length-1}/></Sequence>)}<div style={{position:'absolute',left:75,top:180,fontSize:55,fontWeight:900}}>FTI <span style={{color:orange}}>SIDE</span><div style={{fontSize:22,letterSpacing:2,marginTop:18}}>BEM FTI UNIVERSITAS TRISAKTI</div></div><Audio src={staticFile('audio/part2-v3-groove.wav')} premountFor={fps} volume={interpolate(f,[0,10,26.8*fps,27.2*fps,31*fps,32*fps],[0,.14,.14,.6,.6,0],clamp)}/><AbsoluteFill style={{background:'black',opacity:interpolate(f,[31.5*fps,32*fps],[0,1],clamp)}}/></AbsoluteFill>;
+ return <AbsoluteFill style={{background:'#111',fontFamily:font,color:cream}}>
+  {storyShots.map((s,i)=><Sequence key={s.at} from={Math.round(s.at*fps)} durationInFrames={Math.round((s.duration+(i<storyShots.length-1?.16:0))*fps)} premountFor={fps}><StoryClip shot={s} last={i===storyShots.length-1}/></Sequence>)}
+  {f<21.3*fps?<div style={{position:'absolute',left:75,top:180,fontSize:55,fontWeight:900}}>FTI <span style={{color:f<2*fps?'#dedede':orange}}>SIDE</span><div style={{fontSize:22,letterSpacing:2,marginTop:18}}>BEM FTI UNIVERSITAS TRISAKTI</div></div>:null}
+  <Audio src={staticFile('audio/part2-v3-groove.wav')} premountFor={fps} volume={interpolate(f,[0,6,21.3*fps,21.6*fps,23.2*fps,24*fps],[0,.14,.14,.4,.4,0],clamp)}/>
+  <AbsoluteFill style={{background:'black',opacity:interpolate(f,[23.6*fps,24*fps],[0,1],clamp)}}/>
+ </AbsoluteFill>;
 };

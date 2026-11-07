@@ -1,3 +1,7 @@
+# Trailer Part 2 V4 selesai
+
+24 detik, 720 frame, 1080×1920. Throwback 2 detik grayscale, close-up Cahaya/Nadya/Kinan/Ghivariel bergantian, wide saat respons bersama, penutup ringkas FTI SIDE / PART 2. Keenam bagian sudah diperiksa lewat frame hasil. Decode penuh dan lint/TypeScript lolos. Audio -15.33 LUFS/TP -1.54 dBTP. QC: deliverables/PART-2-STORY-V4-QC.json. Video utama Part 2 V3 tidak diubah. Riwayat di bawah.
+
 # Episode 1 Part 2 — revisi pengguna V3 selesai
 
 Video 1114.3 detik (18:34.3), 33429 frame, 1920×1080 H.264/AAC stereo. Throwback 8 detik, opening baru 12 detik, label EP 1 • PART 2, tiga dokumentasi pengguna, sepuluh highlight kutipan dan penutup montage 10 detik. Trailer vertikal 32 detik, 960 frame, dengan throwback Part 1.

@@ -59,3 +59,8 @@ Komposisi pada file Part1RevisionV3.tsx/Part1StoryV3.tsx sudah mencakup revisi V
 ## Episode 1 Part 2 — revisi V3
 
 Komposisi baru pada Part2RevisionV3.tsx: Part2-Intro-V3 (600 frame), Part2-Outro-V3 (300), Part2-Story-V3 (960), dan FTI-SIDE-PART-2 (33429). Subtitle khusus Part 2 berada di data/part2-pages-v3.json. Rencana, dokumentasi sumber dan alur reproduksi lengkap: ../docs/part2-revision-v3/notes.md. Ekspor penuh memakai scripts/export_part2_revision_v3.py; uji format/sinkronisasi scripts/qc_part2_revision_v3.py.
+
+
+## Trailer Part 2 V4
+
+ID komposisi tetap Part2-Story-V3, durasi kini 720 frame (24 detik). Render terbaru ke renders/part2-story-v4.mp4. Throwback 2 detik grayscale, close-up pembicara bergantian, wide pada respons bersama dan penutup empat kata. Video utama tetap V3. Detail: ../docs/STORY-PART-2-V4.md.

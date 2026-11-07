@@ -13,10 +13,12 @@ checks=[]
 for t in [60,300,520,760,1000,1080]:
  source=1161.6+t-19.8 if t<731.6 else 1907.2+t-731.6
  x=audio(r/'studio/public/audio/podcast-part2-enhanced.m4a',source);y=audio(video,t);n=min(len(x),len(y));x=x[:n];y=y[:n];size=1<<(2*n-1).bit_length();corr=np.fft.irfft(np.fft.rfft(y,size)*np.conj(np.fft.rfft(x,size)),size);lags=np.arange(-2400,2401);scores=corr[lags%size]/(np.linalg.norm(x)*np.linalg.norm(y));k=int(np.argmax(scores));lag=float(lags[k]/16000);score=float(scores[k]);assert abs(lag)<.1 and score>.90,(t,lag,score);checks.append(dict(timeline=t,source=source,lag=lag,correlation=score));print(checks[-1],flush=True)
-story=probe(r/'renders/part2-story-v3.mp4');sv=next(x for x in story['streams'] if x['codec_type']=='video');assert(sv['width'],sv['height'],sv['nb_frames'])==(1080,1920,'960')
+story_file=r/'renders/part2-story-v4.mp4' if (r/'renders/part2-story-v4.mp4').exists() else r/'renders/part2-story-v3.mp4'
+expected_story_frames=720 if 'v4' in story_file.name else 960
+story=probe(story_file);sv=next(x for x in story['streams'] if x['codec_type']=='video');assert(sv['width'],sv['height'],sv['nb_frames'])==(1080,1920,str(expected_story_frames))
 h=hashlib.sha256()
 with (r/'deliverables/FTI-SIDE-PART-1.mp4').open('rb') as f:
  for b in iter(lambda:f.read(8*1024*1024),b''):h.update(b)
 assert h.hexdigest() in subprocess.check_output(['git','show','HEAD:deliverables/FTI-SIDE-PART-1.mp4'],cwd=r,text=True)
-report={'result':'passed','part2':{'durationSeconds':float(m['format']['duration']),'frames':int(v['nb_frames']),'size':[1920,1080],'audioAlignment':checks},'story':{'durationSeconds':float(story['format']['duration']),'frames':960,'size':[1080,1920]},'part1Preserved':{'sha256':h.hexdigest(),'matchesPreviousCommit':True}}
+report={'result':'passed','part2':{'durationSeconds':float(m['format']['duration']),'frames':int(v['nb_frames']),'size':[1920,1080],'audioAlignment':checks},'story':{'durationSeconds':float(story['format']['duration']),'frames':expected_story_frames,'size':[1080,1920]},'part1Preserved':{'sha256':h.hexdigest(),'matchesPreviousCommit':True}}
 (r/'deliverables/PART-2-V3-QC.json').write_text(json.dumps(report,indent=2)+'\n')

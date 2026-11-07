@@ -1,3 +1,7 @@
+# Trailer Part 2 V4
+
+Trailer terbaru 24 detik: throwback 2 detik abu-abu, close-up empat pembicara bergantian, wide saat respons kelompok, penutup singkat FTI SIDE / PART 2. QC: PART-2-STORY-V4-QC.json. Video utama tetap Part 2 V3. Catatan sebelumnya di bawah untuk riwayat.
+
 # Episode 1 • Part 2 — revisi V3
 
 FTI-SIDE-PART-2.mp4: 18:34.3. FTI-SIDE-PART-2-STORY.mp4: 32 detik, vertikal. Throwback, opening baru, dokumentasi proker, kutipan pesan, koreksi subtitle, perataan dialog dan outro footage. Keduanya lolos decode penuh. Detail CATATAN-PART-2-V3.md; QC PART-2-V3-QC.json. Catatan versi lain di bawah adalah riwayat.

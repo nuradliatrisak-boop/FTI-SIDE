@@ -21,7 +21,7 @@ Part 1 memakai revisi V4 dan Story V6; Part 2 memakai revisi pengguna V3 dengan 
 - [Unduh Part 1 — 18:52](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-1.mp4)
 - [Trailer Instagram Story — 30 detik](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-1-STORY.mp4)
 - [Unduh Part 2 — 18:34](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-2.mp4)
-- [Trailer Part 2 — 32 detik](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-2-STORY.mp4)
+- [Trailer Part 2 — 24 detik](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-PART-2-STORY.mp4)
 - [Arsip proyek Remotion](https://github.com/nuradliatrisak-boop/FTI-SIDE/raw/refs/heads/main/deliverables/FTI-SIDE-REMOTION-PROJECT.zip)
 
 Untuk clone lokal, pasang Git LFS sebelum menjalankan `git clone`, kemudian jalankan `git lfs pull` jika video masih berupa pointer.
@@ -33,7 +33,8 @@ Untuk clone lokal, pasang Git LFS sebelum menjalankan `git clone`, kemudian jala
 - [Catatan revisi subtitle V2](deliverables/CATATAN-SUBTITLE-V2.md)
 - [QC Part 1 V4](deliverables/PART-1-V4-QC.json)
 - [QC Story V6 — judul 24 jam dan aksen oranye](deliverables/STORY-V6-QC.json)
-- [QC Part 2 V3 dan trailer](deliverables/PART-2-V3-QC.json)
+- [QC video Part 2 V3](deliverables/PART-2-V3-QC.json)
+- [QC trailer Part 2 V4](deliverables/PART-2-STORY-V4-QC.json)
 - [QC versi sebelumnya](deliverables/QC-REPORT.json)
 - [Catatan ketidakjelasan sumber versi V2](deliverables/POTONGAN-PERLU-DICEK.csv)
 
