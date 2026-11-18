@@ -1,973 +1,1115 @@
 1
-00:00:00,040 --> 00:00:05,185
-Tapi kalau ditanya kenapa capek,
-gue jawab, “Gak apa-apa,” karena...
+00:00:07,167 --> 00:00:10,527
+Oke, anyway, sebelumnya kenalin,
+nama gue Fajar.
 
 2
-00:00:05,220 --> 00:00:08,233
-Gak semua hal harus diceritain
-ke semua orang, kan?
+00:00:10,940 --> 00:00:12,267
+Gue Fathur.
 
 3
-00:00:14,270 --> 00:00:15,240
-Oke.
+00:00:12,277 --> 00:00:13,317
+Gue Chiaro.
 
 4
-00:00:15,720 --> 00:00:18,705
+00:00:13,343 --> 00:00:14,263
+Gue Kinan.
+
+5
+00:00:14,320 --> 00:00:15,390
+Dan gue Muti.
+
+6
+00:00:15,577 --> 00:00:18,617
+Welcome to FTI SIDE!
+
+7
+00:00:22,203 --> 00:00:23,173
+Oke.
+
+8
+00:00:23,653 --> 00:00:26,638
 Kalian pernah gak sih
 ditanya, “Lo gak apa-apa?”
 
-5
-00:00:18,740 --> 00:00:20,735
+9
+00:00:26,673 --> 00:00:28,668
 Otomatis kalian kayak ngejawab,
 
-6
-00:00:20,770 --> 00:00:24,150
+10
+00:00:28,703 --> 00:00:32,083
 “Gue gak apa-apa,” padahal
 kalian ngerasa capek banget.
 
-7
-00:00:26,170 --> 00:00:27,410
+11
+00:00:34,103 --> 00:00:35,343
 Sering banget ya.
 
-8
-00:00:27,570 --> 00:00:29,035
+12
+00:00:35,503 --> 00:00:36,968
 Kalau lo gimana sih, Mut?
 
-9
-00:00:29,070 --> 00:00:29,790
+13
+00:00:37,003 --> 00:00:37,723
 Emang?
 
-10
-00:00:29,990 --> 00:00:35,590
+14
+00:00:37,923 --> 00:00:43,523
 Mungkin, ya. Kayak gue
 habis keluar dari kelas.
 
-11
-00:00:36,010 --> 00:00:38,680
+15
+00:00:43,943 --> 00:00:46,613
 Padahal kelasnya cuma sedikit SKS.
 
-12
-00:00:38,870 --> 00:00:44,180
+16
+00:00:46,803 --> 00:00:52,113
 Tapi pas keluar kelas, tiba-tiba,
 “Capek banget nih gue hari ini.”
 
-13
-00:00:47,550 --> 00:00:53,640
+17
+00:00:55,483 --> 00:01:01,573
 Padahal aktivitasnya ringan
 banget, tapi rasanya capek banget.
 
-14
-00:00:54,310 --> 00:00:56,615
+18
+00:01:02,243 --> 00:01:04,548
 Kalau lo, Kinan, pernah
 gak ngerasa kayak gitu?
 
-15
-00:00:56,650 --> 00:01:00,615
+19
+00:01:04,583 --> 00:01:08,548
 Kalau misalnya ditanya gue
 capek atau beneran gak apa-apa,
 
-16
-00:01:00,650 --> 00:01:03,490
+20
+00:01:08,583 --> 00:01:11,423
 karena gue capek, gue mending
 ngomong, “Gak apa-apa.”
 
-17
-00:01:06,470 --> 00:01:09,690
-Kalau misalken capek ya,
+21
+00:01:14,403 --> 00:01:17,623
+Kalau misalkan capek ya,
 udah ngapain-ngapain.
 
-18
-00:01:10,000 --> 00:01:13,760
+22
+00:01:17,933 --> 00:01:21,693
 Sering banget ngerasa capek,
 tapi gak tahu capeknya kenapa.
 
-19
-00:01:14,360 --> 00:01:18,105
+23
+00:01:22,293 --> 00:01:26,038
 Kayak Muti tadi. Bahkan
 gue yang cuma bangun,
 
-20
-00:01:18,140 --> 00:01:20,785
+24
+00:01:26,073 --> 00:01:28,718
 tiduran, makan, ya bisa capek.
 
-21
-00:01:20,820 --> 00:01:25,565
+25
+00:01:28,753 --> 00:01:33,498
 Padahal gak ngelakuin aktivitas
 berat, tapi tetap capek.
 
-22
-00:01:25,600 --> 00:01:28,140
+26
+00:01:33,533 --> 00:01:36,073
 Iya, nge-scroll aja rasanya nguras energi.
 
-23
-00:01:30,860 --> 00:01:34,485
+27
+00:01:38,793 --> 00:01:42,418
 Kalau gue ditanya pas lagi capek banget,
 
-24
-00:01:34,520 --> 00:01:38,365
+28
+00:01:42,453 --> 00:01:46,298
 gue jawab “Gak apa-apa”
 karena lebih simpel aja.
 
-25
-00:01:38,400 --> 00:01:41,200
+29
+00:01:46,333 --> 00:01:49,133
 Kadang-kadang orang kalau lagi
 capek, kadang males ngomong ya.
 
-26
-00:01:41,340 --> 00:01:42,770
-Jawab aja, “Gak apa-apa.”
-
-27
-00:01:42,980 --> 00:01:44,485
-Biar cepat aja pembahasannya.
-
-28
-00:01:44,520 --> 00:01:49,245
-Tapi kalau ditanya pernah capek
-padahal lagi gak ngapa-ngapain,
-
-29
-00:01:49,280 --> 00:01:53,495
-iya, gue pernah. Baru bangun tidur aja...
-
 30
-00:01:53,530 --> 00:01:56,010
-udah gak ada energi buat jalanin hari ini.
+00:01:49,273 --> 00:01:50,783
+Ya udahlah, gapapa.
 
 31
-00:02:04,720 --> 00:02:09,335
-Gue pernah baca, kalau hari
-sebelumnya banyak kegiatan,
+00:01:50,913 --> 00:01:52,418
+Biar cepat aja pembahasannya.
 
 32
-00:02:09,370 --> 00:02:13,965
-dan kita capek secara mental,
-emosional, atau pikiran,
+00:01:52,453 --> 00:01:55,333
+Tapi kalau misalkan ditanya kayak...
 
 33
-00:02:14,000 --> 00:02:20,360
-besoknya juga bisa masih capek
-karena butuh waktu buat pulih.
+00:01:55,333 --> 00:01:57,383
+lagi gak ngapa-ngapain tapi capek,
 
 34
-00:02:20,400 --> 00:02:22,015
-Wah, insight baru, guys!
+00:01:57,383 --> 00:02:01,303
+itu case gue, kayak gue baru bangun tidur...
 
 35
-00:02:22,050 --> 00:02:23,490
-Thank you!
+00:02:01,533 --> 00:02:03,963
+tapi capek, gue gak ada energi
+buat jalanin hari ini.
 
 36
-00:02:23,680 --> 00:02:28,225
-Kalau dari gue sih, banyak
-hal-hal yang bikin gue
+00:02:04,343 --> 00:02:05,223
+Kok bisa sih?
 
 37
-00:02:28,260 --> 00:02:29,820
-Capek dalam organisasi,
+00:02:05,343 --> 00:02:07,283
+Ah, lu karena keseringan begadang, tau.
 
 38
-00:02:29,980 --> 00:02:34,280
-atau dalam urusan akademis dan kuliah.
+00:02:11,223 --> 00:02:11,863
+Enggak, enggak.
 
 39
-00:02:35,140 --> 00:02:37,300
+00:02:12,403 --> 00:02:14,143
+Tapi biasanya gue sempet baca ya,
+
+40
+00:02:14,143 --> 00:02:16,673
+misalkan orang itu di hari sebelumnya
+
+41
+00:02:16,673 --> 00:02:19,123
+dia melakukan banyak kegiatan
+
+42
+00:02:19,123 --> 00:02:21,263
+dan dia sangat lelah,
+
+43
+00:02:21,263 --> 00:02:24,293
+entah secara mental, emosional,
+ataupun pikirannya.
+
+44
+00:02:24,293 --> 00:02:26,203
+Itu hari besoknya tetap masih capek
+
+45
+00:02:26,203 --> 00:02:28,233
+karena butuh recovery
+yang lebih banyak lagi.
+
+46
+00:02:28,333 --> 00:02:29,948
+Wah, insight baru, guys!
+
+47
+00:02:29,973 --> 00:02:30,863
+Thank you, Chi!
+
+48
+00:02:30,863 --> 00:02:32,463
+Kalau dari Bang Fathur gimana?
+
+49
+00:02:32,463 --> 00:02:34,383
+Kalau dari gue sih,
+
+50
+00:02:34,423 --> 00:02:37,753
+banyak hal yang bikin gue capek
+dalam organisasi,
+
+51
+00:02:37,903 --> 00:02:41,993
+dalam akademis kayak misalkan kampus,
+kuliahnya kayak gimana.
+
+52
+00:02:43,073 --> 00:02:45,233
 Ngerjain tugas kan banyak
 ya, pasti ya sekarang.
 
-40
-00:02:38,860 --> 00:02:39,265
+53
+00:02:46,793 --> 00:02:47,198
 Terus...
 
-41
-00:02:39,300 --> 00:02:42,145
+54
+00:02:47,233 --> 00:02:50,078
 Banyak hal di kampus yang bikin gue capek.
 
-42
-00:02:42,180 --> 00:02:47,325
+55
+00:02:50,113 --> 00:02:55,258
 Tapi kalau ditanya kenapa capek,
 gue jawab, “Gak apa-apa,” karena...
 
-43
-00:02:47,360 --> 00:02:50,410
+56
+00:02:55,293 --> 00:02:58,343
 Gak semua hal harus diceritain
 ke semua orang, kan?
 
-44
-00:02:50,560 --> 00:02:52,420
+57
+00:02:58,493 --> 00:03:00,353
 Itu juga. Bener kan?
 
-45
-00:02:57,000 --> 00:03:00,985
+58
+00:03:04,933 --> 00:03:08,918
 Kadang kalau kita ceritain,
 malah tambah capek juga, gak sih?
 
-46
-00:03:01,020 --> 00:03:02,460
+59
+00:03:08,953 --> 00:03:10,393
 Iya, itu. Iya kan?
 
-47
-00:03:02,720 --> 00:03:03,840
+60
+00:03:10,653 --> 00:03:11,773
 Nah itu sebenarnya.
 
-48
-00:03:04,210 --> 00:03:05,210
+61
+00:03:12,143 --> 00:03:13,143
 Nah kalau lu gimana jar?
 
-49
-00:03:05,730 --> 00:03:09,070
+62
+00:03:13,663 --> 00:03:17,003
 Kalau gue ya, pernah sih ngerasa kayak,
 
-50
-00:03:09,850 --> 00:03:14,070
-Kayak gue ngelakuin hal berat
-terus tiba-tiba capek lemes.
+63
+00:03:17,723 --> 00:03:19,853
+Kayak gak ngelakuin hal berat,
 
-51
-00:03:14,570 --> 00:03:17,825
+64
+00:03:19,853 --> 00:03:22,153
+terus tiba-tiba capek, lemes.
+
+65
+00:03:22,503 --> 00:03:25,758
 Tapi kayak ya udah aja gitu jadi kayak kita
 
-52
-00:03:17,860 --> 00:03:22,165
+66
+00:03:25,793 --> 00:03:30,098
 Harus mencari energi lagi untuk
 
-53
-00:03:22,200 --> 00:03:25,985
+67
+00:03:30,133 --> 00:03:33,918
 Mendapatkan energinya tuh kayak mungkin
 kita ngelakuin hal-hal yang mungkin
 
-54
-00:03:26,020 --> 00:03:27,400
+68
+00:03:33,953 --> 00:03:35,333
 Membuat mood kita naik.
 
-55
-00:03:27,440 --> 00:03:29,300
+69
+00:03:35,373 --> 00:03:37,233
 Kayak misalnya kita main
 game sama teman-teman,
 
-56
-00:03:29,600 --> 00:03:32,295
+70
+00:03:37,533 --> 00:03:40,228
 Terus kayak... Pergi
 jalan-jalan sama teman-teman,
 
-57
-00:03:32,330 --> 00:03:33,230
+71
+00:03:40,263 --> 00:03:41,163
 Terus itu aja.
 
-58
-00:03:33,350 --> 00:03:36,450
-Oke anyway, sebelumnya
-kenalin nama gua Fajar.
-
-59
-00:03:37,170 --> 00:03:38,530
-Gue Fatur.
-
-60
-00:03:39,540 --> 00:03:40,480
-Gue Kinan.
-
-61
-00:03:40,600 --> 00:03:41,520
-Dan gue Muti.
-
-62
-00:03:41,720 --> 00:03:44,790
-Welcome to FTI SIDE!
-
-63
-00:03:50,027 --> 00:03:51,722
+72
+00:03:43,060 --> 00:03:44,755
 Jadi sekarang gue yang mulai, ya?
 
-64
-00:03:51,757 --> 00:03:52,577
+73
+00:03:44,790 --> 00:03:45,610
 Boleh, boleh, boleh.
 
-65
-00:03:52,877 --> 00:03:55,037
+74
+00:03:45,910 --> 00:03:48,070
 Kalau misalnya kalian
 lagi sibuk banget nih,
 
-66
-00:03:55,137 --> 00:03:57,677
+75
+00:03:48,170 --> 00:03:50,710
 Kayak misalnya lagi
 panitia atau apapun itu,
 
-67
-00:03:57,957 --> 00:03:59,682
+76
+00:03:50,990 --> 00:03:52,715
 Kalian pernah gak sih kalau dari
 
-68
-00:03:59,717 --> 00:04:03,887
+77
+00:03:52,750 --> 00:03:56,920
 Secara fisik maupun mental udah
 capek, tapi kalian gak sadar?
 
-69
-00:04:06,277 --> 00:04:10,332
+78
+00:03:59,310 --> 00:04:03,365
 Jujur gue pernah ngerasain hal kayak gitu.
 
-70
-00:04:10,367 --> 00:04:14,172
+79
+00:04:03,400 --> 00:04:07,205
 Misalnya waktu kita jadi panitia PKKMB FTI.
 
-71
-00:04:14,207 --> 00:04:18,232
+80
+00:04:07,240 --> 00:04:11,265
 Itu kan bener-bener kayak kita dipush
 2 hari untuk melakukan hal kepanitiaan
 
-72
-00:04:18,267 --> 00:04:18,987
+81
+00:04:11,300 --> 00:04:12,020
 Ya.
 
-73
-00:04:19,107 --> 00:04:23,852
+82
+00:04:12,140 --> 00:04:16,885
 Gue ngerasa, “Oke, gue
 kerjain ini, gue kerjain itu.”
 
-74
-00:04:23,887 --> 00:04:29,737
+83
+00:04:16,920 --> 00:04:22,770
 Tapi besoknya, pas kepanitiaan
 udah selesai, capek banget.
 
-75
-00:04:30,057 --> 00:04:33,022
+84
+00:04:23,090 --> 00:04:26,055
 Kita cuma bisa kayak, mungkin
 kayak rebahan aja udah gitu,
 
-76
-00:04:33,057 --> 00:04:34,897
+85
+00:04:26,090 --> 00:04:27,930
 Kasur, enak banget tiduran aja.
 
-77
-00:04:35,147 --> 00:04:37,197
+86
+00:04:28,180 --> 00:04:30,230
 Ya, kayak luntang-lantung aja.
 
-78
-00:04:38,117 --> 00:04:38,837
+87
+00:04:31,150 --> 00:04:31,870
 Oke.
 
-79
-00:04:39,467 --> 00:04:43,487
+88
+00:04:32,500 --> 00:04:36,520
 Kalau gue juga, pas lagi PKKMB.
 
-80
-00:04:43,637 --> 00:04:45,357
-Itu prokernya yang cukup hektik banget ya.
+89
+00:04:36,600 --> 00:04:38,650
+Itu prokernya cukup hectic banget, ya.
 
-81
-00:04:46,417 --> 00:04:49,417
+90
+00:04:39,450 --> 00:04:42,450
 Sebenarnya pas dua hari itu gue
 ngerasa ga terlalu capek-capek banget.
 
-82
-00:04:49,577 --> 00:04:52,622
+91
+00:04:42,610 --> 00:04:45,655
 Tapi pas besoknya, pas udah free,
-baru gue nge-rase capek banget.
+baru gue ngerasa capek banget.
 
-83
-00:04:52,657 --> 00:04:55,272
+92
+00:04:45,690 --> 00:04:48,305
 Mungkin adrenaline rush
 juga ya, karena gue...
 
-84
-00:04:55,307 --> 00:05:00,887
+93
+00:04:48,340 --> 00:04:53,920
 Gue ketua pelaksana juga, jadi kayak...
 
-85
-00:05:02,487 --> 00:05:04,607
+94
+00:04:55,520 --> 00:04:57,640
 Pressurenya malah lebih
 berat aja, menurut gue.
 
-86
-00:05:04,967 --> 00:05:08,387
+95
+00:04:58,000 --> 00:05:01,420
 Gue tuh dituntut untuk gak boleh capek lah.
 
-87
-00:05:09,387 --> 00:05:10,132
-Harus banget ya?
+96
+00:05:02,360 --> 00:05:03,210
+Harus semangat, ya.
 
-88
-00:05:10,167 --> 00:05:14,287
+97
+00:05:03,210 --> 00:05:07,320
 Hari Minggunya baru tepar aja.
 
-89
-00:05:18,227 --> 00:05:22,287
+98
+00:05:11,260 --> 00:05:15,320
 Kalau gue, misalnya
 dari PKKMB yang kemarin.
 
-90
-00:05:23,827 --> 00:05:25,767
-PKKmb itu capek ya jujur.
+99
+00:05:16,860 --> 00:05:18,800
+PKKMB itu capek ya jujur.
 
-91
-00:05:25,887 --> 00:05:27,192
-Kita ceritakan PKKMB.
+100
+00:05:18,860 --> 00:05:20,250
+Kita cerita tentang PKKMB.
 
-92
-00:05:27,227 --> 00:05:28,672
+101
+00:05:20,260 --> 00:05:21,705
 Tapi seru gak sih PKKMB?
 
-93
-00:05:28,707 --> 00:05:29,527
+102
+00:05:21,740 --> 00:05:22,560
 Seru banget.
 
-94
-00:05:30,367 --> 00:05:31,087
+103
+00:05:23,400 --> 00:05:24,120
 Jujur.
 
-95
-00:05:31,167 --> 00:05:34,272
+104
+00:05:24,200 --> 00:05:27,305
 Dari panitia sampai
 anak-anaknya interaktif banget.
 
-96
-00:05:34,307 --> 00:05:36,847
+105
+00:05:27,340 --> 00:05:29,880
 Oke, let's back to the topic.
 
-97
-00:05:37,167 --> 00:05:43,372
+106
+00:05:30,200 --> 00:05:36,405
 Kalau gue, kenapa bisa
 gak sadar waktu capek?
 
-98
-00:05:43,407 --> 00:05:46,307
+107
+00:05:36,440 --> 00:05:39,340
 Karena gue terlalu fokus ngerjain sesuatu.
 
-99
-00:05:46,357 --> 00:05:49,757
+108
+00:05:39,390 --> 00:05:42,790
 Ada tujuan yang harus gue selesain,
 ada sesuatu yang harus gua gapai.
 
-100
-00:05:49,857 --> 00:05:54,477
-Sehingga capenya tuh gak berasa tapi
-setelah menyelesaikan hal tersebut wah!
+109
+00:05:42,870 --> 00:05:45,450
+Jadi capeknya tuh gak berasa.
 
-101
-00:06:05,847 --> 00:06:07,117
-PKKMB juga.
+110
+00:05:45,450 --> 00:05:47,660
+Tapi setelah menyelesaikan hal tersebut...
 
-102
-00:06:07,967 --> 00:06:12,812
-Mungkin gue bahkan udah tepar duluan.
+111
+00:05:47,680 --> 00:05:51,800
+Wah, gue drop, lemes, gak gerak.
 
-103
-00:06:12,847 --> 00:06:13,567
+112
+00:05:53,680 --> 00:05:54,910
+Keren banget gitu, ya?
+
+113
+00:05:55,330 --> 00:05:56,310
+Keren dong, sih.
+
+114
+00:05:56,440 --> 00:05:57,150
+Iya, kan?
+
+115
+00:05:57,230 --> 00:06:00,010
+Kalau gue ke PKKMB juga.
+
+116
+00:06:00,930 --> 00:06:02,960
+Mungkin bahkan gue ngedrop.
+
+117
+00:06:02,960 --> 00:06:05,120
+Bahkan gue udah tepar
+sebelum PKKMB fakultas.
+
+118
+00:06:05,880 --> 00:06:06,600
 Iya.
 
-104
-00:06:17,617 --> 00:06:21,352
-Di situ gue ada kali tiga
-sampai empat hari gak tidur.
+119
+00:06:08,810 --> 00:06:10,560
+Dibawel, dibawel.
 
-105
-00:06:21,387 --> 00:06:24,242
+120
+00:06:10,620 --> 00:06:14,370
+Di situ gue ada kali 3 atau 4 hari
+gak tidur.
+
+121
+00:06:14,420 --> 00:06:17,275
 Bener-bener gak tidur.
 
-106
-00:06:24,277 --> 00:06:28,787
+122
+00:06:17,310 --> 00:06:21,820
 Mau gue berdiri atau duduk,
 gue bisa tiba-tiba ketiduran.
 
-107
-00:06:29,127 --> 00:06:30,507
-Terus sampai kayak apa?
+123
+00:06:22,100 --> 00:06:23,690
+Terus sampai kayak apa ya?
 
-108
-00:06:43,217 --> 00:06:45,677
-Nih, gue masih alasin
-lo, bahkan sebenarnya gak
+124
+00:06:24,680 --> 00:06:26,810
+Cuma gue gak ngerasa kayak gitu,
+gara-gara gue ngerasa kayak...
 
-109
-00:07:01,917 --> 00:07:07,832
+125
+00:06:26,810 --> 00:06:29,310
+“Ini perjalanan gue di PKKMB univ hari pertama.”
+
+126
+00:06:29,360 --> 00:06:31,220
+“Oh, masih ada besok,
+besok hari kedua.”
+
+127
+00:06:31,220 --> 00:06:32,510
+“Besoknya ada fakultas,”
+
+128
+00:06:32,510 --> 00:06:34,490
+“besokannya masih ada fakultas day two.”
+
+129
+00:06:34,520 --> 00:06:37,430
+Rasanya kayak, “Oh iya, gue masih bisa, nih.”
+
+130
+00:06:37,550 --> 00:06:40,780
+Alhasil, bahkan sebelum PKKMB fakultas
+udah tepar duluan.
+
+131
+00:06:41,180 --> 00:06:43,060
+“Kelihatan, kan?”
+
+132
+00:06:43,580 --> 00:06:44,580
+Gimana ya? Gitu.
+
+133
+00:06:54,950 --> 00:07:00,865
 Terus ada lagi. Perubahan kecil
 apa yang biasanya kalian sadari
 
-110
-00:07:07,867 --> 00:07:14,387
+134
+00:07:00,900 --> 00:07:07,420
 setelah beberapa waktu
 atau setelah kejadian tertentu?
 
-111
-00:07:14,547 --> 00:07:15,307
+135
+00:07:07,580 --> 00:07:08,340
 Gak kayak gitu?
 
-112
-00:07:15,427 --> 00:07:18,052
+136
+00:07:08,460 --> 00:07:11,085
 Perubahan Kecil Seperti capek maksudnya ya?
 
-113
-00:07:18,087 --> 00:07:21,847
+137
+00:07:11,120 --> 00:07:14,880
 Kayak capek Terus ada perubahan
 kecil dalam diri kita,
 
-114
-00:07:21,927 --> 00:07:23,087
+138
+00:07:14,960 --> 00:07:16,120
 Itu mungkin maksud nya gimana.
 
-115
-00:07:37,147 --> 00:07:38,427
+139
+00:07:18,960 --> 00:07:19,650
+Gimana?
+
+140
+00:07:19,660 --> 00:07:22,160
+Kayak perubahan mood.
+
+141
+00:07:22,640 --> 00:07:23,660
+Gue ngerti.
+
+142
+00:07:30,180 --> 00:07:31,460
 Gitu udah gak sih gini gitu?
 
-116
-00:07:38,667 --> 00:07:40,287
+143
+00:07:31,700 --> 00:07:33,320
 Oh salah satu contohnya gimana tuh?
 
-117
-00:07:40,927 --> 00:07:45,372
+144
+00:07:33,960 --> 00:07:38,405
 Kalau gue, kalau misalkan
 gue ya, kalau bener-bener
 
-118
-00:07:45,407 --> 00:07:47,432
+145
+00:07:38,440 --> 00:07:40,465
 Capek banget, itu perubahan gue
 
-119
-00:07:47,467 --> 00:07:50,087
+146
+00:07:40,500 --> 00:07:43,120
 Gue bener-bener kayak... diem!
 
-120
-00:07:51,677 --> 00:07:52,182
+147
+00:07:44,710 --> 00:07:45,215
 Iya kayak ngeri
 
-121
-00:07:52,217 --> 00:07:54,662
+148
+00:07:45,250 --> 00:07:47,695
 Kayak perlu isi energi dulu.
 
-122
-00:07:54,697 --> 00:07:57,262
+149
+00:07:47,730 --> 00:07:50,295
 Malu gimana? Iya kayak
 sabar dulu, sabar lu.
 
-123
-00:07:57,297 --> 00:07:58,217
+150
+00:07:50,330 --> 00:07:51,250
 Oh oke. Sabar dulu.
 
-124
-00:07:58,517 --> 00:08:01,817
+151
+00:07:51,550 --> 00:07:54,850
 Kayak kita butuh energi lagi kan
 untuk ngobrol sama seseorang,
 
-125
-00:08:01,897 --> 00:08:03,897
+152
+00:07:54,930 --> 00:07:56,930
 Jadi kayak, jadi padahal
 lu gue omel-omel ini.
 
-126
-00:08:04,097 --> 00:08:05,942
+153
+00:07:57,130 --> 00:07:58,975
 Dan ini kayak, dah diem
 dulu, tahan dulu deh,
 
-127
-00:08:05,977 --> 00:08:06,697
+154
+00:07:59,010 --> 00:07:59,730
 Tahan dulu deh.
 
-128
-00:08:07,217 --> 00:08:07,632
+155
+00:08:00,250 --> 00:08:00,665
 Kalau gue sih
 
-129
-00:08:07,667 --> 00:08:10,262
+156
+00:08:00,700 --> 00:08:03,295
 Gue sama banget sih kayak Fajar.
 
-130
-00:08:10,297 --> 00:08:12,297
+157
+00:08:03,330 --> 00:08:05,330
 Fajar kalau misalkan dulu
 aku ketemu banyak orang,
 
-131
-00:08:12,417 --> 00:08:13,977
+158
+00:08:05,450 --> 00:08:07,010
 Rasa tuh kayak capek banget gitu.
 
-132
-00:08:14,237 --> 00:08:17,782
+159
+00:08:07,270 --> 00:08:10,815
 Terus cara buat memperbaiki
 moodnya, ya gue... Diem dulu aja,
 
-133
-00:08:17,817 --> 00:08:18,857
+160
+00:08:10,850 --> 00:08:11,890
 Cari cartang energi gak sih?
 
-134
-00:08:19,167 --> 00:08:20,622
+161
+00:08:12,200 --> 00:08:13,655
 Iya, bener-bener cari energi.
 
-135
-00:08:20,657 --> 00:08:25,282
+162
+00:08:13,690 --> 00:08:18,315
 Dipanas-panas gitu siang, siang
 belum makan itu sih mutai berantakan
 
-136
-00:08:25,317 --> 00:08:28,297
+163
+00:08:18,350 --> 00:08:21,330
 Banget ya. Karena perubahan
 emang tuh gampang banget.
 
-137
-00:08:28,397 --> 00:08:29,117
+164
+00:08:21,430 --> 00:08:22,150
 Bener-bentar.
 
-138
-00:08:29,557 --> 00:08:32,157
+165
+00:08:22,590 --> 00:08:25,190
 Benar-benar. Gimana-gimana?
 
-139
-00:08:32,197 --> 00:08:32,917
+166
+00:08:25,230 --> 00:08:25,950
 Gue ya.
 
-140
-00:08:33,357 --> 00:08:34,637
+167
+00:08:26,390 --> 00:08:27,670
 Kalau ini makannya capai mulut ya?
 
-141
-00:08:36,167 --> 00:08:40,787
+168
+00:08:29,200 --> 00:08:33,820
 Biasanya kalau gue capek, lihat
 orang aja rasanya pengin gue makan.
 
-142
-00:08:40,857 --> 00:08:42,217
+169
+00:08:33,890 --> 00:08:35,250
 Ngeliat orang aja,
 
-143
-00:08:45,817 --> 00:08:47,697
+170
+00:08:38,850 --> 00:08:40,730
 Dia kayak bawel banget.
 
-144
-00:08:48,637 --> 00:08:50,932
+171
+00:08:41,670 --> 00:08:43,965
 Tapi biasanya kalau capek
 banget emang gue tidur.
 
-145
-00:08:50,967 --> 00:08:54,582
+172
+00:08:44,000 --> 00:08:47,615
 Soalnya habis bangun tidur
 rasanya kayak di-recharge.
 
-146
-00:08:54,617 --> 00:08:55,782
+173
+00:08:47,650 --> 00:08:48,815
 Interview kayak 3 charge.
 
-147
-00:08:55,817 --> 00:08:57,817
+174
+00:08:48,850 --> 00:08:50,850
 Oh iya, balik lagi ya?
 
-148
-00:08:57,917 --> 00:08:59,397
+175
+00:08:50,950 --> 00:08:52,430
 Iya iya. Bener-bener.
 
-149
-00:09:00,477 --> 00:09:04,662
+176
+00:08:53,510 --> 00:08:57,695
 Perubahan kecil yang gue rasain
 kalau gue lagi capek itu...
 
-150
-00:09:04,697 --> 00:09:07,237
+177
+00:08:57,730 --> 00:09:00,270
 Apa ya? BTnya parah sih.
 
-151
-00:09:07,657 --> 00:09:10,317
+178
+00:09:00,690 --> 00:09:03,350
 Cuman, jadi gue lebih
 diam sama kayak uji tadi.
 
-152
-00:09:10,477 --> 00:09:12,182
+179
+00:09:03,510 --> 00:09:05,215
 Terus rasanya orang-orang tuh, ini apaan?
 
-153
-00:09:12,217 --> 00:09:13,197
+180
+00:09:05,250 --> 00:09:06,230
 Swasik nih, orang itu.
 
-154
-00:09:21,467 --> 00:09:25,087
+181
+00:09:06,300 --> 00:09:08,240
+“Ini apaan? Kok gak asik?”
+
+182
+00:09:10,700 --> 00:09:14,490
+Sebenernya gak gitu. Emang lagi capek aja.
+
+183
+00:09:14,500 --> 00:09:18,120
 Gue jadi lebih pengin sendiri.
 
-155
-00:09:25,127 --> 00:09:27,407
+184
+00:09:18,160 --> 00:09:20,440
 Juga bahas nih di podcast
 sebelumnya nih, berhubungan dulu.
 
-156
-00:09:27,607 --> 00:09:28,327
+185
+00:09:20,640 --> 00:09:21,360
 Sebelum ini,
 
-157
-00:09:28,367 --> 00:09:38,187
+186
+00:09:21,400 --> 00:09:31,220
 Di episode sebelumnya gue juga
 bahas cara gue isi energi lagi.
 
-158
-00:09:38,967 --> 00:09:44,032
+187
+00:09:32,000 --> 00:09:37,065
 Gue punya dua cara isi energi:
 buat otak sama buat fisik.
 
-159
-00:09:44,067 --> 00:09:47,322
+188
+00:09:37,100 --> 00:09:40,355
 Kalau fisik, ya istirahat.
 
-160
-00:09:47,357 --> 00:09:49,482
+189
+00:09:40,390 --> 00:09:42,515
 Kalau fisik ya, hidup,
 risirkan, gimana-gimana.
 
-161
-00:09:49,517 --> 00:09:53,002
+190
+00:09:42,550 --> 00:09:46,035
 Cuma kalau otak ya, main
 game, nonton, duduk-duduk.
 
-162
-00:09:53,037 --> 00:09:53,877
+191
+00:09:46,070 --> 00:09:46,910
 Butuh hiburan ya?
 
-163
-00:09:54,037 --> 00:09:55,557
+192
+00:09:47,070 --> 00:09:48,590
 Hiburan, balik lagi.
 
-164
-00:09:55,857 --> 00:09:56,577
+193
+00:09:48,890 --> 00:09:49,610
 Betul.
 
-165
-00:09:56,877 --> 00:09:58,097
+194
+00:09:49,910 --> 00:09:51,130
 Kalau sendiri nih, butuh.
 
-166
-00:10:01,077 --> 00:10:01,797
+195
+00:09:54,110 --> 00:09:54,830
 Iya
 
-167
-00:10:06,617 --> 00:10:13,272
+196
+00:09:59,650 --> 00:10:06,305
 Kadang gue jadi bad mood
 sama diri gue sendiri.
 
-168
-00:10:13,307 --> 00:10:14,567
+197
+00:10:06,340 --> 00:10:07,600
 Kalau orang ngomong tuh masih salah,
 
-169
-00:10:15,147 --> 00:10:18,967
+198
+00:10:08,180 --> 00:10:12,000
 Kayak... Lu bisa ga sedium
 dulu, gue lagi capek deh.
 
-170
-00:10:19,107 --> 00:10:21,607
-Tapi itu hal diwajarin si Kola Muti ya?
+199
+00:10:13,230 --> 00:10:14,840
+Itu hal yang wajar, ya, Mut?
 
-171
-00:10:22,567 --> 00:10:23,607
+200
+00:10:15,500 --> 00:10:16,750
 Wajar, wajar.
 
-172
-00:10:32,713 --> 00:10:34,533
+201
+00:10:16,950 --> 00:10:17,960
+Tapi kalau lu kenapa?
+
+202
+00:10:18,560 --> 00:10:20,250
+Kalau lagi bete, cerita ke semua orang apa...?
+
+203
+00:10:25,747 --> 00:10:27,567
 Ya juga sih, kayak tergantung aja,
 
-173
-00:10:34,633 --> 00:10:40,038
+204
+00:10:27,667 --> 00:10:33,072
 Tergantung capeknya kenapa.
 Kalau gue, ngontrolnya sendiri.
 
-174
-00:10:40,073 --> 00:10:42,913
+205
+00:10:33,107 --> 00:10:35,947
 Factor kayak caranya, ya gue
 beli minuman favorit gue.
 
-175
-00:10:43,173 --> 00:10:44,213
+206
+00:10:36,207 --> 00:10:37,247
 Apa sih minuman favorite?
 
-176
-00:10:45,373 --> 00:10:48,073
+207
+00:10:38,407 --> 00:10:41,107
 Coba biar teman-teman tau
 nih, biar tomen-teman tau.
 
-177
-00:10:48,333 --> 00:10:50,133
-Itu loh ya, kalau orang-orang
-tuh gak enak kayak
+208
+00:10:41,167 --> 00:10:43,837
+Orang-orang bilang rasanya kayak rumput gitu, lho.
 
-178
-00:10:56,393 --> 00:10:58,333
+209
+00:10:49,427 --> 00:10:51,367
 Pasti belinya macam yang di IVB Kovie ya?
 
-179
-00:10:58,813 --> 00:11:00,233
-Kok? Iya itu juga ya.
-
-180
-00:11:00,313 --> 00:11:01,033
+210
+00:10:51,787 --> 00:10:52,267
 Kok?
 
-181
-00:11:11,753 --> 00:11:17,173
+211
+00:10:52,387 --> 00:10:53,267
+Iya, itu juga.
+
+212
+00:10:53,347 --> 00:10:54,067
+Kok?
+
+213
+00:11:04,787 --> 00:11:10,207
 Gue juga mau nanya, nih.
 
-182
-00:11:19,153 --> 00:11:23,508
+214
+00:11:12,187 --> 00:11:16,542
 Kapan kalian ngerasa perlu cerita?
 
-183
-00:11:23,543 --> 00:11:31,538
+215
+00:11:16,577 --> 00:11:24,572
 Pas lagi capek-capek banget, kapan
 rasanya pengin cerita ke orang?
 
-184
-00:11:31,573 --> 00:11:33,673
+216
+00:11:24,607 --> 00:11:26,707
 Bagusnya? Oke siapa dulu nih?
 
-185
-00:11:34,333 --> 00:11:35,853
+217
+00:11:27,367 --> 00:11:28,887
 Kinan dulu dong.
 
-186
-00:11:36,533 --> 00:11:41,953
+218
+00:11:29,567 --> 00:11:34,987
 Gue pengin cerita kalau udah mulai gelisah.
 
-187
-00:11:42,533 --> 00:11:43,253
+219
+00:11:35,567 --> 00:11:36,287
 Ngerasa gelisa.
 
-188
-00:11:43,413 --> 00:11:49,153
+220
+00:11:36,447 --> 00:11:42,187
 Kalau di otak udah numpuk, gue
 ngerasa, “Ini gue perlu cerita.”
 
-189
-00:11:49,293 --> 00:11:52,373
+221
+00:11:42,327 --> 00:11:45,407
 Tapi kalau misalkan, ya kalau
 biasanya kan gue cuma capek doang.
 
-190
-00:11:52,533 --> 00:11:55,313
+222
+00:11:45,567 --> 00:11:48,347
 Aduh capek gue malas nih
 gapapa-gapain, udah gue diem bisa.
 
-191
-00:11:55,373 --> 00:11:59,238
+223
+00:11:48,407 --> 00:11:52,272
 Cuma kalau misalnya kan, gue pengen
 cerita banget tuh kalau gue udah ngerasa
 
-192
-00:11:59,273 --> 00:11:59,993
+224
+00:11:52,307 --> 00:11:53,027
 Gelisah
 
-193
-00:12:09,673 --> 00:12:11,933
+225
+00:11:59,007 --> 00:12:02,067
+Coba, Mut. Gimana nih, Mut?
+
+226
+00:12:02,707 --> 00:12:04,967
 Ya mode. Gue bikin, gue bikin gue ya.
 
-194
-00:12:14,163 --> 00:12:17,118
+227
+00:12:07,197 --> 00:12:10,152
 Iya, kayak Kinan. Nunggu numpuk dulu.
 
-195
-00:12:17,153 --> 00:12:18,348
+228
+00:12:10,187 --> 00:12:11,382
 Kayak... Kayak
 
-196
-00:12:18,383 --> 00:12:23,068
+229
+00:12:11,417 --> 00:12:16,102
 Paling jauh, gue ceritanya
 sama mamah gue sih.
 
-197
-00:12:23,103 --> 00:12:24,643
+230
+00:12:16,137 --> 00:12:17,677
 Lain, lain-lain.
 
-198
-00:12:35,033 --> 00:12:36,473
+231
+00:12:28,067 --> 00:12:29,507
 Boleh, boleh, boleh.
 
-199
-00:12:38,073 --> 00:12:39,098
+232
+00:12:31,107 --> 00:12:32,132
 Coba, Fajar
 
-200
-00:12:39,133 --> 00:12:45,143
+233
+00:12:32,167 --> 00:12:38,177
 Jujur, gue orangnya gak
 terlalu suka cerita ke orang.
 
-201
-00:12:45,803 --> 00:12:49,008
+234
+00:12:38,837 --> 00:12:42,042
 Apapun itu masalahnya,
 walaupun hal sekecil apapun,
 
-202
-00:12:49,043 --> 00:12:52,463
+235
+00:12:42,077 --> 00:12:45,497
 Hal sebesar apapuna kayak...
 Jaranglah gua cerita ke orang.
 
-203
-00:12:53,203 --> 00:12:57,363
+236
+00:12:46,237 --> 00:12:50,397
 Mungkin kalau misalkan, gua ngerasa
 bener-bener nyaman sama orang gitu.
 
-204
-00:12:58,083 --> 00:12:59,183
+237
+00:12:51,117 --> 00:12:52,217
 Sekarang ada ga mungkin?
 
-205
-00:12:59,743 --> 00:13:00,463
+238
+00:12:52,777 --> 00:12:53,497
 Aduh,
 
-206
-00:13:05,203 --> 00:13:07,143
-Mungkin kalau misalken cerita di orang
+239
+00:12:58,237 --> 00:13:00,177
+Mungkin kalau misalkan cerita di orang
 
-207
-00:13:07,733 --> 00:13:13,698
+240
+00:13:00,767 --> 00:13:06,732
 Kalau gue udah bener-bener percaya
 sama orang itu, baru gue cerita.
 
-208
-00:13:13,733 --> 00:13:14,513
+241
+00:13:06,767 --> 00:13:07,547
 Usah dibahasin gitu.
 
-209
-00:13:24,773 --> 00:13:29,058
+242
+00:13:17,807 --> 00:13:22,092
 Cerita pada saat otak lagi numpuk-numpuknya
 tuh kayak ada hal-hal yang kayak
 
-210
-00:13:29,093 --> 00:13:32,713
+243
+00:13:22,127 --> 00:13:25,747
 Mis ya, kayak terlalu
 di umbar-umbarkan banget juga sih.
 
-211
-00:13:32,793 --> 00:13:34,458
+244
+00:13:25,827 --> 00:13:27,492
 Jadi gua lebih baik kayak...
 
-212
-00:13:34,493 --> 00:13:39,698
+245
+00:13:27,527 --> 00:13:32,732
 Gue saring dulu, tenangin diri.
 Baru gue cerita ke seseorang.
 
-213
-00:13:39,733 --> 00:13:40,733
+246
+00:13:32,767 --> 00:13:33,767
 Omongin ya? Betul.
 
-214
-00:13:42,443 --> 00:13:43,303
+247
+00:13:35,477 --> 00:13:36,337
 Kalau dari Cero?
 
-215
-00:13:43,543 --> 00:13:44,383
+248
+00:13:36,577 --> 00:13:37,417
 Ya, Cero sih.
 
-216
-00:13:45,343 --> 00:13:46,083
+249
+00:13:38,377 --> 00:13:39,117
 Masa lu
 
-217
-00:13:53,383 --> 00:13:55,308
+250
+00:13:40,487 --> 00:13:41,837
+Gue mau tahu nih, cerita lo gimana.
+
+251
+00:13:42,407 --> 00:13:43,817
+Kalau gue sama kayak Fajar.
+
+252
+00:13:44,067 --> 00:13:46,387
+Maksudnya, gue orang yang jarang cerita.
+
+253
+00:13:46,417 --> 00:13:48,342
 Bukan gak pernah sih jarang banget cerita.
 
-218
-00:13:55,343 --> 00:13:59,943
+254
+00:13:48,377 --> 00:13:52,977
 Iya kan? Iya karena, menurut gue tuh
 gue lebih suka mending semuanya sendiri,
 
-219
-00:14:00,183 --> 00:14:02,463
+255
+00:13:53,217 --> 00:13:55,497
 Nanti kalau emang misalkan
 udah bener-bener cap.
 
-220
-00:14:02,593 --> 00:14:09,153
+256
+00:13:55,627 --> 00:14:02,187
 Ada teman baik gue dari SMA.
 Gue bisa cerita ke dia.
