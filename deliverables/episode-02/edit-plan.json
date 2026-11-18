@@ -1,0 +1,88 @@
+{
+  "1": {
+    "hook": [
+      152.97,
+      161.23
+    ],
+    "title_frame": 213.4,
+    "closing_frame": 99,
+    "next_title": "Gimana menghadapi ekspektasi dan takut tertinggal?",
+    "spans": [
+      [
+        4.93,
+        219.0
+      ],
+      [
+        219.0,
+        411.8,
+        [
+          4.7,
+          "SAAT CAPEK BARU TERASA"
+        ]
+      ],
+      [
+        411.8,
+        622.8,
+        [
+          0.3,
+          "TANDA KECIL YANG MULAI TERASA"
+        ]
+      ],
+      [
+        622.8,
+        848.93
+      ]
+    ]
+  },
+  "2": {
+    "hook": [
+      158.13,
+      161.23
+    ],
+    "title_frame": 871.1,
+    "closing_frame": 1883.1,
+    "next_title": "@bemftiusakti",
+    "spans": [
+      [
+        848.93,
+        1097.85,
+        [
+          1.25,
+          "EKSPEKTASI DAN TAKUT TERTINGGAL"
+        ]
+      ],
+      [
+        1097.85,
+        1270.0,
+        [
+          10.5,
+          "BERSYUKUR DI TENGAH CAPEK"
+        ]
+      ],
+      [
+        1270.0,
+        1489.59,
+        [
+          92.15,
+          "SAAT TEMAN LAGI CAPEK"
+        ]
+      ],
+      [
+        1489.59,
+        1628.1
+      ],
+      [
+        1628.1,
+        1703.79,
+        [
+          28.15,
+          "PESAN BUAT DIRI SENDIRI"
+        ]
+      ],
+      [
+        1703.79,
+        1883.1
+      ]
+    ]
+  }
+}

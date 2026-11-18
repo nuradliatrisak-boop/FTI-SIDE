@@ -1,0 +1,11 @@
+{
+  "video": "FTI-SIDE-EP02-PART-1.mp4",
+  "duration_seconds": 864.4,
+  "frames": 25933,
+  "bytes": 564335000,
+  "sha256": "9a537224029b1b5ae8759b3eb57cb64203a091dc321ca32979a2e87d7659d8db",
+  "subtitle_cues": 220,
+  "audio_integrated_lufs": -15.2,
+  "audio_true_peak_dbtp": -1.0,
+  "full_decode": "pass"
+}
